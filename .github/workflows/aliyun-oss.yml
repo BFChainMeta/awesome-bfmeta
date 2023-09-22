@@ -20,3 +20,53 @@ jobs:
           # OSS访问域名
           endpoint: ${{ secrets.ENDPOINT }}
           folder: src
+# A quick template to deploy static files to Aliyun (Alibaba Cloud) OSS with
+# YangHanlin/oss-deployment-action
+
+# # Name of the workflow; change to anything if you like
+# name: Deploy to OSS
+
+# # Controls when the action will run.
+# on:
+#   # Triggers the workflow on push events but only for the main branch
+#   push:
+#     branches: [ main ]
+
+#   # Allows you to run this workflow manually from the Actions tab
+#   workflow_dispatch:
+
+# # A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# jobs:
+#   # This workflow contains a single job called "deploy"
+#   deploy:
+#     # The type of runner that the job will run on
+#     runs-on: ubuntu-latest
+#     environment: aliyunoss
+#     # Steps represent a sequence of tasks that will be executed as part of the job
+#     steps:
+#       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+#       - name: Check out repository
+#         uses: actions/checkout@v3
+
+#       # Deploys specified files to OSS
+#       # The following configuration covers basic usage of the action; for more details, please
+#       # refer to <https://github.com/YangHanlin/oss-deployment-action#readme>.
+#       - uses: YangHanlin/oss-deployment-action@v1
+#         with:
+#           # Replace <REGION> with actual region of the bucket, e.g. oss-cn-hangzhou
+#           oss-endpoint: ${{ secrets.ENDPOINT }}
+#           # It is recommended to set the credentials as GitHub Action secrets
+#           oss-accesskey-id: ${{ secrets.ACCESS_KEY_ID }}
+#           oss-accesskey-secret: ${{ secrets.ACCESS_KEY_SECRET }}
+#           # Uncomment the following line only if STS is used
+#           # oss-sts-token: ${{ secrets.OSS_STS_TOKEN }}used only when STS is used
+#           # Replace <BUCKET> and <PATH> with actual bucket name and path
+#           oss-path: oss://dweb-browser-apps/assets
+#           # Uncomment the following line if you want to specify the path to deploy files from
+#           # local-path: '.' # deploys files from the current working directory by default
+#           # Uncomment the following line if you want to ignore files in deployment
+#           # ignored-patterns: '.git' # ignores files in `.git` by default; patterns should be
+#           # separated by spaces
+#           # Uncomment the following line to delete all files under `oss-path` before deployment
+#           # delete-first: true
+#           # debug: ${{ secrets.ACTIONS_STEP_DEBUG }}
