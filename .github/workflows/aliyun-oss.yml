@@ -63,7 +63,7 @@ jobs:
           # Replace <BUCKET> and <PATH> with actual bucket name and path
           oss-path: oss://dweb-browser-apps/dweb-app-assets
           # Uncomment the following line if you want to specify the path to deploy files from
-          local-path: 'dweb-app-assets' # deploys files from the current working directory by default
+          local-path: 'src/dweb-app-assets/' # deploys files from the current working directory by default
           # Uncomment the following line if you want to ignore files in deployment
           # ignored-patterns: '.git' # ignores files in `.git` by default; patterns should be
           # separated by spaces
