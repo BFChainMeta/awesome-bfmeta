@@ -68,5 +68,5 @@ jobs:
           # ignored-patterns: '.git' # ignores files in `.git` by default; patterns should be
           # separated by spaces
           # Uncomment the following line to delete all files under `oss-path` before deployment
-          # delete-first: true
+          delete-first: true
           # debug: ${{ secrets.ACTIONS_STEP_DEBUG }}
