@@ -10,13 +10,13 @@
   "short_name": "BTCSwap Test",
   "description": "BTCSwap是您数字资产交易好帮手，无论何时何地都为您提供安全、便捷和高效的去中心化交易体验。\n去中心化：BTCSwap允许您直接与其他用户交易，无需信任中间方。\n多链支持：支持各主流币种以及生物链下各权益间的便捷交易体验。\n高流动性：BTCSwap提供了广泛的数字资产市场，确保您的订单能够迅速匹配。\n安全保障：采用先进的加密技术，保护您的数字资产安全。\n用户友好：直观的界面，使您轻松管理和交易您的数字资产。",
   "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/logo.svg",
-  "bundle_url": "./alphabtcmetaswap.com.dweb-1.20231027.3.zip",
-  "bundle_hash": "sha256:9c6748a81548c0e63c983d40e708e7c2bf6d477935c87473442aab5a136a5e70",
-  "bundle_size": 19977441,
+  "bundle_url": "./alphabtcmetaswap.com.dweb-1.2023112.3.zip",
+  "bundle_hash": "sha256:2e415238c05c5fd588a0531eb1934e5ee7bb991e3ab368d7aca306d0dbfaa86a",
+  "bundle_size": 19981840,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Fri Oct 27 2023 19:28:31 GMT+0800 (中国标准时间)",
-  "change_log": "BTCSwap内测上线！为您打造了安全、简易、低手续费的去中心化数字资产交易平台。开始您的数字资产旅程，立即加入我们的行列！\n安全性：为用户提供高级别的安全保障。\n友好性：简单界面，轻松完成交易。\n低费率：最低交易费用，降低用户成本。",
+  "release_date": "Thu Nov 02 2023 16:47:39 GMT+0800 (中国标准时间)",
+  "change_log": "修复若干bug",
   "images": [
     "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/desc_01.jpg",
     "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/desc_02.jpg",
@@ -26,7 +26,7 @@
   "author": [
     "@btcmetaswap"
   ],
-  "version": "1.20231027.3",
+  "version": "1.2023112.3",
   "categories": [
     "application"
   ],
@@ -40,7 +40,11 @@
   "permissions": [],
   "dir": "ltr",
   "lang": "",
-  "icons": [],
+  "icons": [
+    {
+      "src": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/logo.svg"
+    }
+  ],
   "screenshots": [],
   "display": "fullscreen",
   "orientation": "any",
