@@ -6,17 +6,17 @@
   },
   "minTarget": 1,
   "maxTarget": 1,
-  "name": "Eth Meta",
-  "short_name": "Eth Meta",
+  "name": "ETH Meta",
+  "short_name": "ETH Meta",
   "description": "ETHMeta是基于BFMeta底层区块链架构开发的公有链，旨在帮助以太坊各方面性能升级。\n⭐ 无时间地域限制，安全&轻松转账加密货币\n立即享受全球范围内的加密货币交易！无论您是发送还是接收，只需轻轻点击按钮，即可轻松完成超过1000+种受支持的区块链资产。您的全球数字资产管理工具，现已上线！\n⭐ 升级以太坊，无缝桥接ETHMeta\n一键实现以太坊的元宇宙升级，更丝滑体验元宇宙链上交易\n⭐ 多种兑换模式，灵活切换\n拥有卓越的交易功能，提供精准的K线图表，支持9+主流公链，轻松实现一键跨链，确保交易体验的顺畅和高效。\n⭐ 全方位安全保护技术\n支持12/15/18/21/24/36位中文/英文/繁体中文助记词进行备份和恢复；\n设置8位钱包密码，并通过指纹进行身份验证，我们可以为您提供二次保护；\nBFMeta/PayMetaChain/BFChainV2/ETHMeta/BFChain/CCChain网络支持设置链上交易密码，资产双重加密保障；\n私钥经过加密并安全存储在您的手机本地，并提供多种私钥备份选项以确保它们不丢失。\n⭐ 支持最流行的加密钱包：\n以太坊 ETH\n币安 BSN\n波场 TRX\nBFMeta BFM\nETHMeta ETHM\nPayMetachain PMC\nCCChain CCC\nBFChainV2 BFT\nBFChain BFT\n下载 ETH Meta 以获得元宇宙加密货币钱包体验。",
   "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/ethmeta/logo.svg",
-  "bundle_url": "./eth-metaverse.com.dweb-1.4.3-2.zip",
-  "bundle_hash": "sha256:a6ea9aa8ca97dad93d813cb6cadfb28d376c15d5431f0127b9aeb6fd7233e68f",
-  "bundle_size": 22055326,
+  "bundle_url": "./eth-metaverse.com.dweb-1.5.0.zip",
+  "bundle_hash": "sha256:23663862f8997a6c5b21a906d1a529fe69e1a05619ac4770330f91b57267dcbd",
+  "bundle_size": 22569746,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Fri Oct 20 2023 22:07:52 GMT+0800 (中国标准时间)",
-  "change_log": "版本 1.4.3\n支持BTCMeta主网钱包创建和交易",
+  "release_date": "Thu Nov 16 2023 19:02:17 GMT+0800 (中国标准时间)",
+  "change_log": "\n1.原ETHM邀请奖励支持领取；\n2.一键传送功能先导预告发布；\n3.Dweb版本支持应用授权连接。",
   "images": [
     "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/ethmeta/desc_01.jpg",
     "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/ethmeta/desc_02.jpg",
@@ -25,10 +25,9 @@
     "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/ethmeta/desc_05.jpg"
   ],
   "author": [
-    "@ETHMeta",
-    "@eth-metaverse.com"
+    "eth-metaverse.com"
   ],
-  "version": "1.4.3",
+  "version": "1.5.0",
   "categories": [
     "application"
   ],
@@ -42,7 +41,11 @@
   "permissions": [],
   "dir": "ltr",
   "lang": "",
-  "icons": [],
+  "icons": [
+    {
+      "src": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/ethmeta/logo.svg"
+    }
+  ],
   "screenshots": [],
   "display": "fullscreen",
   "orientation": "any",
