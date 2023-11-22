@@ -10,12 +10,12 @@
   "short_name": "Plus Meta Test",
   "description": "PlusMeta是基于MetaBox钱包底层区块链架构开发的理财产品，旨在为大家创造更多价值。\n⭐ 无时间地域限制，安全理财加密货币\n立即享受全球范围内的加密货币理财！您的全球数字资产理财专家，现已上线！\n⭐ PlusMeta与MateBox钱包无缝桥接\n一键实现钱包与理财应用的关联，无需额外创建钱包。也可在应用内创建新地址，实现与钱包无缝衔接。\n⭐ 全方位安全保护技术\n支持12/15/18/21/24/36位中文/英文/繁体中文助记词进行备份和恢复；\n设置8位钱包密码，并通过指纹进行身份验证，我们可以为您提供二次保护；\nBFMeta/PayMetaChain/BFChainV2/ETHMeta/BFChain/CCChain网络支持设置链上交易密码，资产双重加密保障；\n私钥经过加密并安全存储在您的手机本地，并提供多种私钥备份选项以确保它们不丢失。\n⭐ 支持最流行的加密钱包：\n以太坊 ETH\n币安 BSN\n波场 TRX\nBFMeta BFM\nETHMeta ETHM\nPayMetachain PMC\nCCChain CCC\nBFChainV2 BFT\nBFChain BFT\n下载 PlusMeta 以获得元宇宙加密货币钱包体验。",
   "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/plusmeta/logo.svg",
-  "bundle_url": "./alphaplus-meta.com.dweb-1.20231122.0.zip",
-  "bundle_hash": "sha256:6b4cece000905001b22b2999a72b5050544bbadc51f5328c49e63c21d1e3c2cf",
+  "bundle_url": "./alphaplus-meta.com.dweb-1.20231122.1.zip",
+  "bundle_hash": "sha256:13af08a6c7104d0f56968b043a83efdcf99b03bf5f66f60f65c2c3627e5dea65",
   "bundle_size": 14972670,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Wed Nov 22 2023 15:02:39 GMT+0800 (中国标准时间)",
+  "release_date": "Wed Nov 22 2023 15:23:58 GMT+0800 (中国标准时间)",
   "change_log": "发布PlusMeta应用，可选择活期、定期两种理财方式。",
   "images": [
     "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/plusmeta/desc_01.jpg",
@@ -27,7 +27,7 @@
     "@PlusMeta",
     "@plus-meta.com"
   ],
-  "version": "1.20231122.0",
+  "version": "1.20231122.1",
   "categories": [
     "application"
   ],
