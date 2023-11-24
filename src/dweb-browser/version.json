@@ -1,0 +1,39 @@
+{
+    "android": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-browser/Dweb_Browser_v2.231117.3.apk",
+    "version": "2.231117.3",
+    "market": {
+        "huawei": {
+            "version": "2.231117.3"
+        },
+        "tencent": {
+            "version": "2.231117.3"
+        },
+        "xiaomi": {
+            "version": "2.231117.3"
+        },
+        "alibaba": {
+            "version": "2.231117.3"
+        },
+        "oppo": {
+            "version": "2.231117.3"
+        },
+        "baidu": {
+            "version": "2.231117.3"
+        },
+        "vivo": {
+            "version": "2.231117.3"
+        },
+        "360": {
+            "version": "2.231117.3"
+        },
+        "samsung": {
+            "version": "2.231117.3"
+        },
+        "google": {
+            "version": "2.231117.3"
+        },
+        "apple": {
+            "version": "2.231117.3"
+        }
+    }
+}
