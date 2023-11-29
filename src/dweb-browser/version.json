@@ -1,6 +1,6 @@
 {
-    "android": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-browser/Dweb_Browser_v2.231117.3.apk",
-    "version": "2.231117.3",
+    "android": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-browser/DwebBrowser_v2_231128_1.apk",
+    "version": "2.231128.1",
     "market": {
         "huawei": {
             "version": "2.231117.3"
@@ -9,7 +9,7 @@
             "version": "2.231117.3"
         },
         "xiaomi": {
-            "version": "2.231117.3"
+            "version": "2.231128.1"
         },
         "alibaba": {
             "version": "2.231117.3"
