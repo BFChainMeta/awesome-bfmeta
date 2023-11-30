@@ -9,7 +9,7 @@
   "name": "BTCSwap",
   "short_name": "BTCSwap",
   "description": "BTCSwap是您数字资产交易好帮手，无论何时何地都为您提供安全、便捷和高效的去中心化交易体验。\n去中心化：BTCSwap允许您直接与其他用户交易，无需信任中间方。\n多链支持：支持各主流币种以及生物链下各权益间的便捷交易体验。\n高流动性：BTCSwap提供了广泛的数字资产市场，确保您的订单能够迅速匹配。\n安全保障：采用先进的加密技术，保护您的数字资产安全。\n用户友好：直观的界面，使您轻松管理和交易您的数字资产。",
-  "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/logo.svg",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/logo.svg",
   "bundle_url": "./btcmetaswap.com.dweb-1.1.7.zip",
   "bundle_hash": "sha256:ad21a86f8b793977c40917af36789d6fb5873a00d9540a4be4965e966c9bf45c",
   "bundle_size": 20015232,
@@ -18,10 +18,10 @@
   "release_date": "Thu Nov 16 2023 18:01:18 GMT+0800 (中国标准时间)",
   "change_log": "1.支持了MetaBox与ETHMeta的钱包连接授权功能；\n2.修改了行情涨幅数据算法；\n3.修复了相关BUG。",
   "images": [
-    "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/desc_01.jpg",
-    "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/desc_02.jpg",
-    "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/desc_03.jpg",
-    "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/desc_04.jpg"
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_04.jpg"
   ],
   "author": [
     "@btcmetaswap"
@@ -42,7 +42,7 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/btcswap/logo.svg"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/logo.svg"
     }
   ],
   "screenshots": [],
