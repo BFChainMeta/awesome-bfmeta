@@ -1,0 +1,56 @@
+{
+  "id": "pmchainbox.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 1,
+  "maxTarget": 1,
+  "name": "Meta Box",
+  "short_name": "Meta Box",
+  "description": "元宇宙支付的未来就在这里。\nMeta Box 通过消除跨境贸易壁垒正在彻底改变全球商业。 在区块链技术的支持下，我们为个人和企业在世界任何地方发送和接收资金提供了一种快速、安全且经济高效的方式。\nMeta Box 也是为 Web3 的去中心化世界和新兴的元宇宙经济而构建的。 我们帮助用户实现虚拟世界和现实世界之间的无缝交易，使用户能够轻松地跨多个区块链网络买卖数字资产、商品和服务。\n⭐ 全方位安全保护技术\n支持12/15/18/21/24/36位中文/英文/繁体中文助记词进行备份和恢复；\n设置8位钱包密码，并通过指纹进行身份验证，我们可以为您提供二次保护；\nBFMeta/PayMetaChain/BFChainV2/ETHMeta/BFChain/CCChain网络支持设置链上交易密码，资产双重加密保障；\n私钥经过加密并安全存储在您的手机本地，并提供多种私钥备份选项以确保它们不丢失。\n⭐ 便于使用\n实时发送或接收ETH/PMC/BSN/BFM/TRON/CCC/BFT等8+条主流公链上超过1000+加密货币；\n随时随地向任何人付款；\n通过加速交易，轻松解决因网络拥塞等问题引起的转账困扰，确保交易过程更为顺畅；\n支持英语、中文、繁体中文\n⭐ 在PayMetaChain链锻造PMC和USDM\n使用应用程序内的锻造功能，只需点击几下即可轻松锻造PayMetaChain链的PMC和USDM代币。\n⭐ 支持最流行的加密货币网络：\n以太坊 ETH\n币安 BSN\n波场 TRX\nBFMeta BFM\nPayMetachain PMC\nCCChain CCC\nBFChainV2 BFT\nBFChain BFT\n下载 Meta Box 以获得元宇宙加密货币支付钱包体验。",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metabox/logo.svg",
+  "bundle_url": "./pmchainbox.com.dweb-1.2.200.zip",
+  "bundle_hash": "sha256:8406997389f9b22f50e9ad7a9287a945965c9cee0437c4332f8e32c33d431c0e",
+  "bundle_size": 21364577,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Mon Dec 04 2023 19:22:50 GMT+0800 (中国标准时间)",
+  "change_log": "支持BTCMeta和ETHMeta网络的USDM锻造和赎回。",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metabox/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metabox/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metabox/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metabox/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metabox/desc_05.jpg"
+  ],
+  "author": [
+    "@Meta Box",
+    "@pmchainbox.com"
+  ],
+  "version": "1.2.200",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "home": "https://www.pmchainbox.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metabox/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": []
+}
