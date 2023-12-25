@@ -1,36 +1,36 @@
 {
-    "android": "https://source.dwebdapp.com/dweb-browser-apps/dweb-browser/DwebBrowser_v2_231128_1.apk",
-    "version": "2.231128.1",
+    "android": "https://source.dwebdapp.com/dweb-browser-apps/dweb-browser/DwebBrowser_v2_231222_0.apk",
+    "version": "2.231222.0",
     "market": {
         "huawei": {
             "version": "2.231117.3"
         },
         "tencent": {
-            "version": "2.231128.1"
+            "version": "2.231222.0"
         },
         "xiaomi": {
-            "version": "2.231128.1"
+            "version": "2.231222.0"
         },
         "alibaba": {
             "version": "2.231128.1"
         },
         "oppo": {
-            "version": "2.231128.1"
+            "version": "2.231222.0"
         },
         "baidu": {
             "version": "2.231128.1"
         },
         "vivo": {
-            "version": "2.231128.1"
+            "version": "2.231222.0"
         },
         "360": {
-            "version": "2.231128.1"
+            "version": "2.231222.0"
         },
         "samsung": {
             "version": "2.231128.1"
         },
         "google": {
-            "version": "2.231128.1"
+            "version": "2.231222.0"
         },
         "apple": {
             "version": "2.231221.1"
