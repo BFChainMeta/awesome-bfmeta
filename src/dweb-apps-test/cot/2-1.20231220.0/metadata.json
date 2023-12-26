@@ -10,12 +10,12 @@
   "short_name": "COT Test",
   "description": "COT是一款易用的数字钱包，为您提供了安全、便捷的数字资产管理体验。无论您是以太坊、波场或其他数字货币的用户，COT都能满足您的需求。\n特点：\n安全可靠：COT采用先进的加密技术，确保您的资产始终安全。\n多链支持：支持多种主要区块链，包括以太坊、波场，币安链等。\n轻松转账：一键转账，随时随地管理您的数字资产。\n多语言支持：多语言界面，满足不同语言用户需求。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.svg",
-  "bundle_url": "./alphabfmeta.info.dweb-1.20231225.1.zip",
-  "bundle_hash": "sha256:c5eaf7d4b034e53ad040aaca7affeef1dfc55ae118971aa2a699c50917493805",
-  "bundle_size": 28558253,
+  "bundle_url": "./alphabfmeta.info.dweb-1.20231226.0.zip",
+  "bundle_hash": "sha256:0ae71f396baabc2459e35f3c7160e29bcf5a7c7a9769cfb0ebb30ef302b78adb",
+  "bundle_size": 28557959,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Mon Dec 25 2023 17:02:12 GMT+0800 (中国标准时间)",
+  "release_date": "Tue Dec 26 2023 10:27:49 GMT+0800 (中国标准时间)",
   "change_log": "1. 新增了BTCMeta链，并支持其转账收款等功能；\n2.修复了相关BUG。",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_01.jpg",
@@ -26,7 +26,7 @@
   "author": [
     "@bfmeta.info"
   ],
-  "version": "1.20231225.1",
+  "version": "1.20231226.0",
   "categories": [
     "application"
   ],
