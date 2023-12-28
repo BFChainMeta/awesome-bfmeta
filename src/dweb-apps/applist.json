@@ -1,0 +1,64 @@
+{
+    "base_config": {
+        "base_url": "https://source.dwebdapp.com/dweb-browser-apps",
+        "assets_path": "/dweb-app-assets",
+        "app_test_path": "/dweb-apps-test",
+        "app_prod_path": "/dweb-apps"
+    },
+    "applist": {
+        "ethmeta": {
+            "name": "ETHMeta",
+            "logo": "/ethmeta/logo.svg",
+            "description": "ETHMeta应用",
+            "metadata": "/ethmeta/metadata.json",
+            "dwebTarget1":"1-1.5.1",
+            "dwebTarget2":"2-1.5.1",
+            "latest":"1-1.5.1"
+        },
+        "btcmeta": {
+            "name": "BTCMeta",
+            "logo": "/btcmeta/logo.svg",
+            "description": "BTCMeta应用",
+            "metadata": "/btcmeta/metadata.json",
+            "dwebTarget1":"1-1.2.7",
+            "dwebTarget2":"2-1.2.7",
+            "latest":"1-1.2.7"
+        },
+        "plusmeta": {
+            "name": "PlusMeta",
+            "logo": "/plusmeta/logo.svg",
+            "description": "PlusMeta应用",
+            "metadata": "/plusmeta/metadata.json",
+            "dwebTarget1":"1-2.0.0",
+            "dwebTarget2":"2-2.0.0",
+            "latest":"1-2.0.0"
+        },
+        "cot": {
+            "name": "COT",
+            "logo": "/cot/logo.svg",
+            "description": "COT应用",
+            "metadata": "/cot/metadata.json",
+            "dwebTarget1":"1-3.0.1",
+            "dwebTarget2":"2-3.0.1",
+            "latest":"1-3.0.1"
+        },
+        "metabox": {
+            "name": "MetaBox",
+            "logo": "/metabox/logo.svg",
+            "description": "MetaBox应用",
+            "metadata": "/metabox/metadata.json",
+            "dwebTarget1":"1-1.2.200",
+            "dwebTarget2":"2-1.2.200",
+            "latest":"1-1.2.200"
+        },
+        "btcswap": {
+            "name": "BTCSwap",
+            "logo": "/btcswap/logo.svg",
+            "description": "BTCSwap应用",
+            "metadata": "/btcswap/metadata.json",
+            "dwebTarget1":"1-1.2.0",
+            "dwebTarget2":"2-1.2.0",
+            "latest":"1-1.2.0"
+        }
+    }
+}
