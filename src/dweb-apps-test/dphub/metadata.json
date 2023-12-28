@@ -1,0 +1,50 @@
+{
+  "id": "alphahub.cosmicdp.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 1,
+  "maxTarget": 1,
+  "name": "dp-hub",
+  "short_name": "DP HUB",
+  "description": "This is a sample application that includes instances of all dweb_plugins components.",
+  "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg",
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.0.0.zip",
+  "bundle_hash": "sha256:89defe588ed02fef0eb20b0cfb226dacc07c01c788336c1be33ca9f4f73a9d43",
+  "bundle_size": 1508496,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu Dec 28 2023 20:46:35 GMT+0800 (中国标准时间)",
+  "change_log": "",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_05.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_06.jpg"
+  ],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "1.0.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [],
+  "home": "https://hub.cosmicdp.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "new_feature": "Added a new feature of shooting bubbles with a single click!"
+}
