@@ -35,7 +35,7 @@
         },
         "cot": {
             "name": "COT",
-            "logo": "/cot/logo.svg",
+            "logo": "/cot/logo.jpg",
             "description": "COT应用",
             "metadata": "/cot/metadata.json",
             "dwebTarget1":"1-3.0.1",
