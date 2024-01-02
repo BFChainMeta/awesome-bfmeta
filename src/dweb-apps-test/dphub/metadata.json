@@ -10,7 +10,7 @@
   "short_name": "DP HUB",
   "description": "This is a sample application that includes instances of all dweb_plugins components.",
   "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20231230.1.zip",
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240102.0.zip",
   "bundle_hash": "sha256:7a230385175c04c6f1272e8063cc32f50a82b7d3ef0f8ccadae18611bba34ad0",
   "bundle_size": 1510527,
   "bundle_signature": "",
@@ -29,7 +29,7 @@
     "bfs",
     "bfs@bfs.com"
   ],
-  "version": "1.20231230.1",
+  "version": "1.20240102.0",
   "categories": [
     "application"
   ],
