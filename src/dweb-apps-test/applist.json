@@ -12,8 +12,8 @@
             "description": "ETHMeta应用",
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1":"1-1.20231204.5",
-            "dwebTarget2":"2-1.20231220.1",
-            "latest":"2-1.20231220.1"
+            "dwebTarget2":"2-1.20240103.0",
+            "latest":"2-1.20240103.0"
         },
         "btcmeta": {
             "name": "BTCMeta",
