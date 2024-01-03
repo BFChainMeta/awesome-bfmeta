@@ -4,18 +4,18 @@
     "root": "/usr",
     "entry": "/server/plaoc.server.js"
   },
-  "minTarget": 1,
-  "maxTarget": 1,
+  "minTarget": 2,
+  "maxTarget": 2,
   "name": "plusmeta",
   "short_name": "Plus Meta",
   "description": "PlusMeta是基于MetaBox钱包底层区块链架构开发的理财产品，旨在为大家创造更多价值。\n⭐ 无时间地域限制，安全理财加密货币\n立即享受全球范围内的加密货币理财！您的全球数字资产理财专家，现已上线！\n⭐ PlusMeta与MateBox钱包无缝桥接\n一键实现钱包与理财应用的关联，无需额外创建钱包。也可在应用内创建新地址，实现与钱包无缝衔接。\n⭐ 全方位安全保护技术\n支持12/15/18/21/24/36位中文/英文/繁体中文助记词进行备份和恢复；\n设置8位钱包密码，并通过指纹进行身份验证，我们可以为您提供二次保护；\nBFMeta/PayMetaChain/BFChainV2/ETHMeta/BFChain/CCChain网络支持设置链上交易密码，资产双重加密保障；\n私钥经过加密并安全存储在您的手机本地，并提供多种私钥备份选项以确保它们不丢失。\n⭐ 支持最流行的加密钱包：\n以太坊 ETH\n币安 BSN\n波场 TRX\nBFMeta BFM\nETHMeta ETHM\nPayMetachain PMC\nCCChain CCC\nBFChainV2 BFT\nBFChain BFT\n下载 PlusMeta 以获得元宇宙加密货币钱包体验。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/plusmeta/logo.svg",
   "bundle_url": "./plus-meta.com.dweb-2.0.0.zip",
-  "bundle_hash": "sha256:08a47e335fe47a9aead19d0200a7f7ed36af183a871a09fff7e1f5cc6df9a07e",
-  "bundle_size": 15054648,
+  "bundle_hash": "sha256:cf11936c62f7462046fbc60653b7057875bc61d9561acc1f447863d292383f00",
+  "bundle_size": 15039985,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Wed Dec 13 2023 15:05:34 GMT+0800 (中国标准时间)",
+  "release_date": "Tue Dec 26 2023 11:34:56 GMT+0800 (中国标准时间)",
   "change_log": "1.我的邀请奖励可领取\n2.应用语言支持简体中文和繁体中文\n3.支持应用内版本更新推送",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/plusmeta/desc_01.jpg",
@@ -36,7 +36,7 @@
     "中文",
     "繁体中文"
   ],
-  "home": "https://dweb-browser.org/plaoc",
+  "homepage_url": "https://dwebdapp.com",
   "plugins": [],
   "permissions": [],
   "dir": "ltr",
@@ -52,5 +52,5 @@
   "theme_color": "",
   "background_color": "",
   "shortcuts": [],
-  "homepage_url": "https://dwebdapp.com"
+  "home": "https://dwebdapp.com"
 }
