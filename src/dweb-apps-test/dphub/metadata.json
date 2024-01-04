@@ -10,12 +10,12 @@
   "short_name": "DP HUB",
   "description": "This is a sample application that includes instances of all dweb_plugins components.",
   "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240103.4.zip",
-  "bundle_hash": "sha256:6ba7dcf61b8441131b327c8f69e8977f7778a284dc9b2314b446b8f21453ad31",
-  "bundle_size": 1507148,
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240104.1.zip",
+  "bundle_hash": "sha256:4553e429a85a64c4f7a361e4b38d23b80e7ac4696dfc7e2a056295ebeab019da",
+  "bundle_size": 1515906,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Wed Jan 03 2024 21:28:30 GMT+0800 (中国标准时间)",
+  "release_date": "Thu Jan 04 2024 15:12:56 GMT+0800 (中国标准时间)",
   "change_log": "",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_01.jpg",
@@ -29,7 +29,7 @@
     "bfs",
     "bfs@bfs.com"
   ],
-  "version": "1.20240103.4",
+  "version": "1.20240104.1",
   "categories": [
     "application"
   ],
