@@ -38,7 +38,7 @@
             "logo": "/cot/logo.jpg",
             "description": "COT应用",
             "metadata": "/cot/metadata.json",
-            "dwebTarget1":"1-1.20240104.1",
+            "dwebTarget1":"1-1.20240104.2",
             "dwebTarget2":"2-1.20231220.0",
             "latest":"2-1.20231220.0"
         },
@@ -59,6 +59,14 @@
             "dwebTarget1":"1-1.20231221.7",
             "dwebTarget2":"2-1.20231221.6",
             "latest":"2-1.20231221.6"
+        },
+        "cosmicdp": {
+            "name": "CosmicDP",
+            "logo": "/cosmicdp/logo.svg",
+            "description": "CosmicDP应用",
+            "metadata": "/cosmicdp/metadata.json",
+            "dwebTarget1":"1-1.20240104.1",
+            "latest":"1-1.20240104.1"
         }
     }
 }
