@@ -6,17 +6,17 @@
   },
   "minTarget": 1,
   "maxTarget": 1,
-  "name": "dp-hub",
-  "short_name": "DP HUB",
-  "description": "This is a sample application that includes instances of all dweb_plugins components.",
+  "name": "DHUB",
+  "short_name": "DHUB",
+  "description": "DHUB",
   "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240104.3.zip",
-  "bundle_hash": "sha256:6d6240646554478322937f61b8be4daca673ba1717d7efab312a6d3df56a2723",
-  "bundle_size": 1516658,
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240105.0.zip",
+  "bundle_hash": "sha256:6f7f7d2b390587d2a65e6f2f4b001cde4a3a5e5db8e22182eb38aaea88e28005",
+  "bundle_size": 1514724,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Thu Jan 04 2024 18:24:53 GMT+0800 (中国标准时间)",
-  "change_log": "",
+  "release_date": "Fri Jan 05 2024 14:48:39 GMT+0800 (中国标准时间)",
+  "change_log": "1. 新增了BTCMeta链，并支持其转账收款等功能；\n2.修复了相关BUG。",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_01.jpg",
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_02.jpg",
@@ -26,25 +26,31 @@
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_06.jpg"
   ],
   "author": [
-    "bfs",
-    "bfs@bfs.com"
+    "@bfmeta.info"
   ],
-  "version": "1.20240104.3",
+  "version": "1.20240105.0",
   "categories": [
     "application"
   ],
-  "languages": [],
-  "home": "https://hub.cosmicdp.com",
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "home": "https://www.bfmeta.info",
   "plugins": [],
   "permissions": [],
   "dir": "ltr",
   "lang": "",
-  "icons": [],
+  "icons": [
+    {
+      "src": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg"
+    }
+  ],
   "screenshots": [],
   "display": "fullscreen",
   "orientation": "any",
   "theme_color": "",
   "background_color": "",
-  "shortcuts": [],
-  "new_feature": "Added a new feature of shooting bubbles with a single click!"
+  "shortcuts": []
 }
