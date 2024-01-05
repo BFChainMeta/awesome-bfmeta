@@ -10,12 +10,12 @@
   "short_name": "DHUB",
   "description": "DHUB",
   "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240105.0.zip",
-  "bundle_hash": "sha256:6f7f7d2b390587d2a65e6f2f4b001cde4a3a5e5db8e22182eb38aaea88e28005",
-  "bundle_size": 1514724,
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240105.1.zip",
+  "bundle_hash": "sha256:ba8158addd5faeb5d806c9ee7a8d891ac4acbbde257f8535e6d8559b64fc81fb",
+  "bundle_size": 1516362,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Fri Jan 05 2024 14:48:39 GMT+0800 (中国标准时间)",
+  "release_date": "Fri Jan 05 2024 15:28:50 GMT+0800 (中国标准时间)",
   "change_log": "1. 新增了BTCMeta链，并支持其转账收款等功能；\n2.修复了相关BUG。",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_01.jpg",
@@ -28,7 +28,7 @@
   "author": [
     "@bfmeta.info"
   ],
-  "version": "1.20240105.0",
+  "version": "1.20240105.1",
   "categories": [
     "application"
   ],
