@@ -12,8 +12,8 @@
             "description": "ETHMeta应用",
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1":"1-1.20240104.0",
-            "dwebTarget2":"2-1.20240103.0",
-            "latest":"2-1.20240103.0"
+            "dwebTarget2":"2-1.20240109.0",
+            "latest":"2-1.20240109.0"
         },
         "btcmeta": {
             "name": "BTCMeta",
@@ -21,8 +21,8 @@
             "description": "BTCMeta应用",
             "metadata": "/btcmeta/metadata.json",
             "dwebTarget1":"1-1.20240104.0",
-            "dwebTarget2":"2-1.20240105.0",
-            "latest":"2-1.20240105.0"
+            "dwebTarget2":"2-1.20240109.0",
+            "latest":"2-1.20240109.0"
         },
         "plusmeta": {
             "name": "PlusMeta",
@@ -48,8 +48,8 @@
             "description": "MetaBox应用",
             "metadata": "/metabox/metadata.json",
             "dwebTarget1":"1-1.20240104.0",
-            "dwebTarget2":"2-1.20240105.0",
-            "latest":"2-1.20240105.0"
+            "dwebTarget2":"2-1.20240109.0",
+            "latest":"2-1.20240109.0"
         },
         "btcswap": {
             "name": "BTCSwap",
