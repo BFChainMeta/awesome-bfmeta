@@ -9,7 +9,7 @@
   "name": "dp-hub",
   "short_name": "DP HUB",
   "description": "This is a sample application that includes instances of all dweb_plugins components.",
-  "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/logo.svg",
   "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240109.1.zip",
   "bundle_hash": "sha256:c11b3ed94cf99f2d3ead6a01698baa89f9856bae2101a8b30d9d4f36e9c52338",
   "bundle_size": 2091030,
