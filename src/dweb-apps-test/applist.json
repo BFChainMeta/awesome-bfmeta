@@ -38,9 +38,9 @@
             "logo": "/cot/logo.jpg",
             "description": "COT应用",
             "metadata": "/cot/metadata.json",
-            "dwebTarget1":"1-1.20240110.0",
-            "dwebTarget2":"2-1.20240110.0",
-            "latest":"2-1.20240110.0"
+            "dwebTarget1":"1-1.20240110.1",
+            "dwebTarget2":"2-1.20240110.1",
+            "latest":"2-1.20240110.1"
         },
         "metabox": {
             "name": "MetaBox",
