@@ -65,9 +65,9 @@
             "logo": "/cosmicdp/logo.svg",
             "description": "CosmicDP应用",
             "metadata": "/cosmicdp/metadata.json",
-            "dwebTarget1":"1-1.20240111.4",
-            "dwebTarget2":"2-1.20240111.4",
-            "latest":"2-1.20240111.4"
+            "dwebTarget1":"1-1.20240111.5",
+            "dwebTarget2":"2-1.20240111.5",
+            "latest":"2-1.20240111.5"
         }
     }
 }
