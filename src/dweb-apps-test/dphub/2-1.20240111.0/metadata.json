@@ -4,18 +4,18 @@
     "root": "/usr",
     "entry": "/server/plaoc.server.js"
   },
-  "minTarget": 1,
-  "maxTarget": 1,
+  "minTarget": 2,
+  "maxTarget": 2,
   "name": "dp-hub",
   "short_name": "DP HUB",
   "description": "This is a sample application that includes instances of all dweb_plugins components.",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240109.1.zip",
-  "bundle_hash": "sha256:c11b3ed94cf99f2d3ead6a01698baa89f9856bae2101a8b30d9d4f36e9c52338",
-  "bundle_size": 2091030,
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240111.0.zip",
+  "bundle_hash": "sha256:394de1181413776728a79c6857e02ead614c7334472a932982ad8d0db2e00d60",
+  "bundle_size": 2931698,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Tue Jan 09 2024 16:48:43 GMT+0800 (中国标准时间)",
+  "release_date": "Thu Jan 11 2024 11:13:15 GMT+0800 (中国标准时间)",
   "change_log": "",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_01.jpg",
@@ -29,12 +29,12 @@
     "bfs",
     "bfs@bfs.com"
   ],
-  "version": "1.20240109.1",
+  "version": "1.20240111.0",
   "categories": [
     "application"
   ],
   "languages": [],
-  "home": "https://hub.cosmicdp.com",
+  "homepage_url": "https://dweb-browser.org/plaoc",
   "plugins": [],
   "permissions": [],
   "dir": "ltr",
@@ -46,5 +46,6 @@
   "theme_color": "",
   "background_color": "",
   "shortcuts": [],
-  "new_feature": "Added a new feature of shooting bubbles with a single click!"
+  "new_feature": "Added a new feature of shooting bubbles with a single click!",
+  "home": "https://hub.cosmicdp.com"
 }
