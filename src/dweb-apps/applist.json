@@ -11,9 +11,9 @@
             "logo": "/ethmeta/logo.svg",
             "description": "ETHMeta应用",
             "metadata": "/ethmeta/metadata.json",
-            "dwebTarget1":"1-1.5.1",
-            "dwebTarget2":"2-1.5.1",
-            "latest":"1-1.5.1"
+            "dwebTarget1":"1-1.5.2",
+            "dwebTarget2":"2-1.5.2",
+            "latest":"2-1.5.2"
         },
         "btcmeta": {
             "name": "BTCMeta",
