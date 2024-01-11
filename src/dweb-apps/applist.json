@@ -20,9 +20,9 @@
             "logo": "/btcmeta/logo.svg",
             "description": "BTCMeta应用",
             "metadata": "/btcmeta/metadata.json",
-            "dwebTarget1":"1-1.2.7",
-            "dwebTarget2":"2-1.2.7",
-            "latest":"1-1.2.7"
+            "dwebTarget1":"1-1.2.8",
+            "dwebTarget2":"2-1.2.8",
+            "latest":"2-1.2.8"
         },
         "plusmeta": {
             "name": "PlusMeta",
