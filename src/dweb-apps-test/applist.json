@@ -3,7 +3,8 @@
         "base_url": "https://source.dwebdapp.com/dweb-browser-apps",
         "assets_path": "/dweb-app-assets",
         "app_test_path": "/dweb-apps-test",
-        "app_prod_path": "/dweb-apps"
+        "app_prod_path": "/dweb-apps",
+        "app_path":"/dweb-apps-test"
     },
     "applist": {
         "ethmeta": {
