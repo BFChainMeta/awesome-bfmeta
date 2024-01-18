@@ -57,7 +57,7 @@
             "logo": "/btcswap/logo.svg",
             "description": "BTCSwap应用",
             "metadata": "/btcswap/metadata.json",
-            "dwebTarget1":"1-1.20240118.0",
+            "dwebTarget1":"1-1.20240118.1",
             "dwebTarget2":"2-1.20240118.1",
             "latest":"2-1.20240118.1"
         },
