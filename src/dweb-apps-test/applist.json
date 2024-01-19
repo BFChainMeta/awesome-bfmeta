@@ -57,9 +57,9 @@
             "logo": "/btcswap/logo.svg",
             "description": "BTCSwap应用",
             "metadata": "/btcswap/metadata.json",
-            "dwebTarget1":"1-1.20240119.1",
-            "dwebTarget2":"2-1.20240119.2",
-            "latest":"2-1.20240119.2"
+            "dwebTarget1":"1-1.20240119.3",
+            "dwebTarget2":"2-1.20240119.3",
+            "latest":"2-1.20240119.3"
         },
         "cosmicdp": {
             "name": "CosmicDP",
