@@ -69,6 +69,14 @@
             "dwebTarget1":"1-1.0.1",
             "dwebTarget2":"2-1.0.2",
             "latest":"2-1.0.2"
+        },
+        "metalord": {
+            "name": "MetaLord",
+            "logo": "/metalord/logo.svg",
+            "description": "MetaLord应用",
+            "metadata": "/metalord/metadata.json",
+            "dwebTarget2":"2-1.0.0",
+            "latest":"2-1.0.0"
         }
     }
 }
