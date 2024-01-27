@@ -75,8 +75,8 @@
             "logo": "/metalord/logo.svg",
             "description": "MetaLord应用",
             "metadata": "/metalord/metadata.json",
-            "dwebTarget2":"2-1.20240125.4",
-            "latest":"2-1.20240125.4"
+            "dwebTarget2":"2-1.20240126.0",
+            "latest":"2-1.20240126.0"
         }
     }
 }
