@@ -77,6 +77,14 @@
             "metadata": "/metalord/metadata.json",
             "dwebTarget2":"2-1.20240126.0",
             "latest":"2-1.20240126.0"
+        },
+        "openim": {
+            "name": "OpenIm",
+            "logo": "/openim/logo.png",
+            "description": "OpenIm应用",
+            "metadata": "/openim/metadata.json",
+            "dwebTarget2":"2-1.0.0",
+            "latest":"2-1.0.0"
         }
     }
 }
