@@ -78,11 +78,11 @@
             "dwebTarget2":"2-1.20240126.0",
             "latest":"2-1.20240126.0"
         },
-        "openim": {
-            "name": "OpenIm",
-            "logo": "/openim/logo.png",
-            "description": "OpenIm应用",
-            "metadata": "/openim/metadata.json",
+        "openchat": {
+            "name": "OpenChat",
+            "logo": "/openchat/logo.png",
+            "description": "OpenChat应用",
+            "metadata": "/openchat/metadata.json",
             "dwebTarget2":"2-1.0.0",
             "latest":"2-1.0.0"
         }
