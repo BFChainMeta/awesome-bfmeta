@@ -1,0 +1,43 @@
+{
+  "id": "chatapp.btcmetaswap.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 2,
+  "maxTarget": 2,
+  "name": "Open Chat",
+  "short_name": "Open Chat",
+  "description": "This is an dweb chat app.",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/openchat/logo.png",
+  "bundle_url": "./chatapp.btcmetaswap.com.dweb-1.0.3.zip",
+  "bundle_hash": "sha256:94427c76b8787073916c9bfb208106b06253678ea99ef46ec97f6b00e98f3f32",
+  "bundle_size": 8060006,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Tue Jan 30 2024 17:45:57 GMT+0800 (中国标准时间)",
+  "change_log": "chat feature!",
+  "images": [],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "1.0.3",
+  "categories": [
+    "application"
+  ],
+  "languages": [],
+  "homepage_url": "https://dweb-browser.org/plaoc",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "zh-Hans",
+  "icons": [],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": ""
+}
