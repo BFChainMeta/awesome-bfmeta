@@ -58,8 +58,8 @@
             "description": "BTCSwap应用",
             "metadata": "/btcswap/metadata.json",
             "dwebTarget1":"1-1.20240119.4",
-            "dwebTarget2":"2-1.20240129.1",
-            "latest":"2-1.20240129.1"
+            "dwebTarget2":"2-1.20240130.0",
+            "latest":"2-1.20240130.0"
         },
         "cosmicdp": {
             "name": "CosmicDP",
