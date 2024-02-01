@@ -10,9 +10,9 @@
   "short_name": "DHUB",
   "description": "DHUB",
   "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240201.0.zip",
-  "bundle_hash": "sha256:91e60282f318363c646cb45a593dcf50ee545877fad08249ae11f2a2ffe43fcf",
-  "bundle_size": 2836007,
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240201.1.zip",
+  "bundle_hash": "sha256:1ff1c0f9c38e4dcd0c50840b2682d5ed9fa030d0eb31adf2c44b81ea03243431",
+  "bundle_size": 2836020,
   "bundle_signature": "",
   "public_key_url": "",
   "release_date": "Tue Jan 02 2024 17:39:42 GMT+0800 (中国标准时间)",
@@ -28,7 +28,7 @@
   "author": [
     "@bfmeta.info"
   ],
-  "version": "1.20240201.0",
+  "version": "1.20240201.1",
   "categories": [
     "application"
   ],
