@@ -1,0 +1,56 @@
+{
+  "id": "alphahub.cosmicdp.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 1,
+  "maxTarget": 1,
+  "name": "DHUB",
+  "short_name": "DHUB",
+  "description": "DHUB",
+  "logo": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg",
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240201.0.zip",
+  "bundle_hash": "sha256:91e60282f318363c646cb45a593dcf50ee545877fad08249ae11f2a2ffe43fcf",
+  "bundle_size": 2836007,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Tue Jan 02 2024 17:39:42 GMT+0800 (中国标准时间)",
+  "change_log": "1. 新增了BTCMeta链，并支持其转账收款等功能；\n2.修复了相关BUG。",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_05.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_06.jpg"
+  ],
+  "author": [
+    "@bfmeta.info"
+  ],
+  "version": "1.20240201.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "home": "https://www.bfmeta.info",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://dweb-browser-apps.oss-cn-hongkong.aliyuncs.com/dweb-app-assets/cosmicdp/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": []
+}

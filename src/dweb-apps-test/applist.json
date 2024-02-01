@@ -70,6 +70,15 @@
             "dwebTarget2":"2-1.20240124.0",
             "latest":"2-1.20240124.0"
         },
+        "dphub": {
+            "name": "DPHub",
+            "logo": "/cosmicdp/logo.svg",
+            "description": "DPHub应用",
+            "metadata": "/dphub/metadata.json",
+            "dwebTarget1":"1-1.20240201.0",
+            "dwebTarget2":"2-1.20240201.0",
+            "latest":"2-1.20240201.0"
+        },
         "metalord": {
             "name": "MetaLord",
             "logo": "/metalord/logo.svg",
