@@ -6,34 +6,34 @@
             "version": "2.240120.0"
         },
         "tencent": {
-            "version": "2.240120.0"
+            "version": "2.240130.0"
         },
         "xiaomi": {
             "version": "2.240130.0"
         },
         "alibaba": {
-            "version": "2.240120.0"
+            "version": "2.240130.0"
         },
         "oppo": {
-            "version": "2.240120.0"
+            "version": "2.240130.0"
         },
         "baidu": {
             "version": "2.240130.0"
         },
         "vivo": {
-            "version": "2.240120.0"
+            "version": "2.240130.0"
         },
         "360": {
             "version": "2.240130.0"
         },
         "samsung": {
-            "version": "2.240120.0"
+            "version": "2.240130.0"
         },
         "google": {
-            "version": "2.240120.0"
+            "version": "2.240130.0"
         },
         "apple": {
-            "version": "2.240102.0"
+            "version": "2.240130.0"
         }
     }
 }
