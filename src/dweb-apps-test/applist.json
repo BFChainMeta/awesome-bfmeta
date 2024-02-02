@@ -76,8 +76,8 @@
             "description": "DPHub应用",
             "metadata": "/dphub/metadata.json",
             "dwebTarget1":"1-1.20240201.1",
-            "dwebTarget2":"2-1.20240202.0",
-            "latest":"2-1.20240202.0"
+            "dwebTarget2":"2-1.20240202.1",
+            "latest":"2-1.20240202.1"
         },
         "metalord": {
             "name": "MetaLord",
