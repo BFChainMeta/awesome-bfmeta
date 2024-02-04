@@ -31,8 +31,8 @@
             "description": "PlusMeta应用",
             "metadata": "/plusmeta/metadata.json",
             "dwebTarget1":"1-1.20231212.5",
-            "dwebTarget2":"2-1.20231222.0",
-            "latest":"2-1.20231222.0"
+            "dwebTarget2":"2-1.20240204.1",
+            "latest":"2-1.20240204.1"
         },
         "cot": {
             "name": "COT",
