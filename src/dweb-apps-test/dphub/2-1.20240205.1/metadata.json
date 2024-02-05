@@ -10,12 +10,12 @@
   "short_name": "DP HUB",
   "description": "欢迎来到我们突破性的Web3 分布式 DP/NFT 数字交易市场 - Cosmic DP！\n链上安全存储，用 Cosmic DP 改变你的世界\n在尖端的 BioforestChain 区块链技术下，见证您的现实世界资产（无论是房地产、知识、艺术、音乐、电影、体育还是游戏）转变为不可磨灭且永久可追溯的链上数字资产，即 DP/NFT。\nDP：数字货币的未来\nDP象征着数字货币的未来，赋予数字资产真正的所有权，并将其与现实世界的经济和社会系统联系起来。\n数字经济革命的曙光\n参与DP交易和市场，发现新的投资机会，释放创造财富的潜力，同时抓住未来的价值前景\n",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240204.0.zip",
-  "bundle_hash": "sha256:529202737e5aed2bdeda84d859ae2958d4ffa591c1342ea95b67e19382b0827a",
-  "bundle_size": 2810896,
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240205.1.zip",
+  "bundle_hash": "sha256:7310aed8a9adc9f18ad26df12d0b29bb0b6e2bd1574b43b42b2914e6c404ace5",
+  "bundle_size": 2810953,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Sun Feb 04 2024 16:44:15 GMT+0800 (中国标准时间)",
+  "release_date": "Mon Feb 05 2024 18:10:04 GMT+0800 (中国标准时间)",
   "change_log": "应用上线",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_01.jpg",
@@ -29,7 +29,7 @@
     "bfs",
     "bfs@bfs.com"
   ],
-  "version": "1.20240204.0",
+  "version": "1.20240205.1",
   "categories": [
     "application"
   ],
