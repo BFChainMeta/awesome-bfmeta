@@ -95,5 +95,165 @@
             "dwebTarget2":"2-1.1.1",
             "latest":"2-1.1.1"
         }
-    }
+    },
+    "all_products": [
+        {
+            "category": "chain",
+            "applist": [
+                {
+                    "name": "BFChain",
+                    "logo": "/all-logo/BFChain.png",
+                    "description": "BFChain",
+                    "website": "https://www.bfchain.com/",
+                    "tracker": "https://www.bfchain.info/",
+                    "community": "https://developer.bfchain.com/"
+                },
+                {
+                    "name": "BFChainV2",
+                    "logo": "/all-logo/BFChainV2.png",
+                    "description": "BFChainV2",
+                    "tracker": "https://tracker.bfchainv2.com/",
+                    "community": "https://developer.bfchainv2.com/"
+                },
+                {
+                    "name": "PayMetaChain",
+                    "logo": "/all-logo/PayMetaChain.png",
+                    "description": "PayMetaChain",
+                    "tracker": "https://tracker.pmchainbox.info/"
+                }
+            ]
+        },
+        {
+            "category": "wallet",
+            "applist": [
+                {
+                    "name": "ETHMeta",
+                    "logo": "/all-logo/ETHMeta.png",
+                    "description": "ETHMeta应用",
+                    "metadata": "/ethmeta/metadata.json",
+                    "dwebTarget1": "1-1.20240104.0",
+                    "dwebTarget2": "2-1.20240110.0",
+                    "latest": "2-1.20240110.0",
+                    "website": "https://eth-metaverse.com/"
+                },
+                {
+                    "name": "BTCMeta",
+                    "logo": "/all-logo/BTCMeta.png",
+                    "description": "BTCMeta应用",
+                    "metadata": "/btcmeta/metadata.json",
+                    "dwebTarget1": "1-1.20240104.0",
+                    "dwebTarget2": "2-1.20240110.0",
+                    "latest": "2-1.20240110.0",
+                    "website": "https://btc-metaverse.com/"
+                },
+                {
+                    "name": "COT",
+                    "logo": "/all-logo/COT.png",
+                    "description": "COT应用",
+                    "metadata": "/cot/metadata.json",
+                    "dwebTarget1": "1-1.20240110.1",
+                    "dwebTarget2": "2-1.20240110.1",
+                    "latest": "2-1.20240110.1",
+                    "website": "https://www.bfmeta.info/"
+                },
+                {
+                    "name": "MetaBox",
+                    "logo": "/all-logo/MetaBox.png",
+                    "description": "MetaBox应用",
+                    "metadata": "/metabox/metadata.json",
+                    "dwebTarget1": "1-1.20240104.0",
+                    "dwebTarget2": "2-1.20240110.0",
+                    "latest": "2-1.20240110.0",
+                    "website": "https://www.pmchainbox.com/"
+                }
+            ]
+        },
+        {
+            "category": "digital-product",
+            "applist": [
+                {
+                    "name": "CosmicDP",
+                    "logo": "/all-logo/CosmicDP.png",
+                    "description": "CosmicDP应用",
+                    "metadata": "/cosmicdp/metadata.json",
+                    "dwebTarget1": "1-1.20240120.2",
+                    "dwebTarget2": "2-1.20240123.3",
+                    "latest": "2-1.20240123.3",
+                    "website": "https://www.cosmicdp.com/"
+                },
+                {
+                    "name": "MetaLord",
+                    "logo": "/all-logo/MetaLord.png",
+                    "description": "MetaLord应用",
+                    "metadata": "/metalord/metadata.json",
+                    "dwebTarget2": "2-1.20240122.1",
+                    "latest": "2-1.20240122.1"
+                }
+            ]
+        },
+        {
+            "category": "universe-social",
+            "applist": [
+                {
+                    "name": "碳元域",
+                    "logo": "/all-logo/Tansocc.png",
+                    "description": "碳元域",
+                    "website": "https://www.tansocc.com/"
+                }
+            ]
+        },
+        {
+            "category": "trading",
+            "applist": [
+                {
+                    "name": "BTCSwap",
+                    "logo": "/all-logo/BTCSwap.png",
+                    "description": "BTCSwap应用",
+                    "metadata": "/btcswap/metadata.json",
+                    "dwebTarget1": "1-1.20240119.4",
+                    "dwebTarget2": "2-1.20240119.4",
+                    "latest": "2-1.20240119.4",
+                    "website": "https://www.btcmetaswap.com/"
+                },
+                {
+                    "name": "PlusMeta",
+                    "logo": "/all-logo/PlusMeta.png",
+                    "description": "PlusMeta应用",
+                    "metadata": "/plusmeta/metadata.json",
+                    "dwebTarget1": "1-1.20231212.5",
+                    "dwebTarget2": "2-1.20231222.0",
+                    "latest": "2-1.20231222.0",
+                    "website": "https://www.plus-meta.com/"
+                }
+            ]
+        },
+        {
+            "category": "node",
+            "applist": [
+                {
+                    "name": "节点管理器",
+                    "logo": "/all-logo/NodeManage.png",
+                    "description": "节点管理器",
+                    "website": "https://developer.bfchainv2.com/bfchainv2-node-manager/"
+                },
+                {
+                    "name": "实施平台",
+                    "logo": "/all-logo/Platform.png",
+                    "description": "实施平台",
+                    "website": "https://instinct.one/home"
+                }
+            ]
+        },
+        {
+            "category": "other",
+            "applist": [
+                {
+                    "name": "DwebBrowser",
+                    "logo": "/all-logo/DwebBrowser.png",
+                    "description": "DwebBrowser",
+                    "website": "https://dweb-browser.bagen.info/"
+                }
+            ]
+        }
+    ]
 }
