@@ -116,6 +116,34 @@
                     "community": "https://developer.bfchainv2.com/"
                 },
                 {
+                    "name": "BFMeta",
+                    "logo": "/all-logo/BFMeta.png",
+                    "description": "BFMeta",
+                    "website": "https://www.bfmeta.org",
+                    "tracker": "https://tracker.bfmeta.org",
+                    "community": "https://developer.bfmeta.org/"
+                },
+                {
+                    "name": "BTCMeta",
+                    "logo": "/all-logo/BTCMeta.png",
+                    "description": "BTCMeta",
+                    "website": "https://btc-metaverse.com/",
+                    "tracker": "https://tracker.btc-metaverse.com/"
+                },
+                {
+                    "name": "ETHMeta",
+                    "logo": "/all-logo/ETHMeta.png",
+                    "description": "ETHMeta",
+                    "website": "https://eth-metaverse.com/",
+                    "tracker": "https://tracker.eth-metaverse.com/"
+                },
+                {
+                    "name": "CCChain",
+                    "logo": "/all-logo/CCChain.png",
+                    "description": "CCChain",
+                    "tracker": "https://tracker.tansocc.com"
+                },
+                {
                     "name": "PayMetaChain",
                     "logo": "/all-logo/PayMetaChain.png",
                     "description": "PayMetaChain",
@@ -169,6 +197,29 @@
             ]
         },
         {
+            "category": "finance",
+            "applist": [
+                {
+                    "name": "PlusMeta",
+                    "logo": "/all-logo/PlusMeta.png",
+                    "description": "PlusMeta应用",
+                    "metadata": "/plusmeta/metadata.json",
+                    "dwebTarget1": "1-1.20231212.5",
+                    "dwebTarget2": "2-1.20231222.0",
+                    "latest": "2-1.20231222.0",
+                    "website": "https://www.plus-meta.com/"
+                },
+                {
+                    "name": "MetaLord",
+                    "logo": "/all-logo/MetaLord.png",
+                    "description": "MetaLord应用",
+                    "metadata": "/metalord/metadata.json",
+                    "dwebTarget2": "2-1.20240122.1",
+                    "latest": "2-1.20240122.1"
+                }
+            ]
+        },
+        {
             "category": "digital-product",
             "applist": [
                 {
@@ -180,14 +231,6 @@
                     "dwebTarget2": "2-1.20240123.3",
                     "latest": "2-1.20240123.3",
                     "website": "https://www.cosmicdp.com/"
-                },
-                {
-                    "name": "MetaLord",
-                    "logo": "/all-logo/MetaLord.png",
-                    "description": "MetaLord应用",
-                    "metadata": "/metalord/metadata.json",
-                    "dwebTarget2": "2-1.20240122.1",
-                    "latest": "2-1.20240122.1"
                 }
             ]
         },
@@ -214,16 +257,6 @@
                     "dwebTarget2": "2-1.20240119.4",
                     "latest": "2-1.20240119.4",
                     "website": "https://www.btcmetaswap.com/"
-                },
-                {
-                    "name": "PlusMeta",
-                    "logo": "/all-logo/PlusMeta.png",
-                    "description": "PlusMeta应用",
-                    "metadata": "/plusmeta/metadata.json",
-                    "dwebTarget1": "1-1.20231212.5",
-                    "dwebTarget2": "2-1.20231222.0",
-                    "latest": "2-1.20231222.0",
-                    "website": "https://www.plus-meta.com/"
                 }
             ]
         },
