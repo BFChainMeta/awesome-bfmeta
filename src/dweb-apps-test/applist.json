@@ -4,7 +4,7 @@
         "assets_path": "/dweb-app-assets",
         "app_test_path": "/dweb-apps-test",
         "app_prod_path": "/dweb-apps",
-        "app_path":"/dweb-apps-test"
+        "app_path": "/dweb-apps-test"
     },
     "applist": {
         "ethmeta": {
@@ -12,88 +12,88 @@
             "logo": "/ethmeta/logo.svg",
             "description": "ETHMeta应用",
             "metadata": "/ethmeta/metadata.json",
-            "dwebTarget1":"1-1.20240104.0",
-            "dwebTarget2":"2-1.20240201.0",
-            "latest":"2-1.20240201.0"
+            "dwebTarget1": "1-1.20240104.0",
+            "dwebTarget2": "2-1.20240201.0",
+            "latest": "2-1.20240201.0"
         },
         "btcmeta": {
             "name": "BTCMeta",
             "logo": "/btcmeta/logo.svg",
             "description": "BTCMeta应用",
             "metadata": "/btcmeta/metadata.json",
-            "dwebTarget1":"1-1.20240104.0",
-            "dwebTarget2":"2-1.20240201.1",
-            "latest":"2-1.20240201.1"
+            "dwebTarget1": "1-1.20240104.0",
+            "dwebTarget2": "2-1.20240201.1",
+            "latest": "2-1.20240201.1"
         },
         "plusmeta": {
             "name": "PlusMeta",
             "logo": "/plusmeta/logo.svg",
             "description": "PlusMeta应用",
             "metadata": "/plusmeta/metadata.json",
-            "dwebTarget1":"1-1.20231212.5",
-            "dwebTarget2":"2-1.20240205.1",
-            "latest":"2-1.20240205.1"
+            "dwebTarget1": "1-1.20231212.5",
+            "dwebTarget2": "2-1.20240205.1",
+            "latest": "2-1.20240205.1"
         },
         "cot": {
             "name": "COT",
             "logo": "/cot/logo.jpg",
             "description": "COT应用",
             "metadata": "/cot/metadata.json",
-            "dwebTarget1":"1-1.20240110.1",
-            "dwebTarget2":"2-1.20240205.2",
-            "latest":"2-1.20240205.2"
+            "dwebTarget1": "1-1.20240110.1",
+            "dwebTarget2": "2-1.20240205.2",
+            "latest": "2-1.20240205.2"
         },
         "metabox": {
             "name": "MetaBox",
             "logo": "/metabox/logo.svg",
             "description": "MetaBox应用",
             "metadata": "/metabox/metadata.json",
-            "dwebTarget1":"1-1.20240104.0",
-            "dwebTarget2":"2-1.20240201.1",
-            "latest":"2-1.20240201.1"
+            "dwebTarget1": "1-1.20240104.0",
+            "dwebTarget2": "2-1.20240201.1",
+            "latest": "2-1.20240201.1"
         },
         "btcswap": {
             "name": "BTCSwap",
             "logo": "/btcswap/logo.svg",
             "description": "BTCSwap应用",
             "metadata": "/btcswap/metadata.json",
-            "dwebTarget1":"1-1.20240119.4",
-            "dwebTarget2":"2-1.20240201.4",
-            "latest":"2-1.20240201.4"
+            "dwebTarget1": "1-1.20240119.4",
+            "dwebTarget2": "2-1.20240201.4",
+            "latest": "2-1.20240201.4"
         },
         "cosmicdp": {
             "name": "CosmicDP",
             "logo": "/cosmicdp/logo.svg",
             "description": "CosmicDP应用",
             "metadata": "/cosmicdp/metadata.json",
-            "dwebTarget1":"1-1.20240120.2",
-            "dwebTarget2":"2-1.20240205.0",
-            "latest":"2-1.20240205.0"
+            "dwebTarget1": "1-1.20240120.2",
+            "dwebTarget2": "2-1.20240205.0",
+            "latest": "2-1.20240205.0"
         },
         "dphub": {
             "name": "DPHub",
             "logo": "/dphub/logo.svg",
             "description": "DPHub应用",
             "metadata": "/dphub/metadata.json",
-            "dwebTarget1":"1-1.20240204.0",
-            "dwebTarget2":"2-1.20240205.1",
-            "latest":"2-1.20240205.1"
+            "dwebTarget1": "1-1.20240204.0",
+            "dwebTarget2": "2-1.20240205.1",
+            "latest": "2-1.20240205.1"
         },
         "metalord": {
             "name": "MetaLord",
             "logo": "/metalord/logo.svg",
             "description": "MetaLord应用",
             "metadata": "/metalord/metadata.json",
-            "dwebTarget2":"2-1.20240126.0",
-            "latest":"2-1.20240126.0"
+            "dwebTarget2": "2-1.20240126.0",
+            "latest": "2-1.20240126.0"
         },
         "openchat": {
             "name": "OpenChat",
             "logo": "/openchat/logo.png",
             "description": "OpenChat应用",
             "metadata": "/openchat/metadata.json",
-            "dwebTarget2":"2-1.1.1",
-            "latest":"2-1.1.1"
+            "dwebTarget2": "2-1.1.1",
+            "latest": "2-1.1.1"
         }
     },
     "all_products": [
@@ -160,8 +160,8 @@
                     "description": "ETHMeta应用",
                     "metadata": "/ethmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240110.0",
-                    "latest": "2-1.20240110.0",
+                    "dwebTarget2": "2-1.20240201.0",
+                    "latest": "2-1.20240201.0",
                     "website": "https://eth-metaverse.com/"
                 },
                 {
@@ -170,8 +170,8 @@
                     "description": "BTCMeta应用",
                     "metadata": "/btcmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240110.0",
-                    "latest": "2-1.20240110.0",
+                    "dwebTarget2": "2-1.20240201.1",
+                    "latest": "2-1.20240201.1",
                     "website": "https://btc-metaverse.com/"
                 },
                 {
@@ -180,8 +180,8 @@
                     "description": "COT应用",
                     "metadata": "/cot/metadata.json",
                     "dwebTarget1": "1-1.20240110.1",
-                    "dwebTarget2": "2-1.20240110.1",
-                    "latest": "2-1.20240110.1",
+                    "dwebTarget2": "2-1.20240205.2",
+                    "latest": "2-1.20240205.2",
                     "website": "https://www.bfmeta.info/"
                 },
                 {
@@ -190,32 +190,9 @@
                     "description": "MetaBox应用",
                     "metadata": "/metabox/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240110.0",
-                    "latest": "2-1.20240110.0",
+                    "dwebTarget2": "2-1.20240201.1",
+                    "latest": "2-1.20240201.1",
                     "website": "https://www.pmchainbox.com/"
-                }
-            ]
-        },
-        {
-            "category": "finance",
-            "applist": [
-                {
-                    "name": "PlusMeta",
-                    "logo": "/all-logo/PlusMeta.png",
-                    "description": "PlusMeta应用",
-                    "metadata": "/plusmeta/metadata.json",
-                    "dwebTarget1": "1-1.20231212.5",
-                    "dwebTarget2": "2-1.20231222.0",
-                    "latest": "2-1.20231222.0",
-                    "website": "https://www.plus-meta.com/"
-                },
-                {
-                    "name": "MetaLord",
-                    "logo": "/all-logo/MetaLord.png",
-                    "description": "MetaLord应用",
-                    "metadata": "/metalord/metadata.json",
-                    "dwebTarget2": "2-1.20240122.1",
-                    "latest": "2-1.20240122.1"
                 }
             ]
         },
@@ -228,20 +205,9 @@
                     "description": "CosmicDP应用",
                     "metadata": "/cosmicdp/metadata.json",
                     "dwebTarget1": "1-1.20240120.2",
-                    "dwebTarget2": "2-1.20240123.3",
-                    "latest": "2-1.20240123.3",
+                    "dwebTarget2": "2-1.20240205.0",
+                    "latest": "2-1.20240205.0",
                     "website": "https://www.cosmicdp.com/"
-                }
-            ]
-        },
-        {
-            "category": "universe-social",
-            "applist": [
-                {
-                    "name": "碳元域",
-                    "logo": "/all-logo/Tansocc.png",
-                    "description": "碳元域",
-                    "website": "https://www.tansocc.com/"
                 }
             ]
         },
@@ -254,9 +220,43 @@
                     "description": "BTCSwap应用",
                     "metadata": "/btcswap/metadata.json",
                     "dwebTarget1": "1-1.20240119.4",
-                    "dwebTarget2": "2-1.20240119.4",
-                    "latest": "2-1.20240119.4",
+                    "dwebTarget2": "2-1.20240201.4",
+                    "latest": "2-1.20240201.4",
                     "website": "https://www.btcmetaswap.com/"
+                }
+            ]
+        },
+        {
+            "category": "finance",
+            "applist": [
+                {
+                    "name": "PlusMeta",
+                    "logo": "/all-logo/PlusMeta.png",
+                    "description": "PlusMeta应用",
+                    "metadata": "/plusmeta/metadata.json",
+                    "dwebTarget1": "1-1.20231212.5",
+                    "dwebTarget2": "2-1.20240205.1",
+                    "latest": "2-1.20240205.1",
+                    "website": "https://www.plus-meta.com/"
+                },
+                {
+                    "name": "MetaLord",
+                    "logo": "/all-logo/MetaLord.png",
+                    "description": "MetaLord应用",
+                    "metadata": "/metalord/metadata.json",
+                    "dwebTarget2": "2-1.20240126.0",
+                    "latest": "2-1.20240126.0"
+                }
+            ]
+        },
+        {
+            "category": "universe-social",
+            "applist": [
+                {
+                    "name": "碳元域",
+                    "logo": "/all-logo/Tansocc.png",
+                    "description": "碳元域",
+                    "website": "https://www.tansocc.com/"
                 }
             ]
         },
