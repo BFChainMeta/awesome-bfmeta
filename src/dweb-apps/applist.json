@@ -22,8 +22,8 @@
             "description": "BTCMeta应用",
             "metadata": "/btcmeta/metadata.json",
             "dwebTarget1":"1-1.2.8",
-            "dwebTarget2":"2-1.2.8",
-            "latest":"2-1.2.8"
+            "dwebTarget2":"2-1.2.9",
+            "latest":"2-1.2.9"
         },
         "plusmeta": {
             "name": "PlusMeta",
