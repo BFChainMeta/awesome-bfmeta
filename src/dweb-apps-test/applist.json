@@ -31,8 +31,8 @@
             "description": "PlusMeta应用",
             "metadata": "/plusmeta/metadata.json",
             "dwebTarget1":"1-1.20231212.5",
-            "dwebTarget2":"2-1.20240204.2",
-            "latest":"2-1.20240204.2"
+            "dwebTarget2":"2-1.20240205.1",
+            "latest":"2-1.20240205.1"
         },
         "cot": {
             "name": "COT",
@@ -72,7 +72,7 @@
         },
         "dphub": {
             "name": "DPHub",
-            "logo": "/cosmicdp/logo.svg",
+            "logo": "/dphub/logo.svg",
             "description": "DPHub应用",
             "metadata": "/dphub/metadata.json",
             "dwebTarget1":"1-1.20240204.0",
