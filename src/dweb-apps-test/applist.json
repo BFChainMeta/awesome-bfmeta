@@ -101,7 +101,7 @@
             "category": "chain",
             "name": "区块链",
             "icon": "/all-icon/icon-chain.svg",
-            "themColor": "#0068FF",
+            "themeColor": "#0068FF",
             "applist": [
                 {
                     "name": "BFChain",
@@ -158,7 +158,7 @@
             "category": "wallet",
             "name": "钱包",
             "icon": "/all-icon/icon-wallet.svg",
-            "themColor": "#28C2AE",
+            "themeColor": "#28C2AE",
             "applist": [
                 {
                     "name": "ETHMeta",
@@ -206,7 +206,7 @@
             "category": "digital-product",
             "name": "数字产品（DP）",
             "icon": "/all-icon/icon-digital-product.svg",
-            "themColor": "#F9A91E",
+            "themeColor": "#F9A91E",
             "applist": [
                 {
                     "name": "CosmicDP",
@@ -224,7 +224,7 @@
             "category": "trading",
             "name": "交易",
             "icon": "/all-icon/icon-trading.svg",
-            "themColor": "#4DBCF0",
+            "themeColor": "#4DBCF0",
             "applist": [
                 {
                     "name": "BTCSwap",
@@ -242,7 +242,7 @@
             "category": "finance",
             "name": "理财",
             "icon": "/all-icon/icon-finance.svg",
-            "themColor": "#D900FF",
+            "themeColor": "#D900FF",
             "applist": [
                 {
                     "name": "PlusMeta",
@@ -268,7 +268,7 @@
             "category": "universe-social",
             "name": "元宇宙社交",
             "icon": "/all-icon/icon-universe-social.svg",
-            "themColor": "#9EC417",
+            "themeColor": "#9EC417",
             "applist": [
                 {
                     "name": "碳元域",
@@ -282,7 +282,7 @@
             "category": "node",
             "name": "节点应用",
             "icon": "/all-icon/icon-node.svg",
-            "themColor": "#5C2FCD",
+            "themeColor": "#5C2FCD",
             "applist": [
                 {
                     "name": "节点管理器",
@@ -302,7 +302,7 @@
             "category": "other",
             "name": "其他应用",
             "icon": "/all-icon/icon-other.svg",
-            "themColor": "#5DCE4E",
+            "themeColor": "#5DCE4E",
             "applist": [
                 {
                     "name": "DwebBrowser",
