@@ -4,7 +4,7 @@
         "assets_path": "/dweb-app-assets",
         "app_test_path": "/dweb-apps-test",
         "app_prod_path": "/dweb-apps",
-        "app_path":"/dweb-apps"
+        "app_path": "/dweb-apps"
     },
     "applist": {
         "ethmeta": {
@@ -12,71 +12,282 @@
             "logo": "/ethmeta/logo.svg",
             "description": "ETHMeta应用",
             "metadata": "/ethmeta/metadata.json",
-            "dwebTarget1":"1-1.5.2",
-            "dwebTarget2":"2-1.5.3",
-            "latest":"2-1.5.3"
+            "dwebTarget1": "1-1.5.2",
+            "dwebTarget2": "2-1.5.3",
+            "latest": "2-1.5.3"
         },
         "btcmeta": {
             "name": "BTCMeta",
             "logo": "/btcmeta/logo.svg",
             "description": "BTCMeta应用",
             "metadata": "/btcmeta/metadata.json",
-            "dwebTarget1":"1-1.2.8",
-            "dwebTarget2":"2-1.2.9",
-            "latest":"2-1.2.9"
+            "dwebTarget1": "1-1.2.8",
+            "dwebTarget2": "2-1.2.9",
+            "latest": "2-1.2.9"
         },
         "plusmeta": {
             "name": "PlusMeta",
             "logo": "/plusmeta/logo.svg",
             "description": "PlusMeta应用",
             "metadata": "/plusmeta/metadata.json",
-            "dwebTarget1":"1-2.0.0",
-            "dwebTarget2":"2-2.1.0",
-            "latest":"1-2.1.0"
+            "dwebTarget1": "1-2.0.0",
+            "dwebTarget2": "2-2.1.0",
+            "latest": "1-2.1.0"
         },
         "cot": {
             "name": "COT",
             "logo": "/cot/logo.jpg",
             "description": "COT应用",
             "metadata": "/cot/metadata.json",
-            "dwebTarget1":"1-3.1.1",
-            "dwebTarget2":"2-3.1.1",
-            "latest":"2-3.1.1"
+            "dwebTarget1": "1-3.1.1",
+            "dwebTarget2": "2-3.1.1",
+            "latest": "2-3.1.1"
         },
         "metabox": {
             "name": "MetaBox",
             "logo": "/metabox/logo.svg",
             "description": "MetaBox应用",
             "metadata": "/metabox/metadata.json",
-            "dwebTarget1":"1-1.2.201",
-            "dwebTarget2":"2-1.2.300",
-            "latest":"2-1.2.300"
+            "dwebTarget1": "1-1.2.201",
+            "dwebTarget2": "2-1.2.300",
+            "latest": "2-1.2.300"
         },
         "btcswap": {
             "name": "BTCSwap",
             "logo": "/btcswap/logo.svg",
             "description": "BTCSwap应用",
             "metadata": "/btcswap/metadata.json",
-            "dwebTarget1":"1-2.0.0",
-            "dwebTarget2":"2-2.1.0",
-            "latest":"2-2.1.0"
+            "dwebTarget1": "1-2.0.0",
+            "dwebTarget2": "2-2.1.0",
+            "latest": "2-2.1.0"
         },
         "cosmicdp": {
             "name": "CosmicDP",
             "logo": "/cosmicdp/logo.svg",
             "description": "CosmicDP应用",
             "metadata": "/cosmicdp/metadata.json",
-            "dwebTarget1":"1-1.0.1",
-            "dwebTarget2":"2-1.0.2",
-            "latest":"2-1.0.2"
+            "dwebTarget1": "1-1.0.1",
+            "dwebTarget2": "2-1.0.2",
+            "latest": "2-1.0.2"
         },
         "metalord": {
             "name": "MetaLord",
             "logo": "/metalord/logo.svg",
             "description": "MetaLord应用",
             "metadata": "/metalord/metadata.json",
-            "dwebTarget2":"2-1.0.0",
-            "latest":"2-1.0.0"
+            "dwebTarget2": "2-1.0.0",
+            "latest": "2-1.0.0"
         }
-    }
+    },
+    "all_products": [
+        {
+            "category": "chain",
+            "name": "区块链",
+            "icon": "/all-icon/icon-chain.svg",
+            "themeColor": "#0068FF",
+            "applist": [
+                {
+                    "name": "BFChain",
+                    "logo": "/all-logo/BFChain.png",
+                    "description": "BFChain",
+                    "website": "https://www.bfchain.com/",
+                    "tracker": "https://www.bfchain.info/",
+                    "community": "https://developer.bfchain.com/"
+                },
+                {
+                    "name": "BFChainV2",
+                    "logo": "/all-logo/BFChainV2.png",
+                    "description": "BFChainV2",
+                    "tracker": "https://tracker.bfchainv2.com/",
+                    "community": "https://developer.bfchainv2.com/"
+                },
+                {
+                    "name": "BFMeta",
+                    "logo": "/all-logo/BFMeta.png",
+                    "description": "BFMeta",
+                    "website": "https://www.bfmeta.org",
+                    "tracker": "https://tracker.bfmeta.org",
+                    "community": "https://developer.bfmeta.org/"
+                },
+                {
+                    "name": "BTCMeta",
+                    "logo": "/all-logo/BTCMeta.png",
+                    "description": "BTCMeta",
+                    "website": "https://btc-metaverse.com/",
+                    "tracker": "https://tracker.btc-metaverse.com/"
+                },
+                {
+                    "name": "ETHMeta",
+                    "logo": "/all-logo/ETHMeta.png",
+                    "description": "ETHMeta",
+                    "website": "https://eth-metaverse.com/",
+                    "tracker": "https://tracker.eth-metaverse.com/"
+                },
+                {
+                    "name": "CCChain",
+                    "logo": "/all-logo/CCChain.png",
+                    "description": "CCChain",
+                    "tracker": "https://tracker.tansocc.com"
+                },
+                {
+                    "name": "PayMetaChain",
+                    "logo": "/all-logo/PayMetaChain.png",
+                    "description": "PayMetaChain",
+                    "tracker": "https://tracker.pmchainbox.info/"
+                }
+            ]
+        },
+        {
+            "category": "wallet",
+            "name": "钱包",
+            "icon": "/all-icon/icon-wallet.svg",
+            "themeColor": "#28C2AE",
+            "applist": [
+                {
+                    "name": "ETHMeta",
+                    "logo": "/all-logo/ETHMeta.png",
+                    "description": "ETHMeta应用",
+                    "metadata": "/ethmeta/metadata.json",
+                    "dwebTarget1": "1-1.5.2",
+                    "dwebTarget2": "2-1.5.3",
+                    "latest": "2-1.5.3",
+                    "website": "https://eth-metaverse.com/"
+                },
+                {
+                    "name": "BTCMeta",
+                    "logo": "/all-logo/BTCMeta.png",
+                    "description": "BTCMeta应用",
+                    "metadata": "/btcmeta/metadata.json",
+                    "dwebTarget1": "1-1.2.8",
+                    "dwebTarget2": "2-1.2.9",
+                    "latest": "2-1.2.9",
+                    "website": "https://btc-metaverse.com/"
+                },
+                {
+                    "name": "COT",
+                    "logo": "/all-logo/COT.png",
+                    "description": "COT应用",
+                    "metadata": "/cot/metadata.json",
+                    "dwebTarget1": "1-3.1.1",
+                    "dwebTarget2": "2-3.1.1",
+                    "latest": "2-3.1.1",
+                    "website": "https://www.bfmeta.info/"
+                },
+                {
+                    "name": "MetaBox",
+                    "logo": "/all-logo/MetaBox.png",
+                    "description": "MetaBox应用",
+                    "metadata": "/metabox/metadata.json",
+                    "dwebTarget1": "1-1.2.201",
+                    "dwebTarget2": "2-1.2.300",
+                    "latest": "2-1.2.300",
+                    "website": "https://www.pmchainbox.com/"
+                }
+            ]
+        },
+        {
+            "category": "digital-product",
+            "name": "数字产品（DP）",
+            "icon": "/all-icon/icon-digital-product.svg",
+            "themeColor": "#F9A91E",
+            "applist": [
+                {
+                    "name": "CosmicDP",
+                    "logo": "/all-logo/CosmicDP.png",
+                    "description": "CosmicDP应用",
+                    "metadata": "/cosmicdp/metadata.json",
+                    "dwebTarget1": "1-1.0.1",
+                    "dwebTarget2": "2-1.0.2",
+                    "latest": "2-1.0.2",
+                    "website": "https://www.cosmicdp.com/"
+                }
+            ]
+        },
+        {
+            "category": "trading",
+            "name": "交易",
+            "icon": "/all-icon/icon-trading.svg",
+            "themeColor": "#4DBCF0",
+            "applist": [
+                {
+                    "name": "BTCSwap",
+                    "logo": "/all-logo/BTCSwap.png",
+                    "description": "BTCSwap应用",
+                    "metadata": "/btcswap/metadata.json",
+                    "dwebTarget1": "1-2.0.0",
+                    "dwebTarget2": "2-2.1.0",
+                    "latest": "2-2.1.0",
+                    "website": "https://www.btcmetaswap.com/"
+                }
+            ]
+        },
+        {
+            "category": "finance",
+            "name": "理财",
+            "icon": "/all-icon/icon-finance.svg",
+            "themeColor": "#D900FF",
+            "applist": [
+                {
+                    "name": "PlusMeta",
+                    "logo": "/all-logo/PlusMeta.png",
+                    "description": "PlusMeta应用",
+                    "metadata": "/plusmeta/metadata.json",
+                    "dwebTarget1": "1-2.0.0",
+                    "dwebTarget2": "2-2.1.0",
+                    "latest": "1-2.1.0",
+                    "website": "https://www.plus-meta.com/"
+                },
+                {
+                    "name": "MetaLord",
+                    "logo": "/all-logo/MetaLord.png",
+                    "description": "MetaLord应用",
+                    "metadata": "/metalord/metadata.json",
+                    "dwebTarget2": "2-1.0.0",
+                    "latest": "2-1.0.0"
+                }
+            ]
+        },
+        {
+            "category": "universe-social",
+            "name": "元宇宙社交",
+            "icon": "/all-icon/icon-universe-social.svg",
+            "themeColor": "#9EC417",
+            "applist": [
+                {
+                    "name": "碳元域",
+                    "logo": "/all-logo/Tansocc.png",
+                    "description": "碳元域",
+                    "website": "https://www.tansocc.com/"
+                }
+            ]
+        },
+        {
+            "category": "node",
+            "name": "节点应用",
+            "icon": "/all-icon/icon-node.svg",
+            "themeColor": "#5C2FCD",
+            "applist": [
+                {
+                    "name": "节点管理器",
+                    "logo": "/all-logo/NodeManage.png",
+                    "description": "节点管理器",
+                    "website": "https://developer.bfchainv2.com/bfchainv2-node-manager/"
+                }
+            ]
+        },
+        {
+            "category": "other",
+            "name": "其他应用",
+            "icon": "/all-icon/icon-other.svg",
+            "themeColor": "#5DCE4E",
+            "applist": [
+                {
+                    "name": "DwebBrowser",
+                    "logo": "/all-logo/DwebBrowser.png",
+                    "description": "DwebBrowser",
+                    "website": "https://dweb-browser.bagen.info/"
+                }
+            ]
+        }
+    ]
 }
