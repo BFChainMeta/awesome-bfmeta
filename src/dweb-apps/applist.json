@@ -49,8 +49,8 @@
             "description": "MetaBox应用",
             "metadata": "/metabox/metadata.json",
             "dwebTarget1":"1-1.2.201",
-            "dwebTarget2":"2-1.2.201",
-            "latest":"2-1.2.201"
+            "dwebTarget2":"2-1.2.300",
+            "latest":"2-1.2.300"
         },
         "btcswap": {
             "name": "BTCSwap",
