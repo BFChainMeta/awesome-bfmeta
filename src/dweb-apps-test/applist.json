@@ -289,12 +289,6 @@
                     "logo": "/all-logo/NodeManage.png",
                     "description": "节点管理器",
                     "website": "https://developer.bfchainv2.com/bfchainv2-node-manager/"
-                },
-                {
-                    "name": "实施平台",
-                    "logo": "/all-logo/Platform.png",
-                    "description": "实施平台",
-                    "website": "https://instinct.one/home"
                 }
             ]
         },
