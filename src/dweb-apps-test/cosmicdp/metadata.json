@@ -6,17 +6,17 @@
   },
   "minTarget": 2,
   "maxTarget": 2,
-  "name": "Cosmic dp Test",
+  "name": "Cosmic DP Test",
   "short_name": "Cosmic DP Test",
   "description": "欢迎来到我们突破性的Web3 分布式 DP/NFT 数字交易市场 - Cosmic DP！\n链上安全存储，用 Cosmic DP 改变你的世界\n在尖端的 BioforestChain 区块链技术下，见证您的现实世界资产（无论是房地产、知识、艺术、音乐、电影、体育还是游戏）转变为不可磨灭且永久可追溯的链上数字资产，即 DP/NFT。\nDP：数字货币的未来\nDP象征着数字货币的未来，赋予数字资产真正的所有权，并将其与现实世界的经济和社会系统联系起来。\n数字经济革命的曙光\n参与DP交易和市场，发现新的投资机会，释放创造财富的潜力，同时抓住未来的价值前景\n",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./alphacosmicdp.com.dweb-1.20240206.3.zip",
-  "bundle_hash": "sha256:87de0e31bdd06ea81c257137e5946e1189041944c17ef6fc8500787824516b7a",
-  "bundle_size": 16686158,
+  "bundle_url": "./alphacosmicdp.com.dweb-1.20240206.4.zip",
+  "bundle_hash": "sha256:f9355da3e1184372d3840007a0742b0f8b4313ebee21342b6bd4da7a98cd1b75",
+  "bundle_size": 16676311,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Tue Feb 06 2024 19:32:08 GMT+0800 (中国标准时间)",
-  "change_log": "应用上线",
+  "release_date": "Tue Feb 06 2024 21:22:51 GMT+0800 (中国标准时间)",
+  "change_log": "已知bug修复",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_01.jpg",
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/desc_02.jpg",
@@ -29,7 +29,7 @@
     "bfs",
     "bfs@bfs.com"
   ],
-  "version": "1.20240206.3",
+  "version": "1.20240206.4",
   "categories": [
     "application"
   ],
