@@ -67,8 +67,8 @@
             "description": "CosmicDP应用",
             "metadata": "/cosmicdp/metadata.json",
             "dwebTarget1": "1-1.20240120.2",
-            "dwebTarget2": "2-1.20240206.1",
-            "latest": "2-1.20240206.1"
+            "dwebTarget2": "2-1.20240206.3",
+            "latest": "2-1.20240206.3"
         },
         "dphub": {
             "name": "DPHub",
@@ -76,8 +76,8 @@
             "description": "DPHub应用",
             "metadata": "/dphub/metadata.json",
             "dwebTarget1": "1-1.20240204.0",
-            "dwebTarget2": "2-1.20240206.1",
-            "latest": "2-1.20240206.1"
+            "dwebTarget2": "2-1.20240206.2",
+            "latest": "2-1.20240206.2"
         },
         "metalord": {
             "name": "MetaLord",
