@@ -92,8 +92,8 @@
             "logo": "/openchat/logo.png",
             "description": "OpenChat应用",
             "metadata": "/openchat/metadata.json",
-            "dwebTarget2": "2-1.1.1",
-            "latest": "2-1.1.1"
+            "dwebTarget2": "2-1.1.2",
+            "latest": "2-1.1.2"
         }
     },
     "all_products": [

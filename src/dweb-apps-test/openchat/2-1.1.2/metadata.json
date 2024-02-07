@@ -1,0 +1,43 @@
+{
+  "id": "betachatapp.btcmetaswap.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 2,
+  "maxTarget": 2,
+  "name": "Open Chat Beta",
+  "short_name": "Open Chat Beta",
+  "description": "This is an dweb chat app.",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/openchat/logo.png",
+  "bundle_url": "./betachatapp.btcmetaswap.com.dweb-1.1.2.zip",
+  "bundle_hash": "sha256:add7f3f044a9492bfce90f8aed50cd2e9ec6eac7f72e651dad35ca537c7eacf0",
+  "bundle_size": 18094253,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Wed Feb 07 2024 14:03:00 GMT+0800 (中国标准时间)",
+  "change_log": "Fix IOS UI bug",
+  "images": [],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "1.1.2",
+  "categories": [
+    "application"
+  ],
+  "languages": [],
+  "homepage_url": "https://dweb-browser.org/plaoc",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "zh-Hans",
+  "icons": [],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": ""
+}
