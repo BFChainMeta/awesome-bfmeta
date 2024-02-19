@@ -1,0 +1,55 @@
+{
+  "id": "alphabtc-metaverse.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 2,
+  "maxTarget": 2,
+  "name": "BTC Meta Test",
+  "short_name": "BTC Meta Test",
+  "description": "在中本聪发布BTCoin论文15周年纪念日之际，我们引领未来，推出了BTCMeta —— 比特币的元宇宙升级版区块链。BTCMeta不仅继承了比特币的去中心化精神，更融合了最先进的区块链技术，为用户创造了更快速、更安全、更智能的数字金融世界。\n随着BTCMeta的推出，我们自豪地呈现BTC Meta 区块链钱包应用。这款应用不仅是BTCMeta的完美伴侣，更是您进入比特币元宇宙的通行证。BTC Meta 区块链钱包应用带来无与伦比的便捷性，让您轻松管理、交易和储存数字加密资产。无论是一键激活BTCM代币，查看您的NFT或DP，还是探索Web3.0的奇妙世界，BTC Meta 区块链钱包应用都能满足您的所有需求。\n⭐  加密技术360度安全保护\n⭐  支持12/15/18/21/24/36位中文/英文/繁体中文助记词进行备份和恢复；\n⭐  您可以设置8位钱包密码，并通过指纹验证身份，提供二次保护；\n⭐  BTCMeta、BFMeta、PayMetaChain、BFChainV2、ETHMeta、BFChain、CCChain等网络支持链上交易密码设置，为您的资产提供双重加密保障。\n⭐  私钥经过加密并安全存储在您的手机本地，并提供多种私钥备份选项，确保绝不丢失。\n⭐  安全便捷加密货币转账体验\n这是您的全球数字资产一站式管理工具，无论您需要发送或接收资产，只需点击几下，即可完成1000+种区块链资产的交易。\n⭐  任意兑换随心切\n我们提供多种兑换模式，实现随心切换。拥有卓越的交易功能和价格走势图，支持10+主流公链，让您轻松跨链，确保顺畅高效的交易体验。\n\n此外，我们还支持市场上最流行的加密钱包，包括以太坊（ETH）、币安（BSN）、波场（TRX）、BTC Meta（BTCM）、BFMeta（BFM）、ETHMeta（ETHM）、PayMetachain（PMC）、CCChain（CCC）、BFChainV2（BFT）和BFChain（BFT）。加入我们，畅享便捷安全的数字货币世界！\n无论您是区块链领域的专家，还是初入这个数字世界的新手，BTC Meta 区块链钱包应用都将成为您的理想之选。现在就下载BTC Meta，探索比特币元宇宙的奇迹，共同创造数字金融的未来！",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/logo.svg",
+  "bundle_url": "./alphabtc-metaverse.com.dweb-1.20240219.0.zip",
+  "bundle_hash": "sha256:2c09b9c2e5fbcbeb31950491674215acf31a7264d5eb71669dd5abd5885b94a6",
+  "bundle_size": 21788033,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Mon Feb 19 2024 16:34:36 GMT+0800 (中国标准时间)",
+  "change_log": "应用上线",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_04.jpg"
+  ],
+  "author": [
+    "btc-metaverse.com"
+  ],
+  "version": "1.20240219.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.btc-metaverse.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.btc-metaverse.com"
+}
