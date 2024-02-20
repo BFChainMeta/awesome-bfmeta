@@ -10,19 +10,19 @@
   "short_name": "DP Hub",
   "description": "DP Hub 应用",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dphub/logo.svg",
-  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240206.2.zip",
-  "bundle_hash": "sha256:b03ba25a72f142f665acb59150688cdc3879c70e22b45dbd3d0a309c21637f88",
-  "bundle_size": 2816788,
+  "bundle_url": "./alphahub.cosmicdp.com.dweb-1.20240220.3.zip",
+  "bundle_hash": "sha256:485607e0a8c0b67b2a1245415fe93f76934a35dac87a73f0a571aafa6b49fb29",
+  "bundle_size": 3094835,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Tue Feb 06 2024 19:21:56 GMT+0800 (中国标准时间)",
+  "release_date": "Tue Feb 20 2024 16:29:29 GMT+0800 (中国标准时间)",
   "change_log": "应用上线",
   "images": [],
   "author": [
     "bfs",
     "bfs@bfs.com"
   ],
-  "version": "1.20240206.2",
+  "version": "1.20240220.3",
   "categories": [
     "application"
   ],
