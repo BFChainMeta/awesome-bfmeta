@@ -13,8 +13,8 @@
             "description": "ETHMeta应用",
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
-            "dwebTarget2": "2-1.20240219.0",
-            "latest": "2-1.20240219.0"
+            "dwebTarget2": "2-1.20240221.1",
+            "latest": "2-1.20240221.1"
         },
         "btcmeta": {
             "name": "BTCMeta",
@@ -49,8 +49,8 @@
             "description": "MetaBox应用",
             "metadata": "/metabox/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
-            "dwebTarget2": "2-1.20240219.0",
-            "latest": "2-1.20240219.0"
+            "dwebTarget2": "2-1.20240221.1",
+            "latest": "2-1.20240221.1"
         },
         "btcswap": {
             "name": "BTCSwap",
@@ -76,8 +76,8 @@
             "description": "DPHub应用",
             "metadata": "/dphub/metadata.json",
             "dwebTarget1": "1-1.20240204.0",
-            "dwebTarget2": "2-1.20240220.3",
-            "latest": "2-1.20240220.3"
+            "dwebTarget2": "2-1.20240221.0",
+            "latest": "2-1.20240221.0"
         },
         "metalord": {
             "name": "MetaLord",
@@ -166,8 +166,8 @@
                     "description": "ETHMeta应用",
                     "metadata": "/ethmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240219.0",
-                    "latest": "2-1.20240219.0",
+                    "dwebTarget2": "2-1.20240221.1",
+                    "latest": "2-1.20240221.1",
                     "website": "https://eth-metaverse.com/"
                 },
                 {
@@ -196,8 +196,8 @@
                     "description": "MetaBox应用",
                     "metadata": "/metabox/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240219.0",
-                    "latest": "2-1.20240219.0",
+                    "dwebTarget2": "2-1.20240221.1",
+                    "latest": "2-1.20240221.1",
                     "website": "https://www.pmchainbox.com/"
                 }
             ]
