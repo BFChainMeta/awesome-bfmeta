@@ -92,8 +92,8 @@
             "logo": "/dealliance/logo.svg",
             "description": "DigitalEquityAlliance应用",
             "metadata": "/dealliance/metadata.json",
-            "dwebTarget2": "2-1.20240311.0",
-            "latest": "2-1.20240311.0"
+            "dwebTarget2": "2-1.20240311.1",
+            "latest": "2-1.20240311.1"
         },
         "openchat": {
             "name": "OpenChat",
