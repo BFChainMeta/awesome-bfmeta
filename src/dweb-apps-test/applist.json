@@ -40,8 +40,8 @@
             "description": "COT应用",
             "metadata": "/cot/metadata.json",
             "dwebTarget1": "1-1.20240110.1",
-            "dwebTarget2": "2-1.20240221.3",
-            "latest": "2-1.20240221.3"
+            "dwebTarget2": "2-1.20240314.1",
+            "latest": "2-1.20240314.1"
         },
         "metabox": {
             "name": "MetaBox",
@@ -194,8 +194,8 @@
                     "description": "COT应用",
                     "metadata": "/cot/metadata.json",
                     "dwebTarget1": "1-1.20240110.1",
-                    "dwebTarget2": "2-1.20240221.3",
-                    "latest": "2-1.20240221.3",
+                    "dwebTarget2": "2-1.20240314.1",
+                    "latest": "2-1.20240314.1",
                     "website": "https://www.bfmeta.info/"
                 },
                 {
