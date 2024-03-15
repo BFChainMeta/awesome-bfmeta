@@ -16,7 +16,7 @@
   "bundle_signature": "",
   "public_key_url": "",
   "release_date": "Fri Mar 15 2024 11:54:49 GMT+0800 (中国标准时间)",
-  "change_log": "1.新增了使用USDT/USDC充值权益的功能.\n2.新增了多语言中的英语与中文繁体.\n3.支持了K线颜色自定义选项.",
+  "change_log": "1.新增了使用USDT/USDC充值权益的功能;\n2.新增了多语言中的英语与中文繁体;\n3.支持了K线颜色自定义选项.",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_01.jpg",
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_02.jpg",
