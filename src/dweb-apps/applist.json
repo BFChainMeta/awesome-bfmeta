@@ -75,8 +75,8 @@
             "logo": "/dphub/logo.svg",
             "description": "DPHub应用",
             "metadata": "/dphub/metadata.json",
-            "dwebTarget2": "2-0.1.1",
-            "latest": "2-0.1.1"
+            "dwebTarget2": "2-0.1.2",
+            "latest": "2-0.1.2"
         },
         "metalord": {
             "name": "MetaLord",
