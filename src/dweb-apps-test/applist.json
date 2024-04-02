@@ -17,13 +17,13 @@
             "latest": "2-1.20240402.1"
         },
         "btcmeta": {
-            "name": "BTCMeta",
+            "name": "BTGMeta",
             "logo": "/btcmeta/logo.svg",
-            "description": "BTCMeta应用",
+            "description": "BTGMeta应用",
             "metadata": "/btcmeta/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
-            "dwebTarget2": "2-1.20240221.1",
-            "latest": "2-1.20240221.1"
+            "dwebTarget2": "2-1.20240402.1",
+            "latest": "2-1.20240402.1"
         },
         "plusmeta": {
             "name": "PlusMeta",
@@ -135,9 +135,9 @@
                     "community": "https://developer.bfmeta.org/"
                 },
                 {
-                    "name": "BTCMeta",
+                    "name": "BTGMeta",
                     "logo": "/all-logo/BTCMeta.png",
-                    "description": "BTCMeta",
+                    "description": "BTGMeta",
                     "website": "https://btc-metaverse.com/",
                     "tracker": "https://tracker.btc-metaverse.com/"
                 },
@@ -179,13 +179,13 @@
                     "website": "https://eth-metaverse.com/"
                 },
                 {
-                    "name": "BTCMeta",
+                    "name": "BTGMeta",
                     "logo": "/all-logo/BTCMeta.png",
-                    "description": "BTCMeta应用",
+                    "description": "BTGMeta应用",
                     "metadata": "/btcmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240221.1",
-                    "latest": "2-1.20240221.1",
+                    "dwebTarget2": "2-1.20240402.1",
+                    "latest": "2-1.20240402.1",
                     "website": "https://btc-metaverse.com/"
                 },
                 {
