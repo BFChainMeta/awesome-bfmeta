@@ -22,8 +22,8 @@
             "description": "BTGMeta应用",
             "metadata": "/btcmeta/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
-            "dwebTarget2": "2-1.20240402.1",
-            "latest": "2-1.20240402.1"
+            "dwebTarget2": "2-1.20240403.0",
+            "latest": "2-1.20240403.0"
         },
         "plusmeta": {
             "name": "PlusMeta",
@@ -184,8 +184,8 @@
                     "description": "BTGMeta应用",
                     "metadata": "/btcmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240402.1",
-                    "latest": "2-1.20240402.1",
+                    "dwebTarget2": "2-1.20240403.0",
+                    "latest": "2-1.20240403.0",
                     "website": "https://btc-metaverse.com/"
                 },
                 {
