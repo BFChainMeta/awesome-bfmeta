@@ -43,6 +43,14 @@
             "dwebTarget2": "2-1.20240314.1",
             "latest": "2-1.20240314.1"
         },
+        "cot-desktop": {
+            "name": "COT-Desktop",
+            "logo": "/cot/logo.jpg",
+            "description": "COT桌面版应用",
+            "metadata": "/cot-desktop/metadata.json",
+            "dwebTarget2": "2-3.5.1",
+            "latest": "2-3.5.1"
+        },
         "metabox": {
             "name": "MetaBox",
             "logo": "/metabox/logo.svg",
