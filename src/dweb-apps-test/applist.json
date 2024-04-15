@@ -70,7 +70,7 @@
             "latest": "2-1.20240402.1"
         },
         "btcswap-desktop": {
-            "name": "BTCSwap",
+            "name": "BTCSwap-Desktop",
             "logo": "/btcswap/logo.svg",
             "description": "BTCSwap桌面版应用",
             "metadata": "/btcswap-desktop/metadata.json",
