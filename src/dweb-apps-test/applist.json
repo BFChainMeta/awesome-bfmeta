@@ -74,8 +74,8 @@
             "logo": "/btcswap/logo.svg",
             "description": "BTCSwap桌面版应用",
             "metadata": "/btcswap-desktop/metadata.json",
-            "dwebTarget2": "2-1.20240416.0",
-            "latest": "2-1.20240416.0"
+            "dwebTarget2": "2-1.20240416.1",
+            "latest": "2-1.20240416.1"
         },
         "cosmicdp": {
             "name": "CosmicDP",
