@@ -100,16 +100,16 @@
             "logo": "/metalord/logo.svg",
             "description": "MetaLord应用",
             "metadata": "/metalord/metadata.json",
-            "dwebTarget2": "2-1.20240126.0",
-            "latest": "2-1.20240126.0"
+            "dwebTarget2": "2-1.20240418.0",
+            "latest": "2-1.20240418.0"
         },
         "dealliance": {
             "name": "D.E.A",
             "logo": "/dealliance/logo.svg",
             "description": "DigitalEquityAlliance应用",
             "metadata": "/dealliance/metadata.json",
-            "dwebTarget2": "2-1.20240312.2",
-            "latest": "2-1.20240312.2"
+            "dwebTarget2": "2-1.20240418.0",
+            "latest": "2-1.20240418.0"
         },
         "openchat": {
             "name": "OpenChat",
@@ -283,16 +283,16 @@
                     "logo": "/all-logo/MetaLord.png",
                     "description": "MetaLord应用",
                     "metadata": "/metalord/metadata.json",
-                    "dwebTarget2": "2-1.20240126.0",
-                    "latest": "2-1.20240126.0"
+                    "dwebTarget2": "2-1.20240418.0",
+                    "latest": "2-1.20240418.0"
                 },
                 {
                     "name": "D.E.A",
                     "logo": "/dealliance/logo.svg",
                     "description": "DigitalEquityAlliance应用",
                     "metadata": "/dealliance/metadata.json",
-                    "dwebTarget2": "2-1.20240312.2",
-                    "latest": "2-1.20240312.2"
+                    "dwebTarget2": "2-1.20240418.0",
+                    "latest": "2-1.20240418.0"
                 }
             ]
         },
