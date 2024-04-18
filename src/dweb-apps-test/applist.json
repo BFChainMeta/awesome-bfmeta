@@ -100,8 +100,8 @@
             "logo": "/metalord/logo.svg",
             "description": "MetaLord应用",
             "metadata": "/metalord/metadata.json",
-            "dwebTarget2": "2-1.20240418.0",
-            "latest": "2-1.20240418.0"
+            "dwebTarget2": "2-1.20240418.1",
+            "latest": "2-1.20240418.1"
         },
         "dealliance": {
             "name": "D.E.A",
@@ -283,8 +283,8 @@
                     "logo": "/all-logo/MetaLord.png",
                     "description": "MetaLord应用",
                     "metadata": "/metalord/metadata.json",
-                    "dwebTarget2": "2-1.20240418.0",
-                    "latest": "2-1.20240418.0"
+                    "dwebTarget2": "2-1.20240418.1",
+                    "latest": "2-1.20240418.1"
                 },
                 {
                     "name": "D.E.A",
