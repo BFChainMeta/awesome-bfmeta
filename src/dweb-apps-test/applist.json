@@ -25,6 +25,14 @@
             "dwebTarget2": "2-1.20240403.0",
             "latest": "2-1.20240403.0"
         },
+        "btgmeta": {
+            "name": "BTGMeta",
+            "logo": "/btgmeta/logo.svg",
+            "description": "BTGMeta应用",
+            "metadata": "/btgmeta/metadata.json",
+            "dwebTarget2": "2-1.20240403.0",
+            "latest": "2-1.20240403.0"
+        },
         "plusmeta": {
             "name": "PlusMeta",
             "logo": "/plusmeta/logo.svg",
@@ -198,7 +206,7 @@
                     "name": "BTGMeta",
                     "logo": "/all-logo/BTCMeta.png",
                     "description": "BTGMeta应用",
-                    "metadata": "/btcmeta/metadata.json",
+                    "metadata": "/btgmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
                     "dwebTarget2": "2-1.20240403.0",
                     "latest": "2-1.20240403.0",
