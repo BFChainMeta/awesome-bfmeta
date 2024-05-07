@@ -16,14 +16,14 @@
             "dwebTarget2": "2-1.7.1",
             "latest": "2-1.7.1"
         },
-        "btcmeta": {
+        "btgmeta": {
             "name": "BTGMeta",
-            "logo": "/btcmeta/logo.svg",
+            "logo": "/btgmeta/logo.svg",
             "description": "BTGMeta应用",
-            "metadata": "/btcmeta/metadata.json",
+            "metadata": "/btgmeta/metadata.json",
             "dwebTarget1": "1-1.2.8",
-            "dwebTarget2": "2-1.4.0",
-            "latest": "2-1.4.0"
+            "dwebTarget2": "2-1.5.0",
+            "latest": "2-1.5.0"
         },
         "plusmeta": {
             "name": "PlusMeta",
@@ -183,8 +183,8 @@
                     "description": "BTGMeta应用",
                     "metadata": "/btcmeta/metadata.json",
                     "dwebTarget1": "1-1.2.8",
-                    "dwebTarget2": "2-1.4.0",
-                    "latest": "2-1.4.0",
+                    "dwebTarget2": "2-1.5.0",
+                    "latest": "2-1.5.0",
                     "website": "https://btc-metaverse.com/"
                 },
                 {
