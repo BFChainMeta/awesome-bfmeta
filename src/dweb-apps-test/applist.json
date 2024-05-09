@@ -74,8 +74,8 @@
             "description": "BTCSwap应用",
             "metadata": "/btcswap/metadata.json",
             "dwebTarget1": "1-1.20240119.4",
-            "dwebTarget2": "2-1.20240402.1",
-            "latest": "2-1.20240402.1"
+            "dwebTarget2": "2-1.20240509.0",
+            "latest": "2-1.20240509.0"
         },
         "btcswap-desktop": {
             "name": "BTCSwap-Desktop",
@@ -264,8 +264,8 @@
                     "description": "BTCSwap应用",
                     "metadata": "/btcswap/metadata.json",
                     "dwebTarget1": "1-1.20240119.4",
-                    "dwebTarget2": "2-1.20240402.1",
-                    "latest": "2-1.20240402.1",
+                    "dwebTarget2": "2-1.20240509.0",
+                    "latest": "2-1.20240509.0",
                     "website": "https://www.btcmetaswap.com/"
                 }
             ]
