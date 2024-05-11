@@ -16,22 +16,13 @@
             "dwebTarget2": "2-1.20240511.0",
             "latest": "2-1.20240511.0"
         },
-        "btcmeta": {
-            "name": "BTGMeta",
-            "logo": "/btcmeta/logo.svg",
-            "description": "BTGMeta应用",
-            "metadata": "/btcmeta/metadata.json",
-            "dwebTarget1": "1-1.20240104.0",
-            "dwebTarget2": "2-1.20240403.0",
-            "latest": "2-1.20240403.0"
-        },
         "btgmeta": {
             "name": "BTGMeta",
             "logo": "/btgmeta/logo.svg",
             "description": "BTGMeta应用",
             "metadata": "/btgmeta/metadata.json",
-            "dwebTarget2": "2-1.20240403.0",
-            "latest": "2-1.20240403.0"
+            "dwebTarget2": "2-1.20240511.0",
+            "latest": "2-1.20240511.0"
         },
         "plusmeta": {
             "name": "PlusMeta",
@@ -65,8 +56,8 @@
             "description": "MetaBox应用",
             "metadata": "/metabox/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
-            "dwebTarget2": "2-1.20240402.1",
-            "latest": "2-1.20240402.1"
+            "dwebTarget2": "2-1.20240511.0",
+            "latest": "2-1.20240511.0"
         },
         "btcswap": {
             "name": "BTCSwap",
@@ -208,8 +199,8 @@
                     "description": "BTGMeta应用",
                     "metadata": "/btgmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240403.0",
-                    "latest": "2-1.20240403.0",
+                    "dwebTarget2": "2-1.20240511.0",
+                    "latest": "2-1.20240511.0",
                     "website": "https://btc-metaverse.com/"
                 },
                 {
@@ -228,8 +219,8 @@
                     "description": "MetaBox应用",
                     "metadata": "/metabox/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240402.1",
-                    "latest": "2-1.20240402.1",
+                    "dwebTarget2": "2-1.20240511.0",
+                    "latest": "2-1.20240511.0",
                     "website": "https://www.pmchainbox.com/"
                 }
             ]
