@@ -94,6 +94,14 @@
             "dwebTarget2": "2-1.2.0",
             "latest": "2-1.2.0"
         },
+		 "nlalliance": {
+            "name": "NovaLands",
+            "logo": "/nlalliance/logo.svg",
+            "description": "NovaLands Alliance应用",
+            "metadata": "/nlalliance/metadata.json",
+            "dwebTarget2": "2-1.0.0",
+            "latest": "2-1.0.0"
+        },
         "openchat": {
             "name": "OpenChat",
             "logo": "/openchat/test-logo.png",
@@ -276,7 +284,15 @@
                     "metadata": "/dealliance/metadata.json",
                     "dwebTarget2": "2-1.2.0",
                     "latest": "2-1.2.0"
-                }
+                },
+			    {
+					"name": "NovaLands",
+					"logo": "/nlalliance/logo.svg",
+					"description": "NovaLands Alliance应用",
+					"metadata": "/nlalliance/metadata.json",
+					"dwebTarget2": "2-1.0.0",
+					"latest": "2-1.0.0"
+				}
             ]
         },
         {
