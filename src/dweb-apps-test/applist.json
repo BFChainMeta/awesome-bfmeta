@@ -300,7 +300,15 @@
                     "metadata": "/dealliance/metadata.json",
                     "dwebTarget2": "2-1.20240418.1",
                     "latest": "2-1.20240418.1"
-                }
+                },
+				{
+					"name": "NovaLands",
+					"logo": "/nlalliance/logo.svg",
+					"description": "NovaLands Alliance应用",
+					"metadata": "/nlalliance/metadata.json",
+					"dwebTarget2": "2-1.20240510.0",
+					"latest": "2-1.20240510.0"
+				}
             ]
         },
         {
