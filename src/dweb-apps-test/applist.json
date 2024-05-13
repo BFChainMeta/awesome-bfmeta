@@ -107,8 +107,8 @@
             "logo": "/dealliance/logo.svg",
             "description": "DigitalEquityAlliance应用",
             "metadata": "/dealliance/metadata.json",
-            "dwebTarget2": "2-1.20240418.1",
-            "latest": "2-1.20240418.1"
+            "dwebTarget2": "2-1.20240513.0",
+            "latest": "2-1.20240513.0"
         },
 		"nlalliance": {
             "name": "NovaLands",
@@ -298,8 +298,8 @@
                     "logo": "/dealliance/logo.svg",
                     "description": "DigitalEquityAlliance应用",
                     "metadata": "/dealliance/metadata.json",
-                    "dwebTarget2": "2-1.20240418.1",
-                    "latest": "2-1.20240418.1"
+                    "dwebTarget2": "2-1.20240513.0",
+                    "latest": "2-1.20240513.0"
                 },
 				{
 					"name": "NovaLands",
