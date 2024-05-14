@@ -32,7 +32,7 @@
             "metadata": "/plusmeta/metadata.json",
             "dwebTarget1": "1-2.0.0",
             "dwebTarget2": "2-2.1.0",
-            "latest": "1-2.1.0"
+            "latest": "2-2.1.0"
         },
         "cot": {
             "name": "COT",
@@ -266,7 +266,7 @@
                     "metadata": "/plusmeta/metadata.json",
                     "dwebTarget1": "1-2.0.0",
                     "dwebTarget2": "2-2.1.0",
-                    "latest": "1-2.1.0",
+                    "latest": "2-2.1.0",
                     "website": "https://www.plus-meta.com/"
                 },
                 {
