@@ -99,8 +99,8 @@
             "logo": "/nlalliance/logo.svg",
             "description": "NovaLands Alliance应用",
             "metadata": "/nlalliance/metadata.json",
-            "dwebTarget2": "2-1.0.0",
-            "latest": "2-1.0.0"
+            "dwebTarget2": "2-1.0.1",
+            "latest": "2-1.0.1"
         },
         "openchat": {
             "name": "OpenChat",
@@ -290,8 +290,8 @@
 					"logo": "/nlalliance/logo.svg",
 					"description": "NovaLands Alliance应用",
 					"metadata": "/nlalliance/metadata.json",
-					"dwebTarget2": "2-1.0.0",
-					"latest": "2-1.0.0"
+					"dwebTarget2": "2-1.0.1",
+					"latest": "2-1.0.1"
 				}
             ]
         },
