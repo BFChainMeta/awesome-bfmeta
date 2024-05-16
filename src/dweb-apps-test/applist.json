@@ -48,8 +48,8 @@
             "description": "COT桌面版应用",
             "metadata": "/cot-desktop/metadata.json",
             "dwebTarget2": "2-1.20240424.0",
-            "dwebTarget3":"3-1.20240516.0",
-            "latest": "3-1.20240516.0"
+            "dwebTarget3":"3-1.20240516.3",
+            "latest": "3-1.20240516.3"
         },
         "metabox": {
             "name": "MetaBox",
@@ -75,8 +75,8 @@
             "description": "BTCSwap桌面版应用",
             "metadata": "/btcswap-desktop/metadata.json",
             "dwebTarget2": "2-1.20240424.1",
-            "dwebTarget3":"3-1.20240516.0",
-            "latest": "3-1.20240516.0"
+            "dwebTarget3":"3-1.20240516.3",
+            "latest": "3-1.20240516.3"
         },
         "cosmicdp": {
             "name": "CosmicDP",
