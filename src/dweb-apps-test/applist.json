@@ -39,8 +39,8 @@
             "description": "COT应用",
             "metadata": "/cot/metadata.json",
             "dwebTarget1": "1-1.20240110.1",
-            "dwebTarget2": "2-1.20240515.1",
-            "latest": "2-1.20240515.1"
+            "dwebTarget2": "2-1.20240517.2",
+            "latest": "2-1.20240517.2"
         },
         "cot-desktop": {
             "name": "COT-Desktop",
@@ -227,8 +227,8 @@
                     "description": "COT应用",
                     "metadata": "/cot/metadata.json",
                     "dwebTarget1": "1-1.20240110.1",
-                    "dwebTarget2": "2-1.20240515.1",
-                    "latest": "2-1.20240515.1",
+                    "dwebTarget2": "2-1.20240517.2",
+                    "latest": "2-1.20240517.2",
                     "website": "https://www.bfmeta.info/"
                 },
                 {
