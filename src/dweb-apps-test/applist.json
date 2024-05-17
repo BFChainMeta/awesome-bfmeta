@@ -14,6 +14,7 @@
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
             "dwebTarget2": "2-1.20240514.0",
+            "dwebTarget3":"3-1.20240517.0",
             "latest": "2-1.20240514.0"
         },
         "btgmeta": {
@@ -22,6 +23,7 @@
             "description": "BTGMeta应用",
             "metadata": "/btgmeta/metadata.json",
             "dwebTarget2": "2-1.20240514.0",
+            "dwebTarget3":"3-1.20240517.0",
             "latest": "2-1.20240514.0"
         },
         "plusmeta": {
@@ -40,6 +42,7 @@
             "metadata": "/cot/metadata.json",
             "dwebTarget1": "1-1.20240110.1",
             "dwebTarget2": "2-1.20240517.2",
+            "dwebTarget3":"3-1.20240517.0",
             "latest": "2-1.20240517.2"
         },
         "cot-desktop": {
@@ -58,6 +61,7 @@
             "metadata": "/metabox/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
             "dwebTarget2": "2-1.20240514.0",
+            "dwebTarget3":"3-1.20240517.0",
             "latest": "2-1.20240514.0"
         },
         "btcswap": {
@@ -208,6 +212,7 @@
                     "metadata": "/ethmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
                     "dwebTarget2": "2-1.20240514.0",
+                    "dwebTarget3":"3-1.20240517.0",
                     "latest": "2-1.20240514.0",
                     "website": "https://eth-metaverse.com/"
                 },
@@ -216,8 +221,8 @@
                     "logo": "/all-logo/BTCMeta.png",
                     "description": "BTGMeta应用",
                     "metadata": "/btgmeta/metadata.json",
-                    "dwebTarget1": "1-1.20240104.0",
                     "dwebTarget2": "2-1.20240514.0",
+                    "dwebTarget3":"3-1.20240517.0",
                     "latest": "2-1.20240514.0",
                     "website": "https://btc-metaverse.com/"
                 },
@@ -228,6 +233,7 @@
                     "metadata": "/cot/metadata.json",
                     "dwebTarget1": "1-1.20240110.1",
                     "dwebTarget2": "2-1.20240517.2",
+                    "dwebTarget3":"3-1.20240517.0",
                     "latest": "2-1.20240517.2",
                     "website": "https://www.bfmeta.info/"
                 },
@@ -238,6 +244,7 @@
                     "metadata": "/metabox/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
                     "dwebTarget2": "2-1.20240514.0",
+                    "dwebTarget3":"3-1.20240517.0",
                     "latest": "2-1.20240514.0",
                     "website": "https://www.pmchainbox.com/"
                 }

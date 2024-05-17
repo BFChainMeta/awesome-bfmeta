@@ -1,0 +1,56 @@
+{
+  "id": "alphaeth-metaverse.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "ETH Meta Test",
+  "short_name": "ETH Meta Test",
+  "description": "ETHMeta是基于BFMeta底层区块链架构开发的公有链，旨在帮助以太坊各方面性能升级。\n⭐ 无时间地域限制，安全&轻松转账加密货币\n立即享受全球范围内的加密货币交易！无论您是发送还是接收，只需轻轻点击按钮，即可轻松完成超过1000+种受支持的区块链资产。您的全球数字资产管理工具，现已上线！\n⭐ 升级以太坊，无缝桥接ETHMeta\n一键实现以太坊的元宇宙升级，更丝滑体验元宇宙链上交易\n⭐ 多种兑换模式，灵活切换\n拥有卓越的交易功能，提供精准的K线图表，支持9+主流公链，轻松实现一键跨链，确保交易体验的顺畅和高效。\n⭐ 全方位安全保护技术\n支持12/15/18/21/24/36位中文/英文/繁体中文助记词进行备份和恢复；\n设置8位钱包密码，并通过指纹进行身份验证，我们可以为您提供二次保护；\nBFMeta/PayMetaChain/BFChainV2/ETHMeta/BFChain/CCChain网络支持设置链上交易密码，资产双重加密保障；\n私钥经过加密并安全存储在您的手机本地，并提供多种私钥备份选项以确保它们不丢失。\n⭐ 支持最流行的加密钱包：\n以太坊 ETH\n币安 BSN\n波场 TRX\nBFMeta BFM\nETHMeta ETHM\nPayMetachain PMC\nCCChain CCC\nBFChainV2 BFT\nBFChain BFT\n下载 ETH Meta 以获得元宇宙加密货币钱包体验。",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/logo.svg",
+  "bundle_url": "./alphaeth-metaverse.com.dweb-1.20240517.0.zip",
+  "bundle_hash": "sha256:6dbfb4e5f7644fe687b14944878948d4b386ddb24dbeb8993fe827127003b6b8",
+  "bundle_size": 21854397,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Fri May 17 2024 21:36:13 GMT+0800 (中国标准时间)",
+  "change_log": "\n1.币安网络支持FIL合约代币交易；\n2.以太坊网络支持Huobi FIL合约代币交易",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_05.jpg"
+  ],
+  "author": [
+    "eth-metaverse.com"
+  ],
+  "version": "1.20240517.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.eth-metaverse.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.eth-metaverse.com"
+}
