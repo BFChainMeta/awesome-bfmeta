@@ -120,6 +120,14 @@
             "dwebTarget2": "2-1.20240510.0",
             "latest": "2-1.20240510.0"
         },
+         "deehub": {
+            "name": "DB Digital Equity Hub",
+            "logo": "/deehub/logo.svg",
+            "description": "DB Digital Equity Hub应用",
+            "metadata": "/deehub/metadata.json",
+            "dwebTarget2": "2-1.20240516.0",
+            "latest": "2-1.20240516.0"
+        },
         "openchat": {
             "name": "OpenChat",
             "logo": "/openchat/logo.png",
@@ -268,6 +276,14 @@
                     "dwebTarget2": "2-1.20240509.0",
                     "latest": "2-1.20240509.0",
                     "website": "https://www.btcmetaswap.com/"
+                },
+                {
+                    "name": "DB Digital Equity Hub",
+                    "logo": "/deehub/logo.svg",
+                    "description": "DB Digital Equity Hub应用",
+                    "metadata": "/deehub/metadata.json",
+                    "dwebTarget2": "2-1.20240516.0",
+                    "latest": "2-1.20240516.0"
                 }
             ]
         },
