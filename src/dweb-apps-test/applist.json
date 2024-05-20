@@ -14,7 +14,7 @@
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
             "dwebTarget2": "2-1.20240514.0",
-            "dwebTarget3":"3-1.20240517.0",
+            "dwebTarget3": "3-1.20240517.0",
             "latest": "2-1.20240514.0"
         },
         "btgmeta": {
@@ -23,7 +23,7 @@
             "description": "BTGMeta应用",
             "metadata": "/btgmeta/metadata.json",
             "dwebTarget2": "2-1.20240514.0",
-            "dwebTarget3":"3-1.20240517.0",
+            "dwebTarget3": "3-1.20240517.0",
             "latest": "2-1.20240514.0"
         },
         "plusmeta": {
@@ -42,7 +42,7 @@
             "metadata": "/cot/metadata.json",
             "dwebTarget1": "1-1.20240110.1",
             "dwebTarget2": "2-1.20240520.0",
-            "dwebTarget3":"3-1.20240517.0",
+            "dwebTarget3": "3-1.20240517.0",
             "latest": "2-1.20240517.2"
         },
         "cot-desktop": {
@@ -51,7 +51,7 @@
             "description": "COT桌面版应用",
             "metadata": "/cot-desktop/metadata.json",
             "dwebTarget2": "2-1.20240424.0",
-            "dwebTarget3":"3-1.20240516.3",
+            "dwebTarget3": "3-1.20240516.3",
             "latest": "3-1.20240516.3"
         },
         "metabox": {
@@ -61,7 +61,7 @@
             "metadata": "/metabox/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
             "dwebTarget2": "2-1.20240514.0",
-            "dwebTarget3":"3-1.20240517.0",
+            "dwebTarget3": "3-1.20240517.0",
             "latest": "2-1.20240514.0"
         },
         "btcswap": {
@@ -71,6 +71,7 @@
             "metadata": "/btcswap/metadata.json",
             "dwebTarget1": "1-1.20240119.4",
             "dwebTarget2": "2-1.20240509.0",
+            "dwebTarget3": "3-1.20240516.3",
             "latest": "2-1.20240509.0"
         },
         "btcswap-desktop": {
@@ -79,7 +80,7 @@
             "description": "BTCSwap桌面版应用",
             "metadata": "/btcswap-desktop/metadata.json",
             "dwebTarget2": "2-1.20240424.1",
-            "dwebTarget3":"3-1.20240516.3",
+            "dwebTarget3": "3-1.20240516.3",
             "latest": "3-1.20240516.3"
         },
         "cosmicdp": {
@@ -116,7 +117,7 @@
             "dwebTarget2": "2-1.20240513.0",
             "latest": "2-1.20240513.0"
         },
-		"nlalliance": {
+        "nlalliance": {
             "name": "NovaLands",
             "logo": "/nlalliance/logo.svg",
             "description": "NovaLands Alliance应用",
@@ -124,7 +125,7 @@
             "dwebTarget2": "2-1.20240510.0",
             "latest": "2-1.20240510.0"
         },
-         "deehub": {
+        "deehub": {
             "name": "DB Digital Equity Hub",
             "logo": "/deehub/logo.svg",
             "description": "DB Digital Equity Hub应用",
@@ -212,7 +213,7 @@
                     "metadata": "/ethmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
                     "dwebTarget2": "2-1.20240514.0",
-                    "dwebTarget3":"3-1.20240517.0",
+                    "dwebTarget3": "3-1.20240517.0",
                     "latest": "2-1.20240514.0",
                     "website": "https://eth-metaverse.com/"
                 },
@@ -222,7 +223,7 @@
                     "description": "BTGMeta应用",
                     "metadata": "/btgmeta/metadata.json",
                     "dwebTarget2": "2-1.20240514.0",
-                    "dwebTarget3":"3-1.20240517.0",
+                    "dwebTarget3": "3-1.20240517.0",
                     "latest": "2-1.20240514.0",
                     "website": "https://btc-metaverse.com/"
                 },
@@ -233,7 +234,7 @@
                     "metadata": "/cot/metadata.json",
                     "dwebTarget1": "1-1.20240110.1",
                     "dwebTarget2": "2-1.20240520.0",
-                    "dwebTarget3":"3-1.20240517.0",
+                    "dwebTarget3": "3-1.20240517.0",
                     "latest": "2-1.20240517.2",
                     "website": "https://www.bfmeta.info/"
                 },
@@ -244,7 +245,7 @@
                     "metadata": "/metabox/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
                     "dwebTarget2": "2-1.20240514.0",
-                    "dwebTarget3":"3-1.20240517.0",
+                    "dwebTarget3": "3-1.20240517.0",
                     "latest": "2-1.20240514.0",
                     "website": "https://www.pmchainbox.com/"
                 }
@@ -281,6 +282,7 @@
                     "metadata": "/btcswap/metadata.json",
                     "dwebTarget1": "1-1.20240119.4",
                     "dwebTarget2": "2-1.20240509.0",
+                    "dwebTarget3": "3-1.20240516.3",
                     "latest": "2-1.20240509.0",
                     "website": "https://www.btcmetaswap.com/"
                 },
@@ -326,14 +328,14 @@
                     "dwebTarget2": "2-1.20240513.0",
                     "latest": "2-1.20240513.0"
                 },
-				{
-					"name": "NovaLands",
-					"logo": "/nlalliance/logo.svg",
-					"description": "NovaLands Alliance应用",
-					"metadata": "/nlalliance/metadata.json",
-					"dwebTarget2": "2-1.20240510.0",
-					"latest": "2-1.20240510.0"
-				}
+                {
+                    "name": "NovaLands",
+                    "logo": "/nlalliance/logo.svg",
+                    "description": "NovaLands Alliance应用",
+                    "metadata": "/nlalliance/metadata.json",
+                    "dwebTarget2": "2-1.20240510.0",
+                    "latest": "2-1.20240510.0"
+                }
             ]
         },
         {
