@@ -13,18 +13,18 @@
             "description": "ETHMeta应用",
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
-            "dwebTarget2": "2-1.20240521.1",
+            "dwebTarget2": "2-1.20240521.2",
             "dwebTarget3": "3-1.20240517.0",
-            "latest": "2-1.20240521.1"
+            "latest": "2-1.20240521.2"
         },
         "btgmeta": {
             "name": "BTGMeta",
             "logo": "/btgmeta/logo.svg",
             "description": "BTGMeta应用",
             "metadata": "/btgmeta/metadata.json",
-            "dwebTarget2": "2-1.20240521.1",
+            "dwebTarget2": "2-1.20240521.2",
             "dwebTarget3": "3-1.20240517.0",
-            "latest": "2-1.20240521.1"
+            "latest": "2-1.20240521.2"
         },
         "plusmeta": {
             "name": "PlusMeta",
@@ -51,9 +51,9 @@
             "description": "MetaBox应用",
             "metadata": "/metabox/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
-            "dwebTarget2": "2-1.20240521.1",
+            "dwebTarget2": "2-1.20240521.2",
             "dwebTarget3": "3-1.20240517.0",
-            "latest": "2-1.20240521.1"
+            "latest": "2-1.20240521.2"
         },
         "btcswap": {
             "name": "BTCSwap",
@@ -194,9 +194,9 @@
                     "description": "ETHMeta应用",
                     "metadata": "/ethmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240521.1",
+                    "dwebTarget2": "2-1.20240521.2",
                     "dwebTarget3": "3-1.20240517.0",
-                    "latest": "2-1.20240521.1",
+                    "latest": "2-1.20240521.2",
                     "website": "https://eth-metaverse.com/"
                 },
                 {
@@ -204,9 +204,9 @@
                     "logo": "/all-logo/BTCMeta.png",
                     "description": "BTGMeta应用",
                     "metadata": "/btgmeta/metadata.json",
-                    "dwebTarget2": "2-1.20240521.1",
+                    "dwebTarget2": "2-1.20240521.2",
                     "dwebTarget3": "3-1.20240517.0",
-                    "latest": "2-1.20240521.1",
+                    "latest": "2-1.20240521.2",
                     "website": "https://btc-metaverse.com/"
                 },
                 {
@@ -226,9 +226,9 @@
                     "description": "MetaBox应用",
                     "metadata": "/metabox/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
-                    "dwebTarget2": "2-1.20240521.1",
+                    "dwebTarget2": "2-1.20240521.2",
                     "dwebTarget3": "3-1.20240517.0",
-                    "latest": "2-1.20240521.1",
+                    "latest": "2-1.20240521.2",
                     "website": "https://www.pmchainbox.com/"
                 }
             ]
