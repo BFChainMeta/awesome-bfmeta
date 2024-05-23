@@ -112,8 +112,8 @@
             "logo": "/deehub/logo.svg",
             "description": "DB Digital Equity Hub应用",
             "metadata": "/deehub/metadata.json",
-            "dwebTarget2": "2-1.20240523.0",
-            "latest": "2-1.20240523.0"
+            "dwebTarget2": "2-1.20240523.1",
+            "latest": "2-1.20240523.1"
         },
         "openchat": {
             "name": "OpenChat",
@@ -273,8 +273,8 @@
                     "logo": "/deehub/logo.svg",
                     "description": "DB Digital Equity Hub应用",
                     "metadata": "/deehub/metadata.json",
-                    "dwebTarget2": "2-1.20240523.0",
-                    "latest": "2-1.20240523.0"
+                    "dwebTarget2": "2-1.20240523.1",
+                    "latest": "2-1.20240523.1"
                 }
             ]
         },
