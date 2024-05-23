@@ -49,8 +49,8 @@
             "description": "MetaBox应用",
             "metadata": "/metabox/metadata.json",
             "dwebTarget1": "1-1.2.201",
-            "dwebTarget2": "2-1.5.0",
-            "latest": "2-1.5.0"
+            "dwebTarget2": "2-1.5.1",
+            "latest": "2-1.5.1"
         },
         "btcswap": {
             "name": "BTCSwap",
@@ -211,8 +211,8 @@
                     "description": "MetaBox应用",
                     "metadata": "/metabox/metadata.json",
                     "dwebTarget1": "1-1.2.201",
-                    "dwebTarget2": "2-1.5.0",
-                    "latest": "2-1.5.0",
+                    "dwebTarget2": "2-1.5.1",
+                    "latest": "2-1.5.1",
                     "website": "https://www.pmchainbox.com/"
                 }
             ]
