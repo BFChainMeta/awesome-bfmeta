@@ -13,8 +13,8 @@
             "description": "ETHMeta应用",
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1": "1-1.5.2",
-            "dwebTarget2": "2-1.7.2",
-            "latest": "2-1.7.2"
+            "dwebTarget2": "2-1.7.3",
+            "latest": "2-1.7.3"
         },
         "btgmeta": {
             "name": "BTGMeta",
@@ -181,8 +181,8 @@
                     "description": "ETHMeta应用",
                     "metadata": "/ethmeta/metadata.json",
                     "dwebTarget1": "1-1.5.2",
-                    "dwebTarget2": "2-1.7.2",
-                    "latest": "2-1.7.2",
+                    "dwebTarget2": "2-1.7.3",
+                    "latest": "2-1.7.3",
                     "website": "https://eth-metaverse.com/"
                 },
                 {
