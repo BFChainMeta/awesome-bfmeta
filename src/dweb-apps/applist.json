@@ -67,8 +67,8 @@
             "description": "CosmicDP应用",
             "metadata": "/cosmicdp/metadata.json",
             "dwebTarget1": "1-1.0.1",
-            "dwebTarget2": "2-1.2.0",
-            "latest": "2-1.2.0"
+            "dwebTarget2": "2-1.3.0",
+            "latest": "2-1.3.0"
         },
         "dphub": {
             "name": "DPHub",
@@ -229,8 +229,8 @@
                     "description": "CosmicDP应用",
                     "metadata": "/cosmicdp/metadata.json",
                     "dwebTarget1": "1-1.0.1",
-                    "dwebTarget2": "2-1.2.0",
-                    "latest": "2-1.2.0",
+                    "dwebTarget2": "2-1.3.0",
+                    "latest": "2-1.3.0",
                     "website": "https://www.cosmicdp.com/"
                 }
             ]
