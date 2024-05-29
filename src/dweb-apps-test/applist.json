@@ -98,6 +98,7 @@
             "description": "DigitalEquityAlliance应用",
             "metadata": "/dealliance/metadata.json",
             "dwebTarget2": "2-1.20240513.0",
+            "dwebTarget3": "3-1.20240529.0",
             "latest": "2-1.20240513.0"
         },
         "nlalliance": {
@@ -311,6 +312,7 @@
                     "description": "DigitalEquityAlliance应用",
                     "metadata": "/dealliance/metadata.json",
                     "dwebTarget2": "2-1.20240513.0",
+                    "dwebTarget3": "3-1.20240529.0",
                     "latest": "2-1.20240513.0"
                 },
                 {
