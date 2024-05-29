@@ -106,6 +106,7 @@
             "description": "NovaLands Alliance应用",
             "metadata": "/nlalliance/metadata.json",
             "dwebTarget2": "2-1.20240510.0",
+            "dwebTarget3": "3-1.20240529.0",
             "latest": "2-1.20240510.0"
         },
         "deehub": {
@@ -318,6 +319,7 @@
                     "description": "NovaLands Alliance应用",
                     "metadata": "/nlalliance/metadata.json",
                     "dwebTarget2": "2-1.20240510.0",
+                    "dwebTarget3": "3-1.20240529.0",
                     "latest": "2-1.20240510.0"
                 }
             ]
