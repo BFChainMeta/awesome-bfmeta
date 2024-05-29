@@ -14,7 +14,7 @@
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
             "dwebTarget2": "2-1.20240521.2",
-            "dwebTarget3": "3-1.20240524.0",
+            "dwebTarget3": "3-1.20240529.0",
             "latest": "2-1.20240521.2"
         },
         "btgmeta": {
@@ -23,7 +23,7 @@
             "description": "BTGMeta应用",
             "metadata": "/btgmeta/metadata.json",
             "dwebTarget2": "2-1.20240521.2",
-            "dwebTarget3": "3-1.20240524.0",
+            "dwebTarget3": "3-1.20240529.0",
             "latest": "2-1.20240521.2"
         },
         "plusmeta": {
@@ -62,7 +62,7 @@
             "metadata": "/btcswap/metadata.json",
             "dwebTarget1": "1-1.20240119.4",
             "dwebTarget2": "2-1.20240509.0",
-            "dwebTarget3": "3-1.20240527.0",
+            "dwebTarget3": "3-1.20240529.0",
             "latest": "2-1.20240509.0"
         },
         "cosmicdp": {
@@ -195,7 +195,7 @@
                     "metadata": "/ethmeta/metadata.json",
                     "dwebTarget1": "1-1.20240104.0",
                     "dwebTarget2": "2-1.20240521.2",
-                    "dwebTarget3": "3-1.20240524.0",
+                    "dwebTarget3": "3-1.20240529.0",
                     "latest": "2-1.20240521.2",
                     "website": "https://eth-metaverse.com/"
                 },
@@ -205,7 +205,7 @@
                     "description": "BTGMeta应用",
                     "metadata": "/btgmeta/metadata.json",
                     "dwebTarget2": "2-1.20240521.2",
-                    "dwebTarget3": "3-1.20240524.0",
+                    "dwebTarget3": "3-1.20240529.0",
                     "latest": "2-1.20240521.2",
                     "website": "https://btc-metaverse.com/"
                 },
@@ -264,7 +264,7 @@
                     "metadata": "/btcswap/metadata.json",
                     "dwebTarget1": "1-1.20240119.4",
                     "dwebTarget2": "2-1.20240509.0",
-                    "dwebTarget3": "3-1.20240527.0",
+                    "dwebTarget3": "3-1.20240529.0",
                     "latest": "2-1.20240509.0",
                     "website": "https://www.btcmetaswap.com/"
                 },
