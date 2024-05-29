@@ -33,6 +33,7 @@
             "metadata": "/plusmeta/metadata.json",
             "dwebTarget1": "1-1.20231212.5",
             "dwebTarget2": "2-1.20240306.0",
+            "dwebTarget3": "3-1.20240529.0",
             "latest": "2-1.20240306.0"
         },
         "cot": {
@@ -116,6 +117,7 @@
             "description": "DB Digital Equity Hub应用",
             "metadata": "/deehub/metadata.json",
             "dwebTarget2": "2-1.20240524.1",
+            "dwebTarget3": "3-1.20240529.0",
             "latest": "2-1.20240524.1"
         },
         "openchat": {
@@ -278,6 +280,7 @@
                     "description": "DB Digital Equity Hub应用",
                     "metadata": "/deehub/metadata.json",
                     "dwebTarget2": "2-1.20240524.1",
+                    "dwebTarget3": "3-1.20240529.0",
                     "latest": "2-1.20240524.1"
                 }
             ]
@@ -295,6 +298,7 @@
                     "metadata": "/plusmeta/metadata.json",
                     "dwebTarget1": "1-1.20231212.5",
                     "dwebTarget2": "2-1.20240306.0",
+                    "dwebTarget3": "3-1.20240529.0",
                     "latest": "2-1.20240306.0",
                     "website": "https://www.plus-meta.com/"
                 },
