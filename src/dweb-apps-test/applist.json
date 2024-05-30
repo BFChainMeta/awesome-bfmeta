@@ -32,9 +32,9 @@
             "description": "PlusMeta应用",
             "metadata": "/plusmeta/metadata.json",
             "dwebTarget1": "1-1.20231212.5",
-            "dwebTarget2": "2-1.20240530.0",
+            "dwebTarget2": "2-1.20240530.2",
             "dwebTarget3": "3-1.20240529.0",
-            "latest": "2-1.20240530.0"
+            "latest": "2-1.20240530.2"
         },
         "cot": {
             "name": "COT",
@@ -42,9 +42,9 @@
             "description": "COT应用",
             "metadata": "/cot/metadata.json",
             "dwebTarget1": "1-1.20240110.1",
-            "dwebTarget2": "2-1.20240529.0",
+            "dwebTarget2": "2-1.20240530.0",
             "dwebTarget3": "3-1.20240528.1",
-            "latest": "2-1.20240529.0"
+            "latest": "2-1.20240530.0"
         },
         "metabox": {
             "name": "MetaBox",
@@ -220,9 +220,9 @@
                     "description": "COT应用",
                     "metadata": "/cot/metadata.json",
                     "dwebTarget1": "1-1.20240110.1",
-                    "dwebTarget2": "2-1.20240529.0",
+                    "dwebTarget2": "2-1.20240530.0",
                     "dwebTarget3": "3-1.20240528.1",
-                    "latest": "2-1.20240529.0",
+                    "latest": "2-1.20240530.0",
                     "website": "https://www.bfmeta.info/"
                 },
                 {
@@ -297,9 +297,9 @@
                     "description": "PlusMeta应用",
                     "metadata": "/plusmeta/metadata.json",
                     "dwebTarget1": "1-1.20231212.5",
-                    "dwebTarget2": "2-1.20240530.0",
+                    "dwebTarget2": "2-1.20240530.2",
                     "dwebTarget3": "3-1.20240529.0",
-                    "latest": "2-1.20240530.0",
+                    "latest": "2-1.20240530.2",
                     "website": "https://www.plus-meta.com/"
                 },
                 {
