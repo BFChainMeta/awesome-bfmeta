@@ -31,8 +31,8 @@
             "description": "PlusMeta应用",
             "metadata": "/plusmeta/metadata.json",
             "dwebTarget1": "1-2.0.0",
-            "dwebTarget2": "2-2.1.0",
-            "latest": "2-2.1.0"
+            "dwebTarget2": "2-2.1.1",
+            "latest": "2-2.1.1"
         },
         "cot": {
             "name": "COT",
@@ -281,8 +281,8 @@
                     "description": "PlusMeta应用",
                     "metadata": "/plusmeta/metadata.json",
                     "dwebTarget1": "1-2.0.0",
-                    "dwebTarget2": "2-2.1.0",
-                    "latest": "2-2.1.0",
+                    "dwebTarget2": "2-2.1.1",
+                    "latest": "2-2.1.1",
                     "website": "https://www.plus-meta.com/"
                 },
                 {
