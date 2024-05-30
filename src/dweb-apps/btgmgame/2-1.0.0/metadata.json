@@ -1,0 +1,52 @@
+{
+  "id": "qpgame.btgmeta.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 2,
+  "maxTarget": 2,
+  "name": "棋牌对战",
+  "short_name": "棋牌对战",
+  "description": "棋牌对战是一款传统棋牌游戏结合区块链,为喜爱棋牌游戏类的区块链玩家量身打造的掌上棋牌娱乐平台,精致游戏画面加之专业游戏规则,公平的游戏环境为玩家塑造了一个真正实力较量的舞台。",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btgmgame/logo.png",
+  "bundle_url": "./qpgame.btgmeta.dweb-1.0.0.zip",
+  "bundle_hash": "sha256:711a87c28d9e48506741f2a0f76ec9088ce9f5acb1610c7c393decb170565773",
+  "bundle_size": 65483571,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu May 30 2024 14:00:00 GMT+0800 (中国标准时间)",
+  "change_log": "1. 重磅上线,同场竞技,畅玩娱乐!",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btgmgame/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btgmgame/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btgmgame/desc_03.jpg"
+  ],
+  "author": [
+    "@qipaigame.info"
+  ],
+  "version": "1.0.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "中文"
+  ],
+  "homepage_url": "https://www.game-qipai.info",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btgmgame/logo.png"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.game-qipai.info"
+}
