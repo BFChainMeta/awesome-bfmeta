@@ -32,9 +32,9 @@
             "description": "PlusMeta应用",
             "metadata": "/plusmeta/metadata.json",
             "dwebTarget1": "1-1.20231212.5",
-            "dwebTarget2": "2-1.20240530.2",
+            "dwebTarget2": "2-1.20240530.4",
             "dwebTarget3": "3-1.20240529.0",
-            "latest": "2-1.20240530.2"
+            "latest": "2-1.20240530.4"
         },
         "cot": {
             "name": "COT",
@@ -63,7 +63,7 @@
             "metadata": "/btcswap/metadata.json",
             "dwebTarget1": "1-1.20240119.4",
             "dwebTarget2": "2-1.20240509.0",
-            "dwebTarget3": "3-1.20240529.0",
+            "dwebTarget3": "3-1.20240530.0",
             "latest": "2-1.20240509.0"
         },
         "cosmicdp": {
@@ -270,7 +270,7 @@
                     "metadata": "/btcswap/metadata.json",
                     "dwebTarget1": "1-1.20240119.4",
                     "dwebTarget2": "2-1.20240509.0",
-                    "dwebTarget3": "3-1.20240529.0",
+                    "dwebTarget3": "3-1.20240530.0",
                     "latest": "2-1.20240509.0",
                     "website": "https://www.btcmetaswap.com/"
                 },
@@ -297,9 +297,9 @@
                     "description": "PlusMeta应用",
                     "metadata": "/plusmeta/metadata.json",
                     "dwebTarget1": "1-1.20231212.5",
-                    "dwebTarget2": "2-1.20240530.2",
+                    "dwebTarget2": "2-1.20240530.4",
                     "dwebTarget3": "3-1.20240529.0",
-                    "latest": "2-1.20240530.2",
+                    "latest": "2-1.20240530.4",
                     "website": "https://www.plus-meta.com/"
                 },
                 {
