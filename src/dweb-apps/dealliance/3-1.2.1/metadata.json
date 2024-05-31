@@ -1,0 +1,56 @@
+{
+  "id": "lord.db-equity.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "Digital Equity Alliance",
+  "short_name": "D.E.A",
+  "description": "欢迎来到数字股权中心链主联盟Digital Equity Alliance，由Bumblebee Meta Ltd精心打造。我们是一项创新的Web3社区理财产品，旨在为社区投资者提供丰厚的年化+分红收益，达到6%+12%+24%+12%+6%*X。我们以数字资产、Web3、交易所等工具为支持，实现了日结+周期分红，并提供多种收益标的，包括Digital Equity Hub分红、底层公链PMC升值、PMC矿业收益、平行宇宙矿场和推荐奖励等。\n收益标的介绍:\nDigital Equity Hub分红: 作为Web3.0时代全球最大的分布式数字股权交易所，迪拜数字股权中心为全球企业提供了通向Web3的快速通道，加速数字化升级。\n底层公链PMC升值: 我们选择使用PMChain作为底层公链，具有卓越的技术优势，包括高tps（5000/秒）、1毫秒的交易确认时间、多链/跨链支持等。\nPMC矿业及平行宇宙矿场: PMC矿业收益两年内回报率20%，矿业收益与升值收益为用户带来巨大收益。平行宇宙矿场为用户提供更多财富机会。\n推荐奖励: 我们有激励丰厚的推荐奖励机制，邀请更多朋友加入，一起分享数字财富的机会。\n数字股权中心链主联盟，助您轻松实现财富增值。\n下载APP，享受财富直通车的畅快体验。",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dealliance/logo.svg",
+  "bundle_url": "./lord.db-equity.com.dweb-1.2.1.zip",
+  "bundle_hash": "sha256:6e2914aa2936dfb50aacfff46fc4422a6df632795e1395bb5784c00c9d87be79",
+  "bundle_size": 26375648,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Fri May 31 2024 21:13:48 GMT+0800 (中国标准时间)",
+  "change_log": "1.升级PayMetaChain链。",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dealliance/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dealliance/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dealliance/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dealliance/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dealliance/desc_05.jpg"
+  ],
+  "author": [
+    "db-equity.com"
+  ],
+  "version": "1.2.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.lord.db-equity.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dealliance/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.lord.db-equity.com"
+}
