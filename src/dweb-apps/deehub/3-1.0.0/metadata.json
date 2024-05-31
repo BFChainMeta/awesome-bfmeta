@@ -1,0 +1,55 @@
+{
+  "id": "swap.dp-equity.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "DB Digital Equity Hub",
+  "short_name": "DB Digital Equity Hub",
+  "description": "欢迎来到我们的数字交易所应用！\n我们将股权交易和去中心化交易融为一体，为您提供最佳的数字资产交易体验。\n无论您是新手还是老手，我们都致力于为您打造安全、便捷的交易环境。\n立即下载，开启您的数字交易之旅！",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/deehub/logo.svg",
+  "bundle_url": "./swap.dp-equity.com.dweb-1.0.0.zip",
+  "bundle_hash": "sha256:4bd839d3d6b65da67794691b4422c865e37512f55ba9c295a5f1641b07de1aa7",
+  "bundle_size": 22323781,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Fri May 31 2024 21:24:54 GMT+0800 (中国标准时间)",
+  "change_log": "DB Digital Equity Hub 公测版本发布啦~ 我们致力于提供一流的数字资产交易体验，为您带来更便捷、高效、安全和去中心化的交易服务。\n主要特性包括：\n便捷的交易体验：全新的交易界面设计，简洁明了，让您轻松进行数字资产交易。\n高效的交易引擎：采用强大的交易引擎，确保交易执行速度和准确性。\n安全保障：多重安全措施，包括钱包管理、实时风险监控等，保障您的资产安全。",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/deehub/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/deehub/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/deehub/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/deehub/desc_04.jpg"
+  ],
+  "author": [
+    "DB Digital Equity Hub"
+  ],
+  "version": "1.0.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文简体",
+    "中文繁体"
+  ],
+  "homepage_url": "https://www.db-equity.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/deehub/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.db-equity.com"
+}
