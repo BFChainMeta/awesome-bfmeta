@@ -14,7 +14,8 @@
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1": "1-1.5.2",
             "dwebTarget2": "2-1.7.3",
-            "latest": "2-1.7.3"
+            "dwebTarget3": "3-1.7.3",
+            "latest": "3-1.7.3"
         },
         "btgmeta": {
             "name": "BTGMeta",
