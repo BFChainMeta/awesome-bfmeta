@@ -159,10 +159,10 @@
                 },
                 {
                     "name": "BTGMeta",
-                    "logo": "/all-logo/BTCMeta.png",
+                    "logo": "/all-logo/BTGMeta.png",
                     "description": "BTGMeta",
-                    "website": "https://btc-metaverse.com/",
-                    "tracker": "https://tracker.btc-metaverse.com/"
+                    "website": "https://www.btg-meta.com/",
+                    "tracker": "https://tracker.btg-meta.com/"
                 },
                 {
                     "name": "ETHMeta",
@@ -203,13 +203,13 @@
                 },
                 {
                     "name": "BTGMeta",
-                    "logo": "/all-logo/BTCMeta.png",
+                    "logo": "/all-logo/BTGMeta.png",
                     "description": "BTGMeta应用",
-                    "metadata": "/btcmeta/metadata.json",
+                    "metadata": "/btgmeta/metadata.json",
                     "dwebTarget1": "1-1.2.8",
                     "dwebTarget2": "2-1.5.2",
                     "latest": "2-1.5.2",
-                    "website": "https://btc-metaverse.com/"
+                    "website": "https://www.btg-meta.com/"
                 },
                 {
                     "name": "COT",
