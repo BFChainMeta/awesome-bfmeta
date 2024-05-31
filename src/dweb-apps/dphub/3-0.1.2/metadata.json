@@ -1,0 +1,43 @@
+{
+  "id": "hub.cosmicdp.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "DP Hub",
+  "short_name": "DP Hub",
+  "description": "DP Hub 应用",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dphub/logo.svg",
+  "bundle_url": "./hub.cosmicdp.com.dweb-0.1.2.zip",
+  "bundle_hash": "sha256:8d4026a57aa240e32714e7221bd1ee34822294fa0ebd8cad97d2a56644220457",
+  "bundle_size": 6658882,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Mon Apr 01 2024 21:53:24 GMT+0800 (中国标准时间)",
+  "change_log": "Web端支持3D格式DP发行。",
+  "images": [],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "0.1.2",
+  "categories": [
+    "application"
+  ],
+  "languages": [],
+  "homepage_url": "https://dweb-browser.org/plaoc",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://hub.cosmicdp.com"
+}
