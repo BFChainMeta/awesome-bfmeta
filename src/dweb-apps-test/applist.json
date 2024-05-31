@@ -117,7 +117,7 @@
             "description": "DB Digital Equity Hub应用",
             "metadata": "/deehub/metadata.json",
             "dwebTarget2": "2-1.20240524.1",
-            "dwebTarget3": "3-1.20240529.0",
+            "dwebTarget3": "3-1.20240531.1",
             "latest": "2-1.20240524.1"
         },
         "openchat": {
@@ -280,7 +280,7 @@
                     "description": "DB Digital Equity Hub应用",
                     "metadata": "/deehub/metadata.json",
                     "dwebTarget2": "2-1.20240524.1",
-                    "dwebTarget3": "3-1.20240529.0",
+                    "dwebTarget3": "3-1.20240531.1",
                     "latest": "2-1.20240524.1"
                 }
             ]
