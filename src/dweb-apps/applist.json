@@ -128,8 +128,8 @@
             "description": "Game Verse应用",
             "metadata": "/gameverse/metadata.json",
             "dwebTarget2": "2-1.0.0",
-            "dwebTarget3": "3-1.0.0",
-            "latest": "2-1.0.0"
+            "dwebTarget3": "3-1.0.1",
+            "latest": "3-1.0.1"
         },
         "openchat": {
             "name": "OpenChat",
