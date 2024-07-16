@@ -64,8 +64,8 @@
             "metadata": "/btcswap/metadata.json",
             "dwebTarget1": "1-2.0.0",
             "dwebTarget2": "2-2.6.0",
-            "dwebTarget3": "3-2.6.0",
-            "latest": "3-2.6.0"
+            "dwebTarget3": "3-2.6.1",
+            "latest": "3-2.6.1"
         },
         "cosmicdp": {
             "name": "CosmicDP",
@@ -283,8 +283,8 @@
                     "metadata": "/btcswap/metadata.json",
                     "dwebTarget1": "1-2.0.0",
                     "dwebTarget2": "2-2.6.0",
-                    "dwebTarget3": "3-2.6.0",
-                    "latest": "3-2.6.0",
+                    "dwebTarget3": "3-2.6.1",
+                    "latest": "3-2.6.1",
                     "website": "https://www.btcmetaswap.com/"
                 },
                 {
