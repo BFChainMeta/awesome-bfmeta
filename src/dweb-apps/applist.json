@@ -113,14 +113,14 @@
             "dwebTarget3": "3-1.0.1",
             "latest": "3-1.0.1"
         },
-        "deehub": {
-            "name": "DB Digital Equity Hub",
-            "logo": "/deehub/logo.svg",
-            "description": "DB Digital Equity Hub应用",
-            "metadata": "/deehub/metadata.json",
+        "nikolax": {
+            "name": "NikolaX Dex",
+            "logo": "/nikolax/logo.svg",
+            "description": "NikolaX Dex应用",
+            "metadata": "/nikolax/metadata.json",
             "dwebTarget2": "2-1.0.0",
-            "dwebTarget3": "3-1.0.0",
-            "latest": "3-1.0.0"
+            "dwebTarget3": "3-1.1.0",
+            "latest": "3-1.1.0"
         },
         "gameverse": {
             "name": "Game Verse",
@@ -288,13 +288,13 @@
                     "website": "https://www.btcmetaswap.com/"
                 },
                 {
-                    "name": "DB Digital Equity Hub",
-                    "logo": "/deehub/logo.svg",
-                    "description": "DB Digital Equity Hub应用",
-                    "metadata": "/deehub/metadata.json",
+                    "name": "NikolaX Dex",
+                    "logo": "/nikolax/logo.svg",
+                    "description": "NikolaX Dex应用",
+                    "metadata": "/nikolax/metadata.json",
                     "dwebTarget2": "2-1.0.0",
-                    "dwebTarget3": "3-1.0.0",
-                    "latest": "3-1.0.0"
+                    "dwebTarget3": "3-1.1.0",
+                    "latest": "3-1.1.0"
                 }
             ]
         },
