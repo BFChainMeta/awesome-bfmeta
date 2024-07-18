@@ -117,8 +117,8 @@
             "description": "NikolaX Dex应用",
             "metadata": "/nikolax/metadata.json",
             "dwebTarget2": "2-1.20240524.1",
-            "dwebTarget3": "3-1.20240718.1",
-            "latest": "3-1.20240718.1"
+            "dwebTarget3": "3-1.20240718.3",
+            "latest": "3-1.20240718.3"
         },
         "openchat": {
             "name": "OpenChat",
@@ -280,8 +280,8 @@
                     "description": "NikolaX Dex应用",
                     "metadata": "/nikolax/metadata.json",
                     "dwebTarget2": "2-1.20240524.1",
-                    "dwebTarget3": "3-1.20240718.1",
-                    "latest": "3-1.20240718.1"
+                    "dwebTarget3": "3-1.20240718.3",
+                    "latest": "3-1.20240718.3"
                 }
             ]
         },
