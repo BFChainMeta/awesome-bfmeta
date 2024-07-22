@@ -43,7 +43,8 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dealliance/logo.svg"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dealliance/logo.svg",
+      "purpose": "maskable"
     }
   ],
   "screenshots": [],
