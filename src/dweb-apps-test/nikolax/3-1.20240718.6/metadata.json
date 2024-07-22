@@ -42,7 +42,8 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg",
+      "purpose": "maskable"
     }
   ],
   "screenshots": [],

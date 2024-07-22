@@ -45,7 +45,8 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/logo.svg"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/logo.svg",
+      "purpose": "maskable"
     }
   ],
   "screenshots": [],
