@@ -43,7 +43,7 @@
   "icons": [
     {
       "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/logo.svg",
-      "purpose": "maskable"
+      "purpose": "any"
     }
   ],
   "screenshots": [],
