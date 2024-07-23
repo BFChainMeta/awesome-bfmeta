@@ -42,7 +42,9 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp",
+      "purpose": "any",
+      "type": "image/webp"
     }
   ],
   "screenshots": [],
