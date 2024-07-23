@@ -42,8 +42,7 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/deehub/logo.svg",
-      "purpose": "maskable"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/deehub/logo.svg"
     }
   ],
   "screenshots": [],

@@ -44,8 +44,7 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metabox/logo.svg",
-      "purpose": "maskable"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metabox/logo.svg"
     }
   ],
   "screenshots": [],

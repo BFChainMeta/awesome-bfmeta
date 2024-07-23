@@ -32,7 +32,12 @@
   "permissions": [],
   "dir": "ltr",
   "lang": "",
-  "icons": [],
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dphub/logo.svg",
+      "purpose": "maskable"
+    }
+  ],
   "screenshots": [],
   "display": "fullscreen",
   "orientation": "any",
