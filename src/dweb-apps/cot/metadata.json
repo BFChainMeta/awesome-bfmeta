@@ -16,7 +16,7 @@
   "bundle_signature": "",
   "public_key_url": "",
   "release_date": "Fri Aug 02 2024 16:26:25 GMT+0800 (中国标准时间)",
-  "change_log": "上线铸造和销毁合约功能",
+  "change_log": "1.支权益铸造和销毁合约上线\n2.修复了一些BUG",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_01.jpg",
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_02.jpg",
