@@ -1,0 +1,19 @@
+{
+    "base_config": {
+        "base_url": "https://source.dwebdapp.com/dweb-browser-apps",
+        "assets_path": "/dweb-app-assets",
+        "app_test_path": "/dweb-apps-test",
+        "app_prod_path": "/dweb-apps",
+        "app_path": "/dweb-apps-test"
+    },
+    "applist": {
+        "tansocc": {
+            "name": "NewCarbonMetaverse",
+            "logo": "/tansocc/logo.svg",
+            "description": "NewCarbonMetaverse应用",
+            "metadata": "/tansocc/metadata.json",
+            "dwebTarget3": "3-1.20240807.3",
+            "latest": "3-1.20240807.3"
+        }
+    }
+}
