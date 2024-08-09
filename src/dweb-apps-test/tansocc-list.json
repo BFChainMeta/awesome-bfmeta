@@ -12,8 +12,8 @@
             "logo": "/tansocc/logo.svg",
             "description": "NewCarbonMetaverse应用",
             "metadata": "/tansocc/metadata.json",
-            "dwebTarget3": "3-1.20240809.1",
-            "latest": "3-1.20240809.1"
+            "dwebTarget3": "3-1.20240809.2",
+            "latest": "3-1.20240809.2"
         }
     }
 }
