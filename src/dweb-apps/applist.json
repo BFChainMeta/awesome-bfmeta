@@ -119,8 +119,8 @@
             "description": "NikolaX Dex应用",
             "metadata": "/nikolax/metadata.json",
             "dwebTarget2": "2-1.0.0",
-            "dwebTarget3": "3-1.1.0",
-            "latest": "3-1.1.0"
+            "dwebTarget3": "3-1.2.0",
+            "latest": "3-1.2.0"
         },
         "gameverse": {
             "name": "Game Verse",
@@ -293,8 +293,8 @@
                     "description": "NikolaX Dex应用",
                     "metadata": "/nikolax/metadata.json",
                     "dwebTarget2": "2-1.0.0",
-                    "dwebTarget3": "3-1.1.0",
-                    "latest": "3-1.1.0"
+                    "dwebTarget3": "3-1.2.0",
+                    "latest": "3-1.2.0"
                 }
             ]
         },
