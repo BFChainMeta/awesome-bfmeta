@@ -44,8 +44,8 @@
             "metadata": "/cot/metadata.json",
             "dwebTarget1": "1-3.1.1",
             "dwebTarget2": "2-3.8.0",
-            "dwebTarget3": "3-3.10.1",
-            "latest": "3-3.10.1"
+            "dwebTarget3": "3-3.10.2",
+            "latest": "3-3.10.2"
         },
         "metabox": {
             "name": "MetaBox",
@@ -234,8 +234,8 @@
                     "metadata": "/cot/metadata.json",
                     "dwebTarget1": "1-3.1.1",
                     "dwebTarget2": "2-3.8.0",
-                    "dwebTarget3": "3-3.10.1",
-                    "latest": "3-3.10.1",
+                    "dwebTarget3": "3-3.10.2",
+                    "latest": "3-3.10.2",
                     "website": "https://www.bfmeta.info/"
                 },
                 {
