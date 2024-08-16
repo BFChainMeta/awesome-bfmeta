@@ -110,8 +110,8 @@
             "description": "NovaLands Alliance应用",
             "metadata": "/nlalliance/metadata.json",
             "dwebTarget2": "2-1.0.1",
-            "dwebTarget3": "3-1.0.1",
-            "latest": "3-1.0.1"
+            "dwebTarget3": "3-1.0.2",
+            "latest": "3-1.0.2"
         },
         "nikolax": {
             "name": "NikolaX Dex",
@@ -338,8 +338,8 @@
 					"description": "NovaLands Alliance应用",
 					"metadata": "/nlalliance/metadata.json",
 					"dwebTarget2": "2-1.0.1",
-					"dwebTarget3": "3-1.0.1",
-                    "latest": "3-1.0.1"
+					"dwebTarget3": "3-1.0.2",
+                    "latest": "3-1.0.2"
 				}
             ]
         },
