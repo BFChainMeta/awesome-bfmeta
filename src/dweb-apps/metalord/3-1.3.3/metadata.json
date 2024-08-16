@@ -1,0 +1,56 @@
+{
+  "id": "meta-lord.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "MetaLord",
+  "short_name": "MetaLord",
+  "description": "欢迎来到 MetaLord - 元宇宙领主联盟，您独一无二的Web3领主宇宙，为您提供了全新的数字体验。\n通过MetaLord申请成为宇宙领主，获得专属领主勋章DP + 亿级ETHM权益矿池的挖矿收益。\n快速浏览“领主”标签，了解您当前的领主身份以及联盟团队成员的最新动态。切换至“收益”标签，轻松掌握您在各个矿池中的权益和挖矿收益信息，躺着也能实现财富增长。\n通过“邀请好友”，您可以将身边的小伙伴们邀请成为星爵领主，轻松获得挖矿收益，邀请越多，收益越多~\nMetaLord将带您进入元宇宙数字领主的新时代，立即下载，成为领主联盟一员，组建您的联盟团队，共享亿级挖矿狂欢。不容错过的精彩，等您来参与！",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/logo.svg",
+  "bundle_url": "./meta-lord.com.dweb-1.3.3.zip",
+  "bundle_hash": "sha256:e97ad73c41a4d00d43a1b384d18227e0e7158b07f7e37d9fc15752602669366a",
+  "bundle_size": 31567571,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Fri Aug 16 2024 18:02:58 GMT+0800 (中国标准时间)",
+  "change_log": "已知bug修复",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_05.jpg"
+  ],
+  "author": [
+    "meta-lord.com"
+  ],
+  "version": "1.3.3",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.metalord.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.metalord.com"
+}
