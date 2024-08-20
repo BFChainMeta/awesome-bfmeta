@@ -43,8 +43,8 @@
             "metadata": "/cot/metadata.json",
             "dwebTarget1": "1-1.20240110.1",
             "dwebTarget2": "2-1.20240530.0",
-            "dwebTarget3": "3-1.20240813.2",
-            "latest": "3-1.20240813.2"
+            "dwebTarget3": "3-1.20240820.1",
+            "latest": "3-1.20240820.1"
         },
         "metabox": {
             "name": "MetaBox",
@@ -221,8 +221,8 @@
                     "metadata": "/cot/metadata.json",
                     "dwebTarget1": "1-1.20240110.1",
                     "dwebTarget2": "2-1.20240530.0",
-                    "dwebTarget3": "3-1.20240813.2",
-                    "latest": "3-1.20240813.2",
+                    "dwebTarget3": "3-1.20240820.1",
+                    "latest": "3-1.20240820.1",
                     "website": "https://www.bfmeta.info/"
                 },
                 {
