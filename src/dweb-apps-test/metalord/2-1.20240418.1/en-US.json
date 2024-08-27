@@ -1,0 +1,56 @@
+{
+  "id": "alphameta-lord.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 2,
+  "maxTarget": 2,
+  "name": "MetaLord Test",
+  "short_name": "MetaLord Test",
+  "description": "Welcome to MetaLord - the Metaverse Lord Alliance, your unique Web3 Lord Universe, offering you a brand-new digital experience.\nApply to become a Metaverse Lord through MetaLord and earn an exclusive Lord Badge DP + mining rewards from a billion-level ETHM rights pool.\nQuickly browse the 'Lord' tab to check your current lord status and get the latest updates from alliance team members. Switch to the 'Earnings' tab to easily track your rights and mining rewards in various pools, enabling wealth growth even while you relax.\nThrough 'Invite Friends,' you can invite your friends to become Star Lords and easily earn mining rewards—the more you invite, the more you earn~\nMetaLord will lead you into the new era of Metaverse Digital Lords. Download now to become a member of the Lord Alliance, build your alliance team, and share in the billion-level mining carnival. Excitement awaits you, don't miss out!",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/logo.svg",
+  "bundle_url": "./alphameta-lord.com.dweb-1.20240418.1.zip",
+  "bundle_hash": "sha256:d136052ec0e5d8b18e182403d8af84a580f9c08594e4eb0aba591ba9aadf642c",
+  "bundle_size": 26182222,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu Apr 18 2024 16:38:04 GMT+0800 (中国标准时间)",
+  "change_log": "App launch",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/desc_05.jpg"
+  ],
+  "author": [
+    "meta-lord.com"
+  ],
+  "version": "1.20240418.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.metalord.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.metalord.com"
+}
