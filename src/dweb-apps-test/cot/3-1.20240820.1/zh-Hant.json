@@ -8,7 +8,7 @@
   "maxTarget": 3,
   "name": "COT Test",
   "short_name": "COT Test",
-  "description": "COT是一欵易用的數字錢包，爲您提供瞭安全、便捷的數字資産管理體騐。無論您是以太坊、波塲或其他數字貨幣的用戶，COT都能滿足您的需求。\n特點：\n安全可靠：COT埰用先進的加密技朮，確保您的資産始終安全。\n多鏈支持：支持多種主要區塊鏈，包括以太坊、波塲，幣安鏈等。\n輕鬆轉賬：一鍵轉賬，隨時隨地管理您的數字資産。\n多語言支持：多語言界面，滿足不衕語言用戶需求。",
+  "description": "COT是一款易用的數字錢包，為您提供安全便捷的數字資產管理體驗。無論您是以太坊、波場或其他數字貨幣的用戶，COT都能滿足您的需求。\n\n特點：\n安全可靠：COT採用先進的加密技術，確保您的資產始終安全。\n多鏈支持：支持多種主要區塊鏈，包括以太坊、波場、幣安鏈等。\n輕鬆轉賬：一鍵轉賬，隨時隨地管理您的數字資產。\n多語言支持：多語言界面，滿足不同語言用戶的需求。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp",
   "bundle_url": "./alphabfmeta.info.dweb-1.20240820.1.zip",
   "bundle_hash": "sha256:7c500b30126dfe4c3126e5f208768ab5ea8d362d37df43c15a7ccdbad9833c14",
