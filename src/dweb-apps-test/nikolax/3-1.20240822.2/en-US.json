@@ -1,0 +1,55 @@
+{
+  "id": "alphanikola-x.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "NikolaX Dex Test",
+  "short_name": "NikolaX Dex Test",
+  "description": "Welcome to our digital exchange app!\nWe combine equity trading with decentralized trading to provide you with the best digital asset trading experience.\nWhether you are a beginner or a seasoned trader, we are committed to creating a safe and convenient trading environment for you.\nDownload now to start your digital trading journey!",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg",
+  "bundle_url": "./alphanikola-x.com.dweb-1.20240822.2.zip",
+  "bundle_hash": "sha256:cc2d6856893c3b58f431ba4c3acb06710d9c28653ce2dfbd15206e3d08022111",
+  "bundle_size": 22293987,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu Aug 22 2024 17:02:15 GMT+0800 (中国标准时间)",
+  "change_log": "English Change log",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_04.jpg"
+  ],
+  "author": [
+    "NikolaX Dex"
+  ],
+  "version": "1.20240822.2",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文简体",
+    "中文繁体"
+  ],
+  "homepage_url": "https://www.nikola-x.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.nikola-x.com"
+}
