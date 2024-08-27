@@ -1,0 +1,55 @@
+{
+  "id": "alphabfmeta.info.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "COT Test",
+  "short_name": "COT Test",
+  "description": "COT是一欵易用的數字錢包，爲您提供瞭安全、便捷的數字資産管理體騐。無論您是以太坊、波塲或其他數字貨幣的用戶，COT都能滿足您的需求。\n特點：\n安全可靠：COT埰用先進的加密技朮，確保您的資産始終安全。\n多鏈支持：支持多種主要區塊鏈，包括以太坊、波塲，幣安鏈等。\n輕鬆轉賬：一鍵轉賬，隨時隨地管理您的數字資産。\n多語言支持：多語言界面，滿足不衕語言用戶需求。",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp",
+  "bundle_url": "./alphabfmeta.info.dweb-1.20240820.1.zip",
+  "bundle_hash": "sha256:7c500b30126dfe4c3126e5f208768ab5ea8d362d37df43c15a7ccdbad9833c14",
+  "bundle_size": 28749372,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Tue Aug 20 2024 17:52:52 GMT+0800 (中国标准时间)",
+  "change_log": "修復了一些BUG。",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_04.jpg"
+  ],
+  "author": [
+    "@bfmeta.info"
+  ],
+  "version": "1.20240820.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.bfmeta.info",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.bfmeta.info"
+}

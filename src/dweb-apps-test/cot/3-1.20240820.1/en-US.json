@@ -1,0 +1,55 @@
+{
+  "id": "alphabfmeta.info.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "COT Test",
+  "short_name": "COT Test",
+  "description": "COT is an easy-to-use digital wallet that provides you with a secure and convenient digital asset management experience. Whether you're a user of Ethereum, Tron, or another digital currency, COT has everything you need. Features: Secure and reliable: COT uses advanced encryption technology to ensure your assets are always safe. Multi-chain support: Support for a variety of major blockchains, including Ethereum, Tron, Binance chain, etc. Easy transfer: One-click transfer to manage your digital assets anytime, anywhere. Multi-language support: multi-language interface to meet the needs of different language users",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp",
+  "bundle_url": "./alphabfmeta.info.dweb-1.20240820.1.zip",
+  "bundle_hash": "sha256:7c500b30126dfe4c3126e5f208768ab5ea8d362d37df43c15a7ccdbad9833c14",
+  "bundle_size": 28749372,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Tue Aug 20 2024 17:52:52 GMT+0800 (中国标准时间)",
+  "change_log": "Fix BUG。",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_04.jpg"
+  ],
+  "author": [
+    "@bfmeta.info"
+  ],
+  "version": "1.20240820.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.bfmeta.info",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.bfmeta.info"
+}
