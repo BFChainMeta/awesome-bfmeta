@@ -1,0 +1,56 @@
+{
+  "id": "alphaplus-meta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "plusmeta Test",
+  "short_name": "Plus Meta Test",
+  "description": "PlusMeta 是基於 MetaBox 錢包底層區塊鏈架構開發的理財產品，旨在為大家創造更多價值。\n⭐ 無時間地域限制，安全理財加密貨幣\n立即享受全球範圍內的加密貨幣理財！您的全球數字資產理財專家，現已上線！\n⭐ PlusMeta 與 MetaBox 錢包無縫橋接\n一鍵實現錢包與理財應用的關聯，無需額外創建錢包。也可在應用內創建新地址，實現與錢包無縫銜接。\n⭐ 全方位安全保護技術\n支持12/15/18/21/24/36位中文/英文/繁體中文助記詞進行備份和恢復；\n設置8位錢包密碼，並通過指紋進行身份驗證，我們可以為您提供二次保護；\nBFMeta/PayMetaChain/BFChainV2/ETHMeta/BFChain/CCChain網絡支持設置鏈上交易密碼，資產雙重加密保障；\n私鑰經過加密並安全存儲在您的手機本地，並提供多種私鑰備份選項以確保它們不丟失。\n⭐ 支持最流行的加密錢包：\n以太坊 ETH\n幣安 BSN\n波場 TRX\nBFMeta BFM\nETHMeta ETHM\nPayMetachain PMC\nCCChain CCC\nBFChainV2 BFT\nBFChain BFT\n下載 PlusMeta 以獲得元宇宙加密貨幣錢包體驗。",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/plusmeta/logo.svg",
+  "bundle_url": "./alphaplus-meta.com.dweb-1.20240529.0.zip",
+  "bundle_hash": "sha256:ff1778d2ad03dd5fd15288f8642e783405bee04e346ed65280abae4da4dfcf58",
+  "bundle_size": 15673707,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Wed May 29 2024 11:45:19 GMT+0800 (中国标准时间)",
+  "change_log": "繁體中文日志",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/plusmeta/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/plusmeta/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/plusmeta/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/plusmeta/desc_04.jpg"
+  ],
+  "author": [
+    "@PlusMeta",
+    "@plus-meta.com"
+  ],
+  "version": "1.20240529.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://dwebdapp.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/plusmeta/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://dwebdapp.com"
+}
