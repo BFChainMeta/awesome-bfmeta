@@ -1,0 +1,55 @@
+{
+  "id": "btcmetaswap.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "BTCSwap",
+  "short_name": "BTCSwap",
+  "description": "BTCSwap is your reliable partner for digital asset trading, providing you with a secure, convenient, and efficient decentralized trading experience anytime, anywhere.\n\nDecentralization: BTCSwap allows you to trade directly with other users without the need to trust intermediaries.\nMulti-Chain Support: Supports mainstream cryptocurrencies as well as seamless trading experiences across different rights on bi-chains.\nHigh Liquidity: BTCSwap offers a wide range of digital asset markets, ensuring your orders are quickly matched.\nSecurity Assurance: Utilizes advanced encryption technology to protect your digital assets.\nUser-Friendly: An intuitive interface makes it easy to manage and trade your digital assets.",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/logo.svg",
+  "bundle_url": "./btcmetaswap.com.dweb-2.6.2.zip",
+  "bundle_hash": "sha256:3ca00f13b1dfc2d2d8af5d1078437097b14041f07bc797db7750cf961b161cb4",
+  "bundle_size": 20535063,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Fri Aug 16 2024 17:21:08 GMT+0800 (中国标准时间)",
+  "change_log": "Fix BUG",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_04.jpg"
+  ],
+  "author": [
+    "@btcmetaswap"
+  ],
+  "version": "2.6.2",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.btcmetaswap.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.btcmetaswap.com"
+}
