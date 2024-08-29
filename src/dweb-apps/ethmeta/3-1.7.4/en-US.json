@@ -1,0 +1,56 @@
+{
+  "id": "eth-metaverse.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "ETH Meta",
+  "short_name": "ETH Meta",
+  "description": "ETHMeta is a public chain developed based on the BFMeta underlying blockchain architecture, aimed at enhancing the performance of Ethereum in various aspects.\n⭐ No time or geographical restrictions, secure & easy cryptocurrency transfers\nEnjoy cryptocurrency transactions globally now! Whether sending or receiving, just a simple click is needed to easily complete transactions of over 1000+ supported blockchain assets. Your global digital asset management tool is now live!\n⭐ Upgrade Ethereum, seamlessly bridge to ETHMeta\nOne-click upgrade to Ethereum's metaverse, experiencing smoother metaverse chain transactions\n⭐ Various exchange modes, flexible switching\nFeaturing outstanding trading functions, providing precise candlestick charts, supporting 9+ mainstream public chains, easily achieving one-click cross-chain transactions, ensuring a smooth and efficient trading experience.\n⭐ Comprehensive security protection technology\nSupports backup and recovery with 12/15/18/21/24/36 character Chinese/English/Traditional Chinese mnemonic phrases;\nSet an 8-digit wallet password and use fingerprint authentication for secondary protection;\nBFMeta/PayMetaChain/BFChainV2/ETHMeta/BFChain/CCChain networks support on-chain transaction password settings for double encryption of assets;\nPrivate keys are encrypted and securely stored locally on your phone, with multiple backup options available to ensure they are not lost.\n⭐ Supports popular cryptocurrency wallets:\nEthereum ETH\nBinance BSN\nTRON TRX\nBFMeta BFM\nETHMeta ETHM\nPayMetachain PMC\nCCChain CCC\nBFChainV2 BFT\nBFChain BFT\nDownload ETH Meta for a metaverse cryptocurrency wallet experience.",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/logo.svg",
+  "bundle_url": "./eth-metaverse.com.dweb-1.7.4.zip",
+  "bundle_hash": "sha256:e9166e3ec74ffbf499cf36575ca0f03750a3f124585acdd8e201238b8dbbc76e",
+  "bundle_size": 22644240,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Fri Aug 16 2024 17:48:06 GMT+0800 (中国标准时间)",
+  "change_log": "Fix BUG",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_05.jpg"
+  ],
+  "author": [
+    "eth-metaverse.com"
+  ],
+  "version": "1.7.4",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.eth-metaverse.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.eth-metaverse.com"
+}
