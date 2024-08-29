@@ -1,0 +1,55 @@
+{
+  "id": "btg-meta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "BTG Meta",
+  "short_name": "BTG Meta",
+  "description": "On the 15th anniversary of Satoshi Nakamoto's release of the BTCoin paper, we are leading the future with the launch of BTGMeta — the Metaverse upgrade of Bitcoin's blockchain. BTGMeta not only inherits Bitcoin's decentralized spirit but also integrates the most advanced blockchain technology, creating a faster, safer, and smarter digital financial world for users.\n\nWith the introduction of BTGMeta, we are proud to present the BTG Meta Blockchain Wallet App. This application is not only the perfect companion to BTGMeta but also your gateway to the Bitcoin Metaverse. The BTG Meta Blockchain Wallet App brings unparalleled convenience, allowing you to easily manage, trade, and store digital crypto assets. Whether it's activating BTGM tokens with one click, viewing your NFTs or DPs, or exploring the wonders of Web 3.0, the BTG Meta Blockchain Wallet App meets all your needs.\n\n⭐ 360-degree security protection with encryption technology\n⭐ Supports backup and recovery using 12/15/18/21/24/36-character mnemonic phrases in Chinese/English/Traditional Chinese\n⭐ You can set an 8-character wallet password and use fingerprint verification for secondary protection\n⭐ Network support for on-chain transaction password settings for BTGMeta, BFMeta, PayMetaChain, BFChainV2, ETHMeta, BFChain, CCChain, providing double encryption protection for your assets\n⭐ Private keys are encrypted and securely stored locally on your phone, with multiple backup options to ensure they are never lost\n⭐ Safe and convenient cryptocurrency transfer experience\nThis is your one-stop tool for managing global digital assets. Whether you need to send or receive assets, you can complete transactions of 1000+ blockchain assets with just a few clicks.\n⭐ Seamless exchange at your fingertips\nWe offer various exchange modes for easy switching. With excellent trading features and price charts, supporting 10+ mainstream public chains, you can easily cross-chain and ensure a smooth and efficient trading experience.\n\nAdditionally, we support the most popular crypto wallets on the market, including Ethereum (ETH), Binance (BSN), TRON (TRX), BTG Meta (BTGM), BFMeta (BFM), ETHMeta (ETHM), PayMetachain (PMC), CCChain (CCC), BFChainV2 (BFT), and BFChain (BFT). Join us to enjoy a convenient and secure digital currency world!\nWhether you're a blockchain expert or a newcomer to this digital world, the BTG Meta Blockchain Wallet App will be your ideal choice. Download BTG Meta now to explore the wonders of the Bitcoin Metaverse and co-create the future of digital finance!",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/logo.svg",
+  "bundle_url": "./btg-meta.com.dweb-1.5.3.zip",
+  "bundle_hash": "sha256:d3c4cd68d8b09b76a1530502f6955cf010ca48d36a98ec5cd9542f1793876c9c",
+  "bundle_size": 22208010,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Fri Aug 16 2024 17:38:10 GMT+0800 (中国标准时间)",
+  "change_log": "Fix BUG",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_04.jpg"
+  ],
+  "author": [
+    "btg-meta.com"
+  ],
+  "version": "1.5.3",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.btg-meta.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.btg-meta.com"
+}

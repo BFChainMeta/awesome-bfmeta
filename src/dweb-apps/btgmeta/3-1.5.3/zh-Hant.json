@@ -1,0 +1,55 @@
+{
+  "id": "btg-meta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "BTG Meta",
+  "short_name": "BTG Meta",
+  "description": "在中本聰發布 BTCoin 論文 15 週年紀念日之際，我們引領未來，推出了 BTGMeta —— 比特幣的元宇宙升級版區塊鏈。BTGMeta 不僅繼承了比特幣的去中心化精神，更融合了最先進的區塊鏈技術，為用戶創造了更快速、更安全、更智能的數字金融世界。\n\n隨著 BTGMeta 的推出，我們自豪地呈現 BTG Meta 區塊鏈錢包應用。這款應用不僅是 BTGMeta 的完美伴侶，更是您進入比特幣元宇宙的通行證。BTG Meta 區塊鏈錢包應用帶來無與倫比的便捷性，讓您輕鬆管理、交易和儲存數字加密資產。無論是一鍵激活 BTGM 代幣，查看您的 NFT 或 DP，還是探索 Web 3.0 的奇妙世界，BTG Meta 區塊鏈錢包應用都能滿足您的所有需求。\n\n⭐  加密技術 360 度安全保護\n⭐  支持 12/15/18/21/24/36 位中文/英文/繁體中文助記詞進行備份和恢復\n⭐  您可以設置 8 位錢包密碼，並通過指紋驗證身份，提供二次保護\n⭐  BTGMeta、BFMeta、PayMetaChain、BFChainV2、ETHMeta、BFChain、CCChain 等網路支持鏈上交易密碼設置，為您的資產提供雙重加密保障\n⭐  私鑰經過加密並安全儲存在您的手機本地，並提供多種私鑰備份選項，確保絕不丟失\n⭐  安全便捷加密貨幣轉賬體驗\n這是您的全球數字資產一站式管理工具，無論您需要發送或接收資產，只需點擊幾下，即可完成 1000+ 種區塊鏈資產的交易\n⭐  任意兌換隨心切\n我們提供多種兌換模式，實現隨心切換。擁有卓越的交易功能和價格走勢圖，支持 10+ 主流公鏈，讓您輕鬆跨鏈，確保順暢高效的交易體驗。\n\n此外，我們還支持市場上最流行的加密錢包，包括以太坊（ETH）、幣安（BSN）、波場（TRX）、BTG Meta（BTGM）、BFMeta（BFM）、ETHMeta（ETHM）、PayMetachain（PMC）、CCChain（CCC）、BFChainV2（BFT）和 BFChain（BFT）。加入我們，暢享便捷安全的數字貨幣世界！\n無論您是區塊鏈領域的專家，還是初入這個數字世界的新手，BTG Meta 區塊鏈錢包應用都將成為您的理想之選。現在就下載 BTG Meta，探索比特幣元宇宙的奇蹟，共同創造數字金融的未來！",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/logo.svg",
+  "bundle_url": "./btg-meta.com.dweb-1.5.3.zip",
+  "bundle_hash": "sha256:d3c4cd68d8b09b76a1530502f6955cf010ca48d36a98ec5cd9542f1793876c9c",
+  "bundle_size": 22208010,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Fri Aug 16 2024 17:38:10 GMT+0800 (中国标准时间)",
+  "change_log": "已知Bug修復",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/desc_04.jpg"
+  ],
+  "author": [
+    "btg-meta.com"
+  ],
+  "version": "1.5.3",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.btg-meta.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcmeta/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.btg-meta.com"
+}
