@@ -10,7 +10,7 @@
   "short_name": "BTCSwap",
   "description": "BTCSwap is your reliable partner for digital asset trading, providing you with a secure, convenient, and efficient decentralized trading experience anytime, anywhere.\n\nDecentralization: BTCSwap allows you to trade directly with other users without the need to trust intermediaries.\nMulti-Chain Support: Supports mainstream cryptocurrencies as well as seamless trading experiences across different rights on bi-chains.\nHigh Liquidity: BTCSwap offers a wide range of digital asset markets, ensuring your orders are quickly matched.\nSecurity Assurance: Utilizes advanced encryption technology to protect your digital assets.\nUser-Friendly: An intuitive interface makes it easy to manage and trade your digital assets.",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/logo.svg",
-  "bundle_url": "./btcmetaswap.com.dweb-2.6.2.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/btcswap/3-2.6.2/btcmetaswap.com.dweb-2.6.2.zip",
   "bundle_hash": "sha256:3ca00f13b1dfc2d2d8af5d1078437097b14041f07bc797db7750cf961b161cb4",
   "bundle_size": 20535063,
   "bundle_signature": "",

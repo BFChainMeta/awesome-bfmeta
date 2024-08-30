@@ -10,7 +10,7 @@
   "short_name": "MetaLord",
   "description": "Welcome to MetaLord - the Metaverse Lord Alliance, your unique Web3 Lord Universe, offering you a brand-new digital experience.\nApply to become a Metaverse Lord through MetaLord and earn an exclusive Lord Badge DP + mining rewards from a billion-level ETHM rights pool.\nQuickly browse the 'Lord' tab to check your current lord status and get the latest updates from alliance team members. Switch to the 'Earnings' tab to easily track your rights and mining rewards in various pools, enabling wealth growth even while you relax.\nThrough 'Invite Friends,' you can invite your friends to become Star Lords and easily earn mining rewards—the more you invite, the more you earn~\nMetaLord will lead you into the new era of Metaverse Digital Lords. Download now to become a member of the Lord Alliance, build your alliance team, and share in the billion-level mining carnival. Excitement awaits you, don't miss out!",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/logo.svg",
-  "bundle_url": "./meta-lord.com.dweb-1.3.3.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/metalord/3-1.3.3/meta-lord.com.dweb-1.3.3.zip",
   "bundle_hash": "sha256:e97ad73c41a4d00d43a1b384d18227e0e7158b07f7e37d9fc15752602669366a",
   "bundle_size": 31567571,
   "bundle_signature": "",

@@ -10,7 +10,7 @@
   "short_name": "Open Chat",
   "description": "This is an dweb chat app.",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/openchat/logo.png",
-  "bundle_url": "./chatapp.btcmetaswap.com.dweb-1.1.6.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/openchat/3-1.1.6/chatapp.btcmetaswap.com.dweb-1.1.6.zip",
   "bundle_hash": "sha256:b311e16b137c17e85a1a2b9a085620226854c4468829307fbf8df255f771ec7f",
   "bundle_size": 35960869,
   "bundle_signature": "",

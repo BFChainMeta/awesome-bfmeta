@@ -10,7 +10,7 @@
   "short_name": "Cosmic DP",
   "description": "歡迎來到我們突破性的 Web3 分布式 DP/NFT 數字交易市場 - Cosmic DP！\n鏈上安全存儲，用 Cosmic DP 改變你的世界\n在尖端的 BioforestChain 區塊鏈技術下，見證您的現實世界資產（無論是房地產、知識、藝術、音樂、電影、體育還是遊戲）轉變為不可磨滅且永久可追溯的鏈上數字資產，即 DP/NFT。\nDP：數字貨幣的未來\nDP 象徵著數字貨幣的未來，賦予數字資產真正的所有權，並將其與現實世界的經濟和社會系統聯繫起來。\n數字經濟革命的曙光\n參與 DP 交易和市場，發現新的投資機會，釋放創造財富的潛力，同時抓住未來的價值前景。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./cosmicdp.com.dweb-1.3.1.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/cosmicdp/3-1.3.1/cosmicdp.com.dweb-1.3.1.zip",
   "bundle_hash": "sha256:792b4fd8c7acba067d205d3bcbe6640a6f6c327215af19db9ce9d9049e4c007d",
   "bundle_size": 21471965,
   "bundle_signature": "",

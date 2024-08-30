@@ -10,7 +10,7 @@
   "short_name": "BTCSwap",
   "description": "BTCSwap 是您數字資產交易的好幫手，無論何時何地都為您提供安全、便捷和高效的去中心化交易體驗。\n\n去中心化：BTCSwap 允許您直接與其他用戶交易，無需信任中間方。\n多鏈支持：支持各主流幣種以及生物鏈下各權益間的便捷交易體驗。\n高流動性：BTCSwap 提供了廣泛的數字資產市場，確保您的訂單能夠迅速匹配。\n安全保障：採用先進的加密技術，保護您的數字資產安全。\n用戶友好：直觀的介面，使您輕鬆管理和交易您的數字資產。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/logo.svg",
-  "bundle_url": "./btcmetaswap.com.dweb-2.6.2.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/btcswap/3-2.6.2/btcmetaswap.com.dweb-2.6.2.zip",
   "bundle_hash": "sha256:3ca00f13b1dfc2d2d8af5d1078437097b14041f07bc797db7750cf961b161cb4",
   "bundle_size": 20535063,
   "bundle_signature": "",

@@ -10,7 +10,7 @@
   "short_name": "MetaLord",
   "description": "歡迎來到 MetaLord - 元宇宙領主聯盟，您獨一無二的 Web3 領主宇宙，為您提供了全新的數字體驗。\n通過 MetaLord 申請成為元宇宙領主，獲得專屬領主勳章 DP + 億級 ETHM 權益礦池的挖礦收益。\n快速瀏覽“領主”標籤，了解您當前的領主身份以及聯盟團隊成員的最新動態。切換至“收益”標籤，輕鬆掌握您在各個礦池中的權益和挖礦收益信息，躺著也能實現財富增長。\n通過“邀請好友”，您可以將身邊的小夥伴們邀請成為星爵領主，輕鬆獲得挖礦收益，邀請越多，收益越多~\nMetaLord 將帶您進入元宇宙數字領主的新时代，立即下載，成為領主聯盟一員，組建您的聯盟團隊，共享億級挖礦狂歡。不容錯過的精彩，等您來參與！",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/metalord/logo.svg",
-  "bundle_url": "./meta-lord.com.dweb-1.3.3.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/metalord/3-1.3.3/meta-lord.com.dweb-1.3.3.zip",
   "bundle_hash": "sha256:e97ad73c41a4d00d43a1b384d18227e0e7158b07f7e37d9fc15752602669366a",
   "bundle_size": 31567571,
   "bundle_signature": "",

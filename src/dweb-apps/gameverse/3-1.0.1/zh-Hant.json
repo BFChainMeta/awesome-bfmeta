@@ -10,7 +10,7 @@
   "short_name": "Game Verse",
   "description": "Game Verse 是一款結合區塊鏈的傳統棋盤遊戲平台，專為喜愛棋盤遊戲的區塊鏈玩家量身打造。精緻的遊戲畫面、專業的遊戲規則，以及公平的遊戲環境，為玩家塑造了一個真正實力較量的舞台。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/gameverse/logo.png",
-  "bundle_url": "./qpgame.btgmeta.dweb-1.0.1.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/gameverse/3-1.0.1/qpgame.btgmeta.dweb-1.0.1.zip",
   "bundle_hash": "sha256:96bfafb9747bb71fd4bdba4b91c1078b92867025a120c969d906d4959698f99b",
   "bundle_size": 65488703,
   "bundle_signature": "",
