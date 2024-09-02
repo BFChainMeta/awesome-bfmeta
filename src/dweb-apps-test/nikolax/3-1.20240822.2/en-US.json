@@ -10,7 +10,7 @@
   "short_name": "NikolaX Dex Test",
   "description": "Welcome to our digital exchange app!\nWe combine equity trading with decentralized trading to provide you with the best digital asset trading experience.\nWhether you are a beginner or a seasoned trader, we are committed to creating a safe and convenient trading environment for you.\nDownload now to start your digital trading journey!",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg",
-  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/nikolax3-1.20240822.2/alphanikola-x.com.dweb-1.20240822.2.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/nikolax/3-1.20240822.2/alphanikola-x.com.dweb-1.20240822.2.zip",
   "bundle_hash": "sha256:cc2d6856893c3b58f431ba4c3acb06710d9c28653ce2dfbd15206e3d08022111",
   "bundle_size": 22293987,
   "bundle_signature": "",
