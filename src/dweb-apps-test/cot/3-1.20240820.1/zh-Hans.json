@@ -10,7 +10,7 @@
   "short_name": "COT Test",
   "description": "COT是一款易用的数字钱包，为您提供了安全、便捷的数字资产管理体验。无论您是以太坊、波场或其他数字货币的用户，COT都能满足您的需求。\n特点：\n安全可靠：COT采用先进的加密技术，确保您的资产始终安全。\n多链支持：支持多种主要区块链，包括以太坊、波场，币安链等。\n轻松转账：一键转账，随时随地管理您的数字资产。\n多语言支持：多语言界面，满足不同语言用户需求。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp",
-  "bundle_url": "./alphabfmeta.info.dweb-1.20240820.1.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/cot/3-1.20240820.1/alphabfmeta.info.dweb-1.20240820.1.zip",
   "bundle_hash": "sha256:7c500b30126dfe4c3126e5f208768ab5ea8d362d37df43c15a7ccdbad9833c14",
   "bundle_size": 28749372,
   "bundle_signature": "",

@@ -10,7 +10,7 @@
   "short_name": "NikolaX Dex Test",
   "description": "欢迎来到我们的数字交易所应用！\n我们将股权交易和去中心化交易融为一体，为您提供最佳的数字资产交易体验。\n无论您是新手还是老手，我们都致力于为您打造安全、便捷的交易环境。\n立即下载，开启您的数字交易之旅！",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg",
-  "bundle_url": "./alphanikola-x.com.dweb-1.20240716.2.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/alphanikola-x.com.dweb-1.20240716.2.zip",
   "bundle_hash": "sha256:52a40b32d601626c3fa380443a1fd9aecadeb734a1556749a6c2d2d79aada7e1",
   "bundle_size": 22256675,
   "bundle_signature": "",

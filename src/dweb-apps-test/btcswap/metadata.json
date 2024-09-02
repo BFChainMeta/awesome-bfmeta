@@ -10,7 +10,7 @@
   "short_name": "BTCSwap Test",
   "description": "BTCSwap是您数字资产交易好帮手，无论何时何地都为您提供安全、便捷和高效的去中心化交易体验。\n去中心化：BTCSwap允许您直接与其他用户交易，无需信任中间方。\n多链支持：支持各主流币种以及生物链下各权益间的便捷交易体验。\n高流动性：BTCSwap提供了广泛的数字资产市场，确保您的订单能够迅速匹配。\n安全保障：采用先进的加密技术，保护您的数字资产安全。\n用户友好：直观的界面，使您轻松管理和交易您的数字资产。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/logo.svg",
-  "bundle_url": "./alphabtcmetaswap.com.dweb-1.20240531.0.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/alphabtcmetaswap.com.dweb-1.20240531.0.zip",
   "bundle_hash": "sha256:69f494b1fc6d3a3379ddb1a602b0d1bbc634671b9baba8ef1730980dc39c6a89",
   "bundle_size": 20654456,
   "bundle_signature": "",

@@ -10,7 +10,7 @@
   "short_name": "Cosmic DP Test",
   "description": "Welcome to our groundbreaking Web3 distributed DP/NFT digital marketplace - Cosmic DP!\nChange your world with Cosmic DP through on-chain secure storage\nUnder the cutting-edge BioforestChain blockchain technology, witness your real-world assets (whether real estate, knowledge, art, music, film, sports, or gaming) transform into indelible and permanently traceable on-chain digital assets, namely DP/NFT.\nDP: The Future of Digital Currency\nDP symbolizes the future of digital currency, giving digital assets true ownership and linking them to real-world economic and social systems.\nThe Dawn of the Digital Economy Revolution\nEngage in DP trading and the marketplace, discover new investment opportunities, unleash the potential for wealth creation, and seize the value prospects of the future.",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cosmicdp/logo.svg",
-  "bundle_url": "./alphacosmicdp.com.dweb-1.20240531.0.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/cosmicdp/3-1.20240531.0/alphacosmicdp.com.dweb-1.20240531.0.zip",
   "bundle_hash": "sha256:10f3b28a954a80633ea183ff9dbcc72026028666d19efa3e773d1566c84ae899",
   "bundle_size": 21394161,
   "bundle_signature": "",
