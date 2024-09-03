@@ -1,0 +1,55 @@
+{
+  "id": "alphanikola-x.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "NikolaX Dex Test",
+  "short_name": "NikolaX Dex Test",
+  "description": "Welcome to our digital exchange app!\nWe combine equity trading with decentralized trading to provide you with the best digital asset trading experience.\nWhether you are a beginner or a seasoned trader, we are committed to creating a safe and convenient trading environment for you.\nDownload now to start your digital trading journey!",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/nikolax/3-1.20240903.0/alphanikola-x.com.dweb-1.20240903.0.zip",
+  "bundle_hash": "sha256:5ba1a5e86bd631fe8b1f64e5112cb26f129d7bb0a0dfed3edee6fa4a1c73213d",
+  "bundle_size": 22294051,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Tue Sep 03 2024 17:16:39 GMT+0800 (中国标准时间)",
+  "change_log": "English Change log",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_04.jpg"
+  ],
+  "author": [
+    "NikolaX Dex"
+  ],
+  "version": "1.20240903.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文简体",
+    "中文繁体"
+  ],
+  "homepage_url": "https://www.nikola-x.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.nikola-x.com"
+}
