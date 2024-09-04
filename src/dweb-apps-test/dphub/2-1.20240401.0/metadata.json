@@ -10,7 +10,7 @@
   "short_name": "DP Hub",
   "description": "DP Hub 应用",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dphub/logo.svg",
-  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/dphub/3-1.20240401.0/alphahub.cosmicdp.com.dweb-1.20240401.0.zip",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/dphub/2-1.20240401.0/alphahub.cosmicdp.com.dweb-1.20240401.0.zip",
   "bundle_hash": "sha256:810246dfc5e8a6bde03e934054e986b6465e170b87c5d13e069547f4303a555f",
   "bundle_size": 6659849,
   "bundle_signature": "",

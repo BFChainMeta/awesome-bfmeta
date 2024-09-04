@@ -83,7 +83,8 @@
             "metadata": "/dphub/metadata.json",
             "dwebTarget1": "1-1.20240204.0",
             "dwebTarget2": "2-1.20240401.0",
-            "latest": "2-1.20240401.0"
+            "dwebTarget3": "3-0.20240904.0",
+            "latest": "3-0.20240904.0"
         },
         "metalord": {
             "name": "MetaLord",

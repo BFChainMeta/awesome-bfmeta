@@ -1,0 +1,43 @@
+{
+  "id": "alphahub.cosmicdp.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "DP Hub",
+  "short_name": "DP Hub",
+  "description": "DP Hub Application",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/dphub/logo.svg",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/dphub/3-0.20240904.0/alphahub.cosmicdp.com.dweb-0.20240904.0.zip",
+  "bundle_hash": "sha256:3fd1d6470a3a9a0032052f6ec2c070f1b17de5b675c5a02b238cf49a7bb39f70",
+  "bundle_size": 7724648,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Wed Sep 04 2024 16:12:41 GMT+0800 (中国标准时间)",
+  "change_log": "App launch",
+  "images": [],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "0.20240904.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [],
+  "homepage_url": "https://dweb-browser.org/plaoc",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://hub.cosmicdp.com"
+}
