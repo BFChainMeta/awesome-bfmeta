@@ -33,7 +33,7 @@
             "metadata": "/plusmeta/metadata.json",
             "dwebTarget1": "1-1.20231212.5",
             "dwebTarget2": "2-1.20240530.4",
-            "dwebTarget3": "3-1.20240529.0",
+            "dwebTarget3": "3-1.20240904.0",
             "latest": "2-1.20240530.4"
         },
         "cot": {
@@ -108,7 +108,7 @@
             "description": "NovaLands Alliance应用",
             "metadata": "/nlalliance/metadata.json",
             "dwebTarget2": "2-1.20240510.0",
-            "dwebTarget3": "3-1.20240529.0",
+            "dwebTarget3": "3-1.20240904.0",
             "latest": "2-1.20240510.0"
         },
         "nikolax": {
@@ -298,7 +298,7 @@
                     "metadata": "/plusmeta/metadata.json",
                     "dwebTarget1": "1-1.20231212.5",
                     "dwebTarget2": "2-1.20240530.4",
-                    "dwebTarget3": "3-1.20240529.0",
+                    "dwebTarget3": "3-1.20240904.0",
                     "latest": "2-1.20240530.4",
                     "website": "https://www.plus-meta.com/"
                 },
@@ -325,7 +325,7 @@
                     "description": "NovaLands Alliance应用",
                     "metadata": "/nlalliance/metadata.json",
                     "dwebTarget2": "2-1.20240510.0",
-                    "dwebTarget3": "3-1.20240529.0",
+                    "dwebTarget3": "3-1.20240904.0",
                     "latest": "2-1.20240510.0"
                 }
             ]
