@@ -10,12 +10,12 @@
   "short_name": "ETH Meta Test",
   "description": "ETHMeta 是基於 BFMeta 底層區塊鏈架構開發的公有鏈，旨在幫助以太坊各方面性能升級。\n⭐ 無時間地域限制，安全&輕鬆轉帳加密貨幣\n立即享受全球範圍內的加密貨幣交易！無論您是發送還是接收，只需輕輕點擊按鈕，即可輕鬆完成超過 1000+ 種受支持的區塊鏈資產。您的全球數字資產管理工具，現已上線！\n⭐ 升級以太坊，無縫橋接 ETHMeta\n一鍵實現以太坊的元宇宙升級，更絲滑體驗元宇宙鏈上交易\n⭐ 多種兌換模式，靈活切換\n擁有卓越的交易功能，提供精確的 K 線圖表，支持 9+ 主流公鏈，輕鬆實現一鍵跨鏈，確保交易體驗的順暢和高效。\n⭐ 全方位安全保護技術\n支持 12/15/18/21/24/36 位中文/英文/繁體中文助記詞進行備份和恢復；\n設置 8 位錢包密碼，並通過指紋進行身份驗證，我們可以為您提供二次保護；\nBFMeta/PayMetaChain/BFChainV2/ETHMeta/BFChain/CCChain 網絡支持設置鏈上交易密碼，資產雙重加密保障；\n私鑰經過加密並安全存儲在您的手機本地，並提供多種私鑰備份選項以確保它們不丟失。\n⭐ 支持最流行的加密錢包：\n以太坊 ETH\n幣安 BSN\n波場 TRX\nBFMeta BFM\nETHMeta ETHM\nPayMetachain PMC\nCCChain CCC\nBFChainV2 BFT\nBFChain BFT\n下載 ETH Meta 以獲得元宇宙加密貨幣錢包體驗。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/logo.svg",
-  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/ethmeta/3-1.20240529.0/alphaeth-metaverse.com.dweb-1.20240529.0.zip",
-  "bundle_hash": "sha256:2019fb85bfa23381f604f97c339d551d3b7c40b93804a532d06cd7ca99b916ad",
-  "bundle_size": 22778348,
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/ethmeta/3-1.20240904.0/alphaeth-metaverse.com.dweb-1.20240904.0.zip",
+  "bundle_hash": "sha256:9f0dd156af1786d8ba39fd7ca8d8d18a77e264a4e5a93e6b647649015156c4d7",
+  "bundle_size": 22644944,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Wed May 29 2024 11:06:30 GMT+0800 (中国标准时间)",
+  "release_date": "Wed Sep 04 2024 11:18:18 GMT+0800 (中国标准时间)",
   "change_log": "繁體中文日志",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/ethmeta/desc_01.jpg",
@@ -27,7 +27,7 @@
   "author": [
     "eth-metaverse.com"
   ],
-  "version": "1.20240529.0",
+  "version": "1.20240904.0",
   "categories": [
     "application"
   ],

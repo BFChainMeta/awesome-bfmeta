@@ -14,7 +14,7 @@
             "metadata": "/ethmeta/metadata.json",
             "dwebTarget1": "1-1.20240104.0",
             "dwebTarget2": "2-1.20240521.2",
-            "dwebTarget3": "3-1.20240529.0",
+            "dwebTarget3": "3-1.20240904.0",
             "latest": "2-1.20240521.2"
         },
         "btgmeta": {
@@ -23,8 +23,8 @@
             "description": "BTGMeta应用",
             "metadata": "/btgmeta/metadata.json",
             "dwebTarget2": "2-1.20240521.2",
-            "dwebTarget3": "3-1.20240531.0",
-            "latest": "2-1.20240521.2"
+            "dwebTarget3": "3-1.20240904.0",
+            "latest": "3-1.20240531.0"
         },
         "plusmeta": {
             "name": "PlusMeta",
@@ -211,7 +211,7 @@
                     "metadata": "/btgmeta/metadata.json",
                     "dwebTarget2": "2-1.20240521.2",
                     "dwebTarget3": "3-1.20240531.0",
-                    "latest": "2-1.20240521.2",
+                    "latest": "2-1.20240531.0",
                     "website": "https://www.btg-meta.com/"
                 },
                 {
@@ -233,7 +233,7 @@
                     "dwebTarget1": "1-1.20240104.0",
                     "dwebTarget2": "2-1.20240521.2",
                     "dwebTarget3": "3-1.20240529.0",
-                    "latest": "2-1.20240521.2",
+                    "latest": "3-1.20240531.0",
                     "website": "https://www.pmchainbox.com/"
                 }
             ]
