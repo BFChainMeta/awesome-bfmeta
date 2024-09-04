@@ -1,0 +1,56 @@
+{
+  "id": "alphanovalands.db-equity.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "Nova Lands Alliance Test",
+  "short_name": "NovaLands Test",
+  "description": "歡迎來到新家園國際鏈盟Nova Lands Alliance，由Bumblebee Meta Ltd精心打造。我們是一項創新的Web3社區理財產品，旨在為社區投資者提供豐厚的年化+分紅收益，達到6%+12%+24%+12%+6%*X。我們以數字資產、Web3、交易所等工具為支持，實現了日結+週期分紅，並提供多種收益標的，包括Digital Equity Hub分紅、底層公鏈PMC升值、PMC礦業收益、平行宇宙礦場和推薦獎勵等。\n收益標的介紹:\nDigital Equity Hub分紅: 作為Web3.0時代全球最大的分佈式數字股權交易所，迪拜新家園國際鏈盟為全球企業提供了通向Web3的快速通道，加速數字化升級。\n底層公鏈PMC升值: 我們選擇使用PMChain作為底層公鏈，具有卓越的技術優勢，包括高tps（5000/秒）、1毫秒的交易確認時間、多鏈/跨鏈支持等。\nPMC礦業及平行宇宙礦場: PMC礦業收益兩年內回報率20%，礦業收益與升值收益為用戶帶來巨大收益。平行宇宙礦場為用戶提供更多財富機會。\n推薦獎勵: 我們有激勵豐厚的推薦獎勵機制，邀請更多朋友加入，一起分享數字財富的機會。\n新家園國際鏈盟，助您輕鬆實現財富增值。\n下載APP，享受財富直通車的暢快體驗。",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/logo.svg",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/nlalliance/3-1.20240904.0/alphanovalands.db-equity.com.dweb-1.20240904.0.zip",
+  "bundle_hash": "sha256:ad8056e50898c0f51a5d93c645168485dbcfc8270e5eeb5511115ae71a8004cf",
+  "bundle_size": 26576681,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Wed Sep 04 2024 15:11:24 GMT+0800 (中国标准时间)",
+  "change_log": "應用首發上綫",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_05.jpg"
+  ],
+  "author": [
+    "db-equity.com"
+  ],
+  "version": "1.20240904.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.novalands.db-equity.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.novalands.db-equity.com"
+}

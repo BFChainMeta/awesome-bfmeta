@@ -1,0 +1,56 @@
+{
+  "id": "alphanovalands.db-equity.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "Nova Lands Alliance Test",
+  "short_name": "NovaLands Test",
+  "description": "Welcome to the Nova Lands Alliance, the New Homeland International Chain Alliance, meticulously crafted by Bumblebee Meta Ltd. We are an innovative Web3 community financial product aimed at providing community investors with generous annualized and dividend returns, reaching 6%+12%+24%+12%+6%*X. Supported by digital assets, Web3, exchanges, and other tools, we achieve daily settlements and periodic dividends, offering multiple income targets, including Digital Equity Hub dividends, underlying blockchain PMC appreciation, PMC mining revenue, Parallel Universe Mining Farms, and referral rewards.\nIncome Targets Introduction:\nDigital Equity Hub Dividends: As the world's largest distributed digital equity exchange in the Web3.0 era, the Dubai Nova Lands Alliance provides a fast track to Web3 for global enterprises, accelerating digital transformation.\nUnderlying Blockchain PMC Appreciation: We have chosen PMChain as the underlying blockchain, which boasts outstanding technical advantages, including high TPS (5000/second), 1-millisecond transaction confirmation time, and multi-chain/cross-chain support.\nPMC Mining and Parallel Universe Mining Farms: PMC mining yields a 20% return within two years, offering users significant benefits from mining and appreciation. The Parallel Universe Mining Farms provide users with more wealth opportunities.\nReferral Rewards: We have a lucrative referral reward mechanism; invite more friends to join and share the opportunity to create digital wealth together.\nNova Lands Alliance, helping you easily achieve wealth growth.\nDownload the APP and enjoy a smooth experience on the wealth express!",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/logo.svg",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/nlalliance/3-1.20240904.0/alphanovalands.db-equity.com.dweb-1.20240904.0.zip",
+  "bundle_hash": "sha256:ad8056e50898c0f51a5d93c645168485dbcfc8270e5eeb5511115ae71a8004cf",
+  "bundle_size": 26576681,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Wed Sep 04 2024 15:11:24 GMT+0800 (中国标准时间)",
+  "change_log": "App launch",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_04.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/desc_05.jpg"
+  ],
+  "author": [
+    "db-equity.com"
+  ],
+  "version": "1.20240904.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.novalands.db-equity.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nlalliance/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.novalands.db-equity.com"
+}
