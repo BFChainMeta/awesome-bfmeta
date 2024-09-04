@@ -10,12 +10,12 @@
   "short_name": "BTCSwap Test",
   "description": "BTCSwap是您数字资产交易好帮手，无论何时何地都为您提供安全、便捷和高效的去中心化交易体验。\n去中心化：BTCSwap允许您直接与其他用户交易，无需信任中间方。\n多链支持：支持各主流币种以及生物链下各权益间的便捷交易体验。\n高流动性：BTCSwap提供了广泛的数字资产市场，确保您的订单能够迅速匹配。\n安全保障：采用先进的加密技术，保护您的数字资产安全。\n用户友好：直观的界面，使您轻松管理和交易您的数字资产。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/logo.svg",
-  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/btcswap/3-1.20240604.0/alphabtcmetaswap.com.dweb-1.20240604.0.zip",
-  "bundle_hash": "sha256:e587a2e4a3ee9bde14417dfc27b94448a717d1588632bcced2d4e272233b51f6",
-  "bundle_size": 20654561,
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps-test/btcswap/3-1.20240904.0/alphabtcmetaswap.com.dweb-1.20240904.0.zip",
+  "bundle_hash": "sha256:ac82136b7f71cbf0f79ce97759e3fdbcde5786458c74b017b4a6a1fa30da12ed",
+  "bundle_size": 20536429,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Tue Jun 04 2024 15:44:12 GMT+0800 (中国标准时间)",
+  "release_date": "Wed Sep 04 2024 14:58:23 GMT+0800 (中国标准时间)",
   "change_log": "1. 优化了行情页面显示效果\n2.修复了相关BUG。",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/btcswap/desc_01.jpg",
@@ -26,7 +26,7 @@
   "author": [
     "@btcmetaswap"
   ],
-  "version": "1.20240604.0",
+  "version": "1.20240904.0",
   "categories": [
     "application"
   ],
