@@ -7,13 +7,6 @@
         "app_path": "/dweb-apps-test"
     },
     "applist": {
-        "tansocc": {
-            "name": "NewCarbonMetaverse",
-            "logo": "/tansocc/logo.svg",
-            "description": "NewCarbonMetaverse应用",
-            "metadata": "/tansocc/metadata.json",
-            "dwebTarget3": "3-1.0.0",
-            "latest": "3-1.0.0"
-        }
+        
     }
 }
