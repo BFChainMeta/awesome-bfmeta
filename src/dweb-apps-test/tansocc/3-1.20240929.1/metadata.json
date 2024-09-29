@@ -1,0 +1,55 @@
+{
+  "id": "alphatansocc.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "Tansocc Test",
+  "short_name": "Tansocc Test",
+  "description": "【碳元域】是中数碳本（厦门）元宇宙科技有限公司开发的全新的元宇宙新型协作共生平台。碳元域平台以新质生产力核心技术，以非同质化通证（NFT）为抓手，通过数字产权证书的数字化应用，帮助企业建立品牌影响力，形成企业品牌与企业共建者（用户）的良性互动。让用户得以分享注意力经济价值变现收益，实现企业和用户的价值共享。此外，碳元域还提供了数字人民币大量的Web3.0场景，包括数字身份认证、数字产权证书NFT、元宇宙社交、社区投票治理等等。改变传统的企业与用户的交易对手关系，构建高质量发展、共同富裕的数字共同体",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/tansocc/logo.svg",
+  "bundle_url": "./alphatansocc.com.dweb-1.20240929.1.zip",
+  "bundle_hash": "sha256:efd5a7268d93ff26c0df93318f6cbe6c2a7a10b6e94f401fb9d5eae4d3b53b29",
+  "bundle_size": 14851488,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Sun Sep 29 2024 19:20:05 GMT+0800 (中国标准时间)",
+  "change_log": "应用上线",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/tansocc/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/tansocc/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/tansocc/desc_03.jpg"
+  ],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "1.20240929.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.tansocc.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/tansocc/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.tansocc.com"
+}
