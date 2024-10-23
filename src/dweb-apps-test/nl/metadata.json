@@ -1,0 +1,55 @@
+{
+  "id": "alphanl.tansocc.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "NiLai",
+  "short_name": "NiLai",
+  "description": "【尼来】是中数碳本（厦门）元宇宙科技有限公司开发的全新的元宇宙新型协作共生平台。尼来Web3电商平台以新质生产力核心技术，以非同质化通证（NFT）为抓手，通过数字产权证书的数字化应用，帮助企业建立品牌影响力，形成企业品牌与企业共建者（用户）的良性互动。让用户得以分享注意力经济价值变现收益，实现企业和用户的价值共享。\n 此外，尼来还提供了数字人民币大量的Web3.0场景，包括数字身份认证、数字产权证书NFT、元宇宙社交、社区投票治理等等。改变传统的企业与用户的交易对手关系，构建高质量发展、共同富裕的数字共同体。",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nl/logo.svg",
+  "bundle_url": "./alphanl.tansocc.com.dweb-1.20241022.0.zip",
+  "bundle_hash": "sha256:e6079e60af4f0ea8a114818b9e38a1fd67bce2cd7138b75c93eac4e278a4ad6f",
+  "bundle_size": 15291421,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Tue Oct 22 2024 14:16:54 GMT+0800 (中国标准时间)",
+  "change_log": "应用首发上线",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nl/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nl/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nl/desc_03.jpg"
+  ],
+  "author": [
+    "bfs",
+    "bfs@bfs.com"
+  ],
+  "version": "1.20241022.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.tansocc.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nl/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.tansocc.com"
+}
