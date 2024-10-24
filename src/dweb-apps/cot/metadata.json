@@ -16,7 +16,7 @@
   "bundle_signature": "",
   "public_key_url": "",
   "release_date": "Thu Oct 24 2024 12:59:28 GMT+0800 (中国标准时间)",
-  "change_log": "1. 新增了BTCMeta链，并支持其转账收款等功能；\n2.修复了相关BUG。",
+  "change_log": "1.DP 转移：您现在可以通过COT钱包界面直接轻松转移DP资产。导航到「DP」资产，选择您的任一DP资产并点击，在DP详情页点击“转账”按钮即可将其转发送到另一个钱包地址。立即更新以享受无缝DP转移！",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_01.jpg",
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_02.jpg",
