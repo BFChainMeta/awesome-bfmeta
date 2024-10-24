@@ -1,0 +1,54 @@
+{
+  "id": "bfmeta.info.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "COT",
+  "short_name": "COT",
+  "description": "COT is an easy-to-use digital wallet that provides you with a secure and convenient digital asset management experience. Whether you are a user of Ethereum, Tron, or other digital currencies, COT can meet your needs.\n\nFeatures:\nSecurity and Reliability: COT uses advanced encryption technology to ensure your assets are always safe.\nMulti-Chain Support: Supports multiple major blockchains, including Ethereum, Tron, Binance Chain, and more.\nEasy Transfers: One-click transfers allow you to manage your digital assets anytime, anywhere.\nMultilingual Support: Multilingual interface to meet the needs of users in different languages.",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/cot/3-3.13.1//bfmeta.info.dweb-3.13.1.zip",
+  "bundle_hash": "sha256:ab1bea0e42677cfe6c0630889d06303511e5c18113cd7e3a4fd0346d9daafbca",
+  "bundle_size": 28849557,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu Oct 24 2024 18:17:40 GMT+0800 (中国标准时间)",
+  "change_log": "1.DP Transfers: You can now easily transfer DP assets directly through the COT wallet interface. Navigate to the「DP」section, select any DP asset, and click on it. On the DP details page, click the「Transfer」button to send it to another wallet address.Update now to enjoy seamless DP transfers! \n 2.DP transfer function experience optimization.",  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_04.jpg"
+  ],
+  "author": [
+    "@bfmeta.info"
+  ],
+  "version": "3.13.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.bfmeta.info",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.bfmeta.info"
+}
