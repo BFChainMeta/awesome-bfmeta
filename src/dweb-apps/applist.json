@@ -140,7 +140,7 @@
 			"dwebTarget3": "3-1.1.6",
             "latest": "3-1.1.6"
         },
-        "xpay": {
+        "x pay": {
             "name": "X Pay",
             "logo": "/xpay/logo.svg",
             "description": "X Pay应用",
