@@ -16,11 +16,11 @@
             "dwebTarget3": "3-1.4.0",
             "latest": "3-1.4.0"
         },
-		"xpay": {
+		"x pay": {
             "name": "X Pay",
             "logo": "/xpay/logo.svg",
             "description": "X Pay应用",
-            "metadata": "/xpay/metadata.json",
+            "metadata": "/x pay/metadata.json",
             "dwebTarget3": "3-1.0.0",
             "latest": "3-1.0.0"
         }
