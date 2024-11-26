@@ -1,0 +1,55 @@
+{
+  "id": "nikola-x.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "NikolaX Dex",
+  "short_name": "NikolaX Dex",
+  "description": "歡迎來到我們的數字交易所應用！\n我們將股權交易和去中心化交易融為一體，為您提供最佳的數字資產交易體驗。\n無論您是新手還是老手，我們都致力於為您打造安全、便捷的交易環境。\n立即下載，開啟您的數字交易之旅！",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/nikolax/3-1.4.0/nikola-x.com.dweb-1.4.0.zip",
+  "bundle_hash": "sha256:192f4b7de6140a992e537e029a3ddea73a27a1b13d1febd659f504178fb30d9e",
+  "bundle_size": 22377005,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Tue Nov 26 2024 17:28:17 GMT+0800 (中国标准时间)",
+  "change_log": "支持X Pay錢包授權連接。",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_04.jpg"
+  ],
+  "author": [
+    "NikolaX Dex"
+  ],
+  "version": "1.4.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文简体",
+    "中文繁体"
+  ],
+  "homepage_url": "https://www.nikola-x.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.nikola-x.com"
+}
