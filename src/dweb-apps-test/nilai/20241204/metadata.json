@@ -1,0 +1,51 @@
+{
+  "id": "www.ni-lai.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "NiLai",
+  "short_name": "NiLai",
+  "description": "NiLai平台",
+  "logo": "https://assets.game-qipai.pecasha.com/log.png",
+  "bundle_url": "./www.ni-lai.com.dweb-1.0.1.zip",
+  "bundle_hash": "sha256:d2ad0ab99249dfe34aa1f3dbda70174eccf8c2b8b71bf28505b654cd17e02d25",
+  "bundle_size": 1835225,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Wed Dec 04 2024 05:23:32 GMT+0800 (中国标准时间)",
+  "change_log": "1. 重磅上线",
+  "images": [
+    "https://assets.game-qipai.pecasha.com/screenshot-.png",
+    "https://assets.game-qipai.pecasha.com/screenshot.png"
+  ],
+  "author": [
+    "@nilai.info"
+  ],
+  "version": "1.0.1",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "中文"
+  ],
+  "homepage_url": "https://www.ni-lai.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://assets.game-qipai.pecasha.com/log.png"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.ni-lai.com"
+}
