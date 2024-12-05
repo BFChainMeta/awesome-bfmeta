@@ -9,13 +9,13 @@
   "name": "NiLai",
   "short_name": "NiLai",
   "description": "NiLai平台",
-  "logo": "https://assets.game-qipai.pecasha.com/log.png",
-  "bundle_url": "./www.ni-lai.com.dweb-1.0.0.zip",
-  "bundle_hash": "sha256:086ac4f2125914327ec3b8480a06f5e658129ad46ad1fc64ffffc92e2af03d93",
-  "bundle_size": 1782228,
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nl/logo.svg",
+  "bundle_url": "./www.ni-lai.com.dweb-1.0.3.zip",
+  "bundle_hash": "sha256:0a972daefe212d4ff19c0771f96f6970be0982eba6685bac56bc8bfb82b0a80b",
+  "bundle_size": 3007044,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Sun Dec 01 2024 23:29:06 GMT+0800 (中国标准时间)",
+  "release_date": "Thu Dec 05 2024 22:01:38 GMT+0800 (中国标准时间)",
   "change_log": "1. 重磅上线",
   "images": [
     "https://assets.game-qipai.pecasha.com/screenshot-.png",
@@ -24,7 +24,7 @@
   "author": [
     "@nilai.info"
   ],
-  "version": "1.0.0",
+  "version": "1.0.3",
   "categories": [
     "application"
   ],
@@ -38,7 +38,7 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://assets.game-qipai.pecasha.com/log.png"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nl/logo.svg"
     }
   ],
   "screenshots": [],
