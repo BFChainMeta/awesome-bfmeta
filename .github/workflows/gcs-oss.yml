@@ -71,32 +71,66 @@
 #           # delete-first: true
 #           # debug: ${{ secrets.ACTIONS_STEP_DEBUG }}
 
-name: Deploy
-on:
+# name: Deploy
+# on:
 
+#   push:
+#     branches:
+#       - main
+# jobs:
+
+#   deploy:
+#     name: Deploy
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - uses: actions/checkout@v2
+#       - name: Sync
+#         uses: patrickwyler/gcs-bucket-sync-action@1.4
+#         with:
+#           secrets: ${{ secrets.google_service_account_credentials }}
+#           bucket: 'dweb-browser-apps'
+#           exclude: '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$'
+#           sync_dir_from: 'src'
+#           sync_dir_to: 'dweb-browser-apps'
+
+
+
+name: Deploy
+
+on:
   push:
     branches:
       - main
-jobs:
 
+jobs:
   deploy:
-    name: Deploy
+    name: Deploy to GCS
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      
-      - name: Clean pip cache and reinstall
-        run: |
-          pip cache purge
-          pip install pyOpenSSL==22.1.0 cryptography==38.0.4
-          
-      - name: Sync
-        uses: patrickwyler/gcs-bucket-sync-action@1.4
-        with:
-          secrets: ${{ secrets.google_service_account_credentials }}
-          bucket: 'dweb-browser-apps'
-          exclude: '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$'
-          sync_dir_from: 'src'
-          sync_dir_to: 'dweb-browser-apps'
+      # Step 1: 拉取代码仓库
+      - name: Checkout code
+        uses: actions/checkout@v2
 
+      # Step 2: 安装 Google Cloud CLI 工具
+      - name: Install Google Cloud SDK
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-cloud-sdk
+
+      # Step 3: 使用服务账号进行认证
+      - name: Authenticate with GCP
+        run: |
+          echo '${{ secrets.google_service_account_credentials }}' > key.json
+          gcloud auth activate-service-account --key-file=key.json
+          gcloud auth list
+
+      # Step 4: 使用 gsutil 命令同步文件到 GCS
+      - name: Sync files to GCS
+        run: |
+          gsutil -m rsync -r -x '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$' src gs://xxx-xxx-xxx
+
+
+
+          
