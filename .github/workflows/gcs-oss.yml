@@ -97,7 +97,6 @@
 
 
 name: Deploy
-
 on:
   push:
     branches:
@@ -105,29 +104,26 @@ on:
 
 jobs:
   deploy:
-    name: Deploy to GCS
+    name: Deploy
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: 拉取代码仓库
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-      # Step 2: 安装 Google Cloud SDK
-      - name: Install Google Cloud SDK
+      - name: Check and Install Google Cloud SDK
         run: |
-          curl -sSL https://sdk.cloud.google.com | bash
-          export PATH=$PATH:$HOME/google-cloud-sdk/bin
-          gcloud --version
+          if ! command -v gcloud &> /dev/null; then
+            echo "Google Cloud SDK not found. Installing..."
+            sudo apt-get update && sudo apt-get install -y google-cloud-cli
+          else
+            echo "Google Cloud SDK is already installed."
+          fi
 
-      # Step 3: 使用服务账号进行认证
       - name: Authenticate with GCP
         run: |
-          echo '${{ secrets.google_service_account_credentials }}' > key.json
-          gcloud auth activate-service-account --key-file=key.json
-          gcloud auth list
+          echo '${{ secrets.google_service_account_credentials }}' > /tmp/credentials.json
+          gcloud auth activate-service-account --key-file=/tmp/credentials.json
 
-      # Step 4: 使用 gsutil 命令同步文件到 GCS
       - name: Sync files to GCS
         run: |
           gsutil -m rsync -r -x '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$' src gs://dweb-browser-apps/dweb-browser-apps
