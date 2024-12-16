@@ -124,9 +124,9 @@ jobs:
           echo '${{ secrets.google_service_account_credentials }}' > /tmp/credentials.json
           gcloud auth activate-service-account --key-file=/tmp/credentials.json
 
-      - name: Sync files to GCS
+      - name: Sync files to GCS (Clean up old files)
         run: |
-          gsutil -m rsync -r -x '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$' src gs://dweb-browser-apps/dweb-browser-apps
+          gsutil -m rsync -d -r -x '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$' src gs://dweb-browser-apps/dweb-browser-apps
 
 
 
