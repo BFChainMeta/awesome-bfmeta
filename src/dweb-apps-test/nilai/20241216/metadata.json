@@ -9,7 +9,7 @@
   "name": "NiLai",
   "short_name": "NiLai",
   "description": "NiLai平台",
-  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nilai/logo.svg",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nilai/logo.png",
   "bundle_url": "./www.ni-lai.com.dweb-1.0.4.zip",
   "bundle_hash": "sha256:79ac5ec34246be5644a69036c37741ff46669b6e9fc26cd27335282f2d7ea46b",
   "bundle_size": 2321241,
@@ -38,7 +38,7 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nilai/logo.svg"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nilai/logo.png"
     }
   ],
   "screenshots": [],
