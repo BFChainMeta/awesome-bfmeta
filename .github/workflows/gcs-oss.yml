@@ -84,19 +84,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
+      - uses: actions/checkout@v2
+      
+      - name: Fix OpenSSL Dependencies
         run: |
-          pip install --upgrade pyOpenSSL cryptography google-cloud-storage
+          pip install --upgrade pip
+          pip install pyOpenSSL==22.1.0 cryptography==38.0.4
           
-      - uses: actions/checkout@v3
       - name: Sync
         uses: patrickwyler/gcs-bucket-sync-action@1.4
         with:
