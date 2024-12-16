@@ -113,11 +113,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      # Step 2: 安装 Google Cloud CLI 工具
+      # Step 2: 安装 Google Cloud SDK
       - name: Install Google Cloud SDK
         run: |
-          sudo apt-get update
-          sudo apt-get install -y google-cloud-sdk
+          curl -sSL https://sdk.cloud.google.com | bash
+          export PATH=$PATH:$HOME/google-cloud-sdk/bin
+          gcloud --version
 
       # Step 3: 使用服务账号进行认证
       - name: Authenticate with GCP
