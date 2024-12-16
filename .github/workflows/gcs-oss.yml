@@ -86,9 +86,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - name: Fix OpenSSL Dependencies
+      - name: Clean pip cache and reinstall
         run: |
-          pip install --upgrade pip
+          pip cache purge
           pip install pyOpenSSL==22.1.0 cryptography==38.0.4
           
       - name: Sync
