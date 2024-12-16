@@ -130,7 +130,7 @@ jobs:
       # Step 4: 使用 gsutil 命令同步文件到 GCS
       - name: Sync files to GCS
         run: |
-          gsutil -m rsync -r -x '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$' src gs://dweb-browser-apps
+          gsutil -m rsync -r -x '.*\.md$|\.gitignore$|\.git/.*$|\.github/.*$' src gs://dweb-browser-apps/dweb-browser-apps
 
 
 
