@@ -121,14 +121,6 @@
             "dwebTarget2": "2-1.20240524.1",
             "dwebTarget3": "3-1.20240903.0",
             "latest": "3-1.20240903.0"
-        },
-        "openchat": {
-            "name": "OpenChat",
-            "logo": "/openchat/logo.png",
-            "description": "OpenChat应用",
-            "metadata": "/openchat/metadata.json",
-            "dwebTarget2": "2-1.1.5",
-            "latest": "2-1.1.5"
         }
     },
     "all_products": [
@@ -138,21 +130,6 @@
             "icon": "/all-icon/icon-chain.svg",
             "themeColor": "#0068FF",
             "applist": [
-                {
-                    "name": "BFChain",
-                    "logo": "/all-logo/BFChain.png",
-                    "description": "BFChain",
-                    "website": "https://www.bfchain.com/",
-                    "tracker": "https://www.bfchain.info/",
-                    "community": "https://developer.bfchain.com/"
-                },
-                {
-                    "name": "BFChainV2",
-                    "logo": "/all-logo/BFChainV2.png",
-                    "description": "BFChainV2",
-                    "tracker": "https://tracker.bfchainv2.com/",
-                    "community": "https://developer.bfchainv2.com/"
-                },
                 {
                     "name": "BFMeta",
                     "logo": "/all-logo/BFMeta.png",
@@ -344,20 +321,6 @@
                     "logo": "/all-logo/Tansocc.png",
                     "description": "碳元域",
                     "website": "https://www.tansocc.com/"
-                }
-            ]
-        },
-        {
-            "category": "node",
-            "name": "节点应用",
-            "icon": "/all-icon/icon-node.svg",
-            "themeColor": "#5C2FCD",
-            "applist": [
-                {
-                    "name": "节点管理器",
-                    "logo": "/all-logo/NodeManage.png",
-                    "description": "节点管理器",
-                    "website": "https://developer.bfchainv2.com/bfchainv2-node-manager/"
                 }
             ]
         },
