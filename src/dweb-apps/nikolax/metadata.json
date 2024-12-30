@@ -10,13 +10,13 @@
   "short_name": "NikolaX Dex",
   "description": "欢迎来到我们的数字交易所应用！\n我们将股权交易和去中心化交易融为一体，为您提供最佳的数字资产交易体验。\n无论您是新手还是老手，我们都致力于为您打造安全、便捷的交易环境。\n立即下载，开启您的数字交易之旅！",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/logo.svg",
-  "bundle_url": "./nikola-x.com.dweb-1.4.0.zip",
-  "bundle_hash": "sha256:b6612eb51b4bef045490ded36d8e1e4d59b12e2f4dfbb4883b71e8420bd9c220",
-  "bundle_size": 22378541,
+  "bundle_url": "./nikola-x.com.dweb-1.5.0.zip",
+  "bundle_hash": "sha256:8adbc3c02ef8d6e6e57a4bfae547bd4a7284185d9c9376a906ed05310522488e",
+  "bundle_size": 22380263,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Wed Nov 27 2024 15:54:19 GMT+0800 (中国标准时间)",
-  "change_log": "支持X Pay钱包授权连接。",
+  "release_date": "Mon Dec 30 2024 22:03:11 GMT+0800 (中国标准时间)",
+  "change_log": "支持BIWMeta连接。",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_01.jpg",
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nikolax/desc_02.jpg",
@@ -26,7 +26,7 @@
   "author": [
     "NikolaX Dex"
   ],
-  "version": "1.4.0",
+  "version": "1.5.0",
   "categories": [
     "application"
   ],
