@@ -10,12 +10,12 @@
   "short_name": "NiLai",
   "description": "尼来绿色电商平台是一个专注于销售绿色、环保、科技含量高产品的新型线上交易电子商务平台。尼来采用了绿色低碳节能分布式底层技术，主要目标是响应“双碳”目标，即中国的“3060”碳达峰和碳中和目标，通过绿色化数字化技术帮助企业实现与用户粉丝的“共建共创共享”，提升企业品牌影响力，增加收入盈利水平，并推动全民参与节能减排，培养绿色消费观念。尼来鼓励消费者转变为消费商，参与平台服务的同时获得灵活用工收入，为平台的可持续发展注入强大动力。尼来数字积分系统不仅激励用户的消费行为，还通过数字积分兑换实物商品，解决用户日常所需。随着技术的不断成熟和政策的支持，尼来有望成为推动绿色经济发展的重要Web3.0价值互联网新型协作平台，以新质生产力赋能实体经济，吸引更多用户和企业参与，创造更多地社会价值。",
   "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nilai/logo.png",
-  "bundle_url": "./www.ni-lai.com.dweb-1.0.15.zip",
-  "bundle_hash": "sha256:0ec8d1dc9146fdbf2c1cbcbc363730bce9509efe6f34eb59fdd3d30c5a6a9645",
-  "bundle_size": 2470062,
+  "bundle_url": "./www.ni-lai.com.dweb-1.0.16.zip",
+  "bundle_hash": "sha256:339ab429780ed631048876a80ffc2e0c41651c0cff13f8a77b3400ab0aa8a614",
+  "bundle_size": 2470417,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Sun Jan 12 2025 21:43:52 GMT+0800 (中国标准时间)",
+  "release_date": "Mon Jan 13 2025 10:27:00 GMT+0800 (中国标准时间)",
   "change_log": "1. 公测V1.0重磅上线\n2. 商品新增折扣功能",
   "images": [
     "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/nilai/desc_01.jpg",
@@ -25,7 +25,7 @@
   "author": [
     "@nilai.info"
   ],
-  "version": "1.0.15",
+  "version": "1.0.16",
   "categories": [
     "application"
   ],
