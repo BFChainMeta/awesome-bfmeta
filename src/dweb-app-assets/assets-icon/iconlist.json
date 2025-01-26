@@ -1,149 +1,188 @@
 {
-    "pmc": {
-        "DAI":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-DAI.png"
-		,"DOGE":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-DOGE.png"
-		,"DOT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-DOT.png"
-		,"ENA":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ENA.png"
-		,"ETH":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ETH.png"
-		,"FDUSD":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-FDUSD.png"
-		,"FET":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-FET.png"
-		,"FIL":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-FIL.png"
-		,"GRT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-GRT.png"
-		,"LDO":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-LDO.png"
-		,"LEO":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-LEO.png"
-		,"LINK":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-LINK.png"
-		,"LTC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-LTC.png"
-		,"MATIC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-MATIC.png"
-		,"MKR":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-MKR.png"
-		,"NEAR":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-NEAR.png"
-		,"OKB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-OKB.png"
-		,"ONDO":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ONDO.png"
-		,"PEPE":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-PEPE.png"
-		,"PMC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-PMC.png"
-		,"RNDR":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-RNDR.png"
-		,"SHIB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-SHIB.png"
-		,"STETH":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-STETH.png"
-		,"TON":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-TON.png"
-		,"TRX":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-TRX.png"
-		,"UNI":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-UNI.png"
-		,"USDC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-USDC.png"
-		,"USDM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-USDM.png"
-		,"USDT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-USDT.png"
-		,"WBTC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-WBTC.png"
-		,"WETH":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-WETH.png"
-		,"XRP":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-XRP.png"
-		,"ADA":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ADA.png"
-		,"AEDT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-AEDT.png"
-		,"ARB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ARB.png"
-		,"ATOM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ATOM.png"
-		,"AVAX":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-AVAX.png"
-		,"BCH":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-BCH.png"
-		,"BNB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-BNB.png"
-		,"BTCB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-BTCB.png"
-    },
-    "eth": {
-        "LON":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-LON.png",
-		"MASK":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-MASK.png",
-		"MATIC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-MATIC.png",
-		"MKR":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-MKR.png",
-		"NEAR":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-NEAR.png",
-		"OKB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-OKB.png",
-		"ONDO":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-ONDO.png",
-		"PEPE":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-PEPE.png",
-		"RNDR":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-RNDR.png",
-		"SHIB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-SHIB.png",
-		"stETH":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-stETH.png",
-		"SUSHI":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-SUSHI.png",
-		"TON":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-TON.png",
-		"UNI":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-UNI.png",
-		"USDC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-USDC.png",
-		"USDT(ERC20)":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-USDT(ERC20).png",
-		"WBTC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-WBTC.png",
-		"WETH":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-WETH.png",
-		"Y2X2":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-Y2X2.png",
-		"1INCH":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-1INCH.png",
-		"AAVE":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-AAVE.png",
-		"APE":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-APE.png",
-		"ARB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-ARB.png",
-		"ATOM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-ATOM.png",
-		"COMP":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-COMP.png",
-		"CRV":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-CRV.png",
-		"DAI":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-DAI.png",
-		"ENA":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-ENA.png",
-		"FDUSD":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-FDUSD.png",
-		"FET":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-FET.png",
-		"GALA":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-GALA.png",
-		"GRT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-GRT.png",
-		"HFIL":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-HFIL.png",
-		"LDO":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-LDO.png",
-		"LEO":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-LEO.png",
-		"LINK":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-LINK.png"
-    },
-    "bsc": {
-        "ADA":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-ADA.png",
-		"ARB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-ARB.png",
-		"ATOM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-ATOM.png",
-		"AVAX":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-AVAX.png",
-		"BCH":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-BCH.png",
-		"BTCB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-BTCB.png",
-		"BUSD(BEP20)":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-BUSD(BEP20).png",
-		"Cake":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-Cake.png",
-		"DAI":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-DAI.png",
-		"DOGE":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-DOGE.png",
-		"DOT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-DOT.png",
-		"FET":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-FET.png",
-		"FIL":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-FIL.png",
-		"FT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-FT.png",
-		"LINK":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-LINK.png",
-		"LTC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-LTC.png",
-		"MATIC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-MATIC.png",
-		"MKR":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-MKR.png",
-		"NEAR":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-NEAR.png",
-		"PEPE":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-PEPE.png",
-		"SHIB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-SHIB.png",
-		"TON":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-TON.png",
-		"TRX":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-TRX.png",
-		"UNI":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-UNI.png",
-		"USDC(BEP20)":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-USDC(BEP20).png",
-		"USDT(BEP20)":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-USDT(BEP20).png",
-		"XRP":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-XRP.png"
-    },
-    "biwm": {
-        "KKDT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-KKDT.png",
-		"KKST":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-KKST.png",
-		"UUDT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-UUDT.png",
-		"UUST":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-UUST.png"
-    },
-    "btgm": {
-        "BTCM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/btgm/icon-BTCM.png"
-    },
-    "ethm": {
-        "ETHS":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/ethm/icon-ETHS",
-		"JKM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/ethm/icon-JKM",
-		"USDM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/ethm/icon-USDM"
-    },
-    "bfm": {
-        "BFM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-BFM",
-		"FTC":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-FTC",
-		"GFS":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-GFS",
-		"KPM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-KPM",
-		"SNP":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-SNP",
-		"USDM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-USDM"
-    },
-    "bftv2": {
-        "USDM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bftv2/icon-USDM.png"
-    },
-    "btcm": {
-        "USDM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/btcm/icon-USDM.png"
-    },
-    "bft": {
-        "BFT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bft/icon-BFT.png"
-    },
-    "ccc": {
-        "CCC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/ccc/icon-CCC.png"
-    },
-    "tron": {
-        "USDC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/tron/icon-USDC(TRC20)",
-        "USDT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/tron/icon-USDT(TRC20)"
-    }
+  "pmc": {
+    "DAI": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-DAI.png",
+    "DOGE": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-DOGE.png",
+    "DOT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-DOT.png",
+    "ENA": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ENA.png",
+    "ETH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ETH.png",
+    "FDUSD": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-FDUSD.png",
+    "FET": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-FET.png",
+    "FIL": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-FIL.png",
+    "GRT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-GRT.png",
+    "LDO": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-LDO.png",
+    "LEO": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-LEO.png",
+    "LINK": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-LINK.png",
+    "LTC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-LTC.png",
+    "MATIC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-MATIC.png",
+    "MKR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-MKR.png",
+    "NEAR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-NEAR.png",
+    "OKB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-OKB.png",
+    "ONDO": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ONDO.png",
+    "PEPE": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-PEPE.png",
+    "PMC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-PMC.png",
+    "RNDR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-RNDR.png",
+    "SHIB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-SHIB.png",
+    "STETH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-STETH.png",
+    "TON": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-TON.png",
+    "TRX": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-TRX.png",
+    "UNI": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-UNI.png",
+    "USDC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-USDC.png",
+    "USDM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-USDM.png",
+    "USDT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-USDT.png",
+    "WBTC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-WBTC.png",
+    "WETH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-WETH.png",
+    "XRP": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-XRP.png",
+    "ADA": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ADA.png",
+    "AEDT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-AEDT.png",
+    "ARB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ARB.png",
+    "ATOM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-ATOM.png",
+    "AVAX": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-AVAX.png",
+    "BCH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-BCH.png",
+    "BNB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-BNB.png",
+    "BTCB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/pmc/icon-BTCB.png"
+  },
+  "eth": {
+    "LON": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-LON.png",
+    "MASK": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-MASK.png",
+    "MATIC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-MATIC.png",
+    "MKR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-MKR.png",
+    "NEAR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-NEAR.png",
+    "OKB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-OKB.png",
+    "ONDO": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-ONDO.png",
+    "PEPE": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-PEPE.png",
+    "RNDR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-RNDR.png",
+    "SHIB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-SHIB.png",
+    "stETH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-stETH.png",
+    "SUSHI": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-SUSHI.png",
+    "TON": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-TON.png",
+    "UNI": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-UNI.png",
+    "USDC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-USDC.png",
+    "USDT(ERC20)": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-USDT(ERC20).png",
+    "WBTC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-WBTC.png",
+    "WETH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-WETH.png",
+    "Y2X2": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-Y2X2.png",
+    "1INCH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-1INCH.png",
+    "AAVE": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-AAVE.png",
+    "APE": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-APE.png",
+    "ARB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-ARB.png",
+    "ATOM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-ATOM.png",
+    "COMP": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-COMP.png",
+    "CRV": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-CRV.png",
+    "DAI": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-DAI.png",
+    "ENA": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-ENA.png",
+    "FDUSD": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-FDUSD.png",
+    "FET": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-FET.png",
+    "GALA": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-GALA.png",
+    "GRT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-GRT.png",
+    "HFIL": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-HFIL.png",
+    "LDO": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-LDO.png",
+    "LEO": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-LEO.png",
+    "LINK": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/eth/icon-LINK.png"
+  },
+  "bsc": {
+    "ADA": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-ADA.png",
+    "ARB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-ARB.png",
+    "ATOM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-ATOM.png",
+    "AVAX": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-AVAX.png",
+    "BCH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-BCH.png",
+    "BTCB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-BTCB.png",
+    "BUSD(BEP20)": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-BUSD(BEP20).png",
+    "Cake": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-Cake.png",
+    "DAI": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-DAI.png",
+    "DOGE": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-DOGE.png",
+    "DOT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-DOT.png",
+    "FET": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-FET.png",
+    "FIL": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-FIL.png",
+    "FT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-FT.png",
+    "LINK": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-LINK.png",
+    "LTC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-LTC.png",
+    "MATIC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-MATIC.png",
+    "MKR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-MKR.png",
+    "NEAR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-NEAR.png",
+    "PEPE": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-PEPE.png",
+    "SHIB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-SHIB.png",
+    "TON": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-TON.png",
+    "TRX": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-TRX.png",
+    "UNI": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-UNI.png",
+    "USDC(BEP20)": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-USDC(BEP20).png",
+    "USDT(BEP20)": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-USDT(BEP20).png",
+    "XRP": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bsc/icon-XRP.png"
+  },
+  "biwm": {
+    "KKDT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-KKDT.png",
+    "KKST": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-KKST.png",
+    "UUDT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-UUDT.png",
+    "UUST": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-UUST.png",
+    "DAI": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-DAI.png",
+    "DOGE": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-DOGE.png",
+    "DOT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-DOT.png",
+    "ENA": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-ENA.png",
+    "ETH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-ETH.png",
+    "FDUSD": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-FDUSD.png",
+    "FET": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-FET.png",
+    "FIL": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-FIL.png",
+    "GRT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-GRT.png",
+    "LDO": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-LDO.png",
+    "LEO": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-LEO.png",
+    "LINK": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-LINK.png",
+    "LTC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-LTC.png",
+    "MATIC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-MATIC.png",
+    "MKR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-MKR.png",
+    "NEAR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-NEAR.png",
+    "OKB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-OKB.png",
+    "ONDO": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-ONDO.png",
+    "PEPE": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-PEPE.png",
+    "RNDR": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-RNDR.png",
+    "SHIB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-SHIB.png",
+    "STETH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-STETH.png",
+    "TON": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-TON.png",
+    "TRX": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-TRX.png",
+    "UNI": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-UNI.png",
+    "USDC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-USDC.png",
+    "USDM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-USDM.png",
+    "USDT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-USDT.png",
+    "WBTC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-WBTC.png",
+    "WETH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-WETH.png",
+    "XRP": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-XRP.png",
+    "ADA": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-ADA.png",
+    "AEDT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-AEDT.png",
+    "ARB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-ARB.png",
+    "ATOM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-ATOM.png",
+    "AVAX": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-AVAX.png",
+    "BCH": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-BCH.png",
+    "BNB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-BNB.png",
+    "BTCB": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/biwm/icon-BTCB.png"
+  },
+  "btgm": {
+    "BTCM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/btgm/icon-BTCM.png"
+  },
+  "ethm": {
+    "ETHS": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/ethm/icon-ETHS",
+    "JKM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/ethm/icon-JKM",
+    "USDM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/ethm/icon-USDM"
+  },
+  "bfm": {
+    "BFM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-BFM",
+    "FTC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-FTC",
+    "GFS": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-GFS",
+    "KPM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-KPM",
+    "SNP": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-SNP",
+    "USDM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-USDM"
+  },
+  "bftv2": {
+    "USDM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bftv2/icon-USDM.png"
+  },
+  "btcm": {
+    "USDM": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/btcm/icon-USDM.png"
+  },
+  "bft": {
+    "BFT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bft/icon-BFT.png"
+  },
+  "ccc": {
+    "CCC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/ccc/icon-CCC.png"
+  },
+  "tron": {
+    "USDC": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/tron/icon-USDC(TRC20)",
+    "USDT": "https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/tron/icon-USDT(TRC20)"
+  }
 }
