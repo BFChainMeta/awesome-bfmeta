@@ -127,8 +127,8 @@
             "logo": "/xpay/logo.svg",
             "description": "X Pay应用",
             "metadata": "/x pay/metadata.json",
-            "dwebTarget3": "3-1.0.2",
-            "latest": "3-1.0.2"
+            "dwebTarget3": "3-1.0.3",
+            "latest": "3-1.0.3"
         }
     },
     "all_products": [
