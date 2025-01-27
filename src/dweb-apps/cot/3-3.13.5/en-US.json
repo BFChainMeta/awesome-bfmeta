@@ -1,0 +1,55 @@
+{
+  "id": "bfmeta.info.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "COT",
+  "short_name": "COT",
+  "description": "COT is an easy-to-use digital wallet that provides you with a secure and convenient digital asset management experience. Whether you are a user of Ethereum, Tron, or other digital currencies, COT can meet your needs.\n\nFeatures:\nSecurity and Reliability: COT uses advanced encryption technology to ensure your assets are always safe.\nMulti-Chain Support: Supports multiple major blockchains, including Ethereum, Tron, Binance Chain, and more.\nEasy Transfers: One-click transfers allow you to manage your digital assets anytime, anywhere.\nMultilingual Support: Multilingual interface to meet the needs of users in different languages.",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp",
+  "bundle_url": "https://source.dwebdapp.com/dweb-browser-apps/dweb-apps/cot/3-3.13.5//bfmeta.info.dweb-3.13.5.zip",
+  "bundle_hash": "sha256:64e5d6abe7022084e3c125ac874b8f1508aa760fb8f4054c691a68f932a039ca",
+  "bundle_size": 28874526,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Sun Jan 26 2025 15:04:52 GMT+0800 (中国标准时间)",
+  "change_log": "1. Added the BTCMeta chain and enabled its transfer and receiving functions;\n2.Fixed related bugs.",
+    "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/desc_04.jpg"
+  ],
+  "author": [
+    "@bfmeta.info"
+  ],
+  "version": "3.13.5",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.bfmeta.info",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/cot/logo.webp"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.bfmeta.info"
+}
