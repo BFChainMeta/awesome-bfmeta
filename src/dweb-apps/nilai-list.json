@@ -12,8 +12,8 @@
             "logo": "/nilai/logo.png",
             "description": "NiLai应用",
             "metadata": "/nilai/metadata.json",
-            "dwebTarget3": "3-1.0.26",
-            "latest": "3-1.0.26"
+            "dwebTarget3": "3-1.0.27",
+            "latest": "3-1.0.27"
         }
     }
 }
