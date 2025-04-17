@@ -1,0 +1,50 @@
+{
+  "id": "pay.malibumeta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "M Pay",
+  "short_name": "M Pay",
+  "description": "M Pay是一款易用的数字钱包，为您提供了安全、便捷的数字资产管理体验。无论您是以太坊、波场或其他数字货币的用户，M Pay都能满足您的需求。\n特点：\n安全可靠：M Pay采用先进的加密技术，确保您的资产始终安全。\n多链支持：支持多种主要区块链，包括以太坊、波场，币安链等。\n轻松转账：一键转账，随时随地管理您的数字资产。\n多语言支持：多语言界面，满足不同语言用户需求。",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/mpay/logo.webp",
+  "bundle_url": "./pay.malibumeta.com.dweb-1.0.0.zip",
+  "bundle_hash": "sha256:e97ac1a6e12c525c0535d9d8ea437c1eb25485021283a41a11ae110547170ebd",
+  "bundle_size": 29255500,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu Apr 17 2025 15:21:06 GMT+0800 (中国标准时间)",
+  "change_log": "1. 公测上线",
+  "images": [],
+  "author": [
+    "@malibumeta.com"
+  ],
+  "version": "1.0.0",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.malibumetacom",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/mpay/logo.webp"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.malibumeta.com"
+}
