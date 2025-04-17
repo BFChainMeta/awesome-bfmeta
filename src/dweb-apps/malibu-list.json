@@ -7,5 +7,21 @@
         "app_path": "/dweb-apps-test"
     },
     "applist": {
+	 "mpay": {
+            "name": "M Pay",
+            "logo": "/mpay/logo.webp",
+            "description": "mpay",
+            "metadata": "/mpay/metadata.json",
+            "dwebTarget3": "3-1.0.0",
+            "latest": "3-1.0.0"
+        },
+	"Malibu": {
+            "name": "Malibu",
+            "logo": "/malibu/logo.webp",
+            "description": "Malibu",
+            "metadata": "/malibu/metadata.json",
+            "dwebTarget3": "3-1.0.0",
+            "latest": "3-1.0.0"
+        }
     }
 }
