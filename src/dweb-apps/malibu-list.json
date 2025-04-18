@@ -10,18 +10,18 @@
 	 "mpay": {
             "name": "M Pay",
             "logo": "/mpay/logo.webp",
-            "description": "mpay",
+            "description": "M pay Application",
             "metadata": "/mpay/metadata.json",
-            "dwebTarget3": "3-1.0.0",
-            "latest": "3-1.0.0"
+            "dwebTarget3": "3-1.0.1",
+            "latest": "3-1.0.1"
         },
 	"Malibu": {
             "name": "Malibu",
             "logo": "/malibu/logo.webp",
-            "description": "Malibu",
+            "description": "Malibu Application",
             "metadata": "/malibu/metadata.json",
-            "dwebTarget3": "3-1.0.0",
-            "latest": "3-1.0.0"
+            "dwebTarget3": "3-1.0.1",
+            "latest": "3-1.0.1"
         }
     }
 }
