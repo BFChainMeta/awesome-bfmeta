@@ -10,7 +10,7 @@
 	 "mpay": {
             "name": "M Pay",
             "logo": "/mpay/logo.webp",
-            "description": "M pay Application",
+            "description": "M Pay Application",
             "metadata": "/mpay/metadata.json",
             "dwebTarget3": "3-1.0.1",
             "latest": "3-1.0.1"
