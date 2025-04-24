@@ -20,8 +20,8 @@
             "logo": "/malibu/logo.webp",
             "description": "Malibu Application",
             "metadata": "/malibu/metadata.json",
-            "dwebTarget3": "3-1.0.4",
-            "latest": "3-1.0.4"
+            "dwebTarget3": "3-1.0.5",
+            "latest": "3-1.0.5"
         }
     }
 }
