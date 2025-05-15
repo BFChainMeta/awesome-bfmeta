@@ -20,8 +20,8 @@
 			"logo": "/bfmdex/logo.webp",
 			"description": "BFM Dex应用",
 			"metadata": "/bfmdex/metadata.json",
-			"dwebTarget3": "3-1.1.2",
-			"latest": "3-1.1.2"
+			"dwebTarget3": "3-1.1.3",
+			"latest": "3-1.1.3"
 		}
 	}
 }
