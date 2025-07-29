@@ -1,0 +1,44 @@
+{
+  "id": "rwa.admin.bfmeta.io.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "RWA 后台管理",
+  "short_name": "RWA 后台管理",
+  "description": "RWA 后台管理",
+  "logo": "",
+  "bundle_url": "./rwa.admin.bfmeta.io.dweb-1.0.2.zip",
+  "bundle_hash": "sha256:61a7a5ee5486a969f2c820bfbf7a49997958136140d6c2d068f2aec314d0a886",
+  "bundle_size": 2006892,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Tue Jul 29 2025 12:07:01 GMT+0800 (中国标准时间)",
+  "change_log": "rwa后台管理",
+  "images": [],
+  "author": [
+    "@bfmeta.info"
+  ],
+  "version": "1.0.2",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "中文"
+  ],
+  "homepage_url": "bfmeta.io",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "bfmeta.io"
+}
