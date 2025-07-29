@@ -10,18 +10,18 @@
   "short_name": "RWA 后台管理",
   "description": "RWA 后台管理",
   "logo": "",
-  "bundle_url": "./rwa.admin.bfmeta.io.dweb-1.0.0.zip",
-  "bundle_hash": "sha256:368d55148c45449d7fc3b73f90fa4c1c8e35a2f23a2991a5ec3a91f3e23beb59",
-  "bundle_size": 1990841,
+  "bundle_url": "./rwa.admin.bfmeta.io.dweb-1.0.2.zip",
+  "bundle_hash": "sha256:a1ab27d007611ee8885c4de16b61eb6e86312fccb9362adcd974c4f9babe8d77",
+  "bundle_size": 1999190,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Sun Jul 27 2025 01:16:19 GMT+0800 (中国标准时间)",
+  "release_date": "Tue Jul 29 2025 11:27:36 GMT+0800 (中国标准时间)",
   "change_log": "rwa后台管理",
   "images": [],
   "author": [
     "@bfmeta.info"
   ],
-  "version": "1.0.0",
+  "version": "1.0.2",
   "categories": [
     "application"
   ],
