@@ -10,18 +10,18 @@
   "short_name": "RWA ORG",
   "description": "RWA ORG",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/rwaorg/logo.png",
-  "bundle_url": "./rwaorg.bfmeta.com.dweb-1.0.1.zip",
-  "bundle_hash": "sha256:8714e816be814250ccd8680d70ce24ead24a29f4e934492c0deb40b6732ed2a1",
-  "bundle_size": 2412878,
+  "bundle_url": "./rwaorg.bfmeta.com.dweb-1.0.2.zip",
+  "bundle_hash": "sha256:c3814dc30a692ff9be7e415ff9748f3d74dbeb3f6d8385ce8a70406002804fb2",
+  "bundle_size": 2423030,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Tue Jul 29 2025 11:52:45 GMT+0800 (中国标准时间)",
+  "release_date": "Wed Jul 30 2025 11:35:22 GMT+0800 (中国标准时间)",
   "change_log": "新版上线",
   "images": [],
   "author": [
     "@bfmeta.info"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "categories": [
     "application"
   ],
