@@ -22,6 +22,14 @@
 			"metadata": "/bfmdex/metadata.json",
 			"dwebTarget3": "3-1.1.14",
 			"latest": "3-1.1.14"
+		},
+		"rwahub": {
+			"name": "Rwa Hub",
+			"logo": "/rwahub/logo.png",
+			"description": "Rwa Hub应用",
+			"metadata": "/rwahub/metadata.json",
+			"dwebTarget3": "3-1.1.0",
+			"latest": "3-1.1.0"
 		}
 	}
 }
