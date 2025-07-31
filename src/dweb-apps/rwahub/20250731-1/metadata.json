@@ -10,18 +10,18 @@
   "short_name": "BFM RWA",
   "description": "BFM RWA",
   "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/rwahub/logo.png",
-  "bundle_url": "./rwahub.bfmeta.com.dweb-1.0.3.zip",
-  "bundle_hash": "sha256:e84a20e97dcf110178536cd6460711fc49747a0dbb6a79d9c5d8002072c3c4a0",
-  "bundle_size": 2631931,
+  "bundle_url": "./rwahub.bfmeta.com.dweb-1.0.4.zip",
+  "bundle_hash": "sha256:8ef6c86ac19accbd222ae9188aae9ebcdb4f93234c70df11a26ee6bb1435cee0",
+  "bundle_size": 2630580,
   "bundle_signature": "",
   "public_key_url": "",
-  "release_date": "Thu Jul 31 2025 10:43:00 GMT+0800 (中国标准时间)",
+  "release_date": "Thu Jul 31 2025 11:48:03 GMT+0800 (中国标准时间)",
   "change_log": "新版上线",
   "images": [],
   "author": [
     "@bfmeta.info"
   ],
-  "version": "1.0.3",
+  "version": "1.0.4",
   "categories": [
     "application"
   ],
