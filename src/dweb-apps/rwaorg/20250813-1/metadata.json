@@ -35,7 +35,8 @@
   "lang": "",
   "icons": [
     {
-      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/rwaorg/logo.png"
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/rwaorg/logo.png",
+	  "purpose":"maskable"
     }
   ],
   "screenshots": [],
