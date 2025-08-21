@@ -28,8 +28,8 @@
 			"logo": "/rwahub/logo.png",
 			"description": "Rwa Hub应用",
 			"metadata": "/rwahub/metadata.json",
-			"dwebTarget3": "3-1.1.4",
-			"latest": "3-1.1.4"
+			"dwebTarget3": "3-1.1.9",
+			"latest": "3-1.1.9"
 		}
 	}
 }
