@@ -20,8 +20,8 @@
 			"logo": "/bfmdex/logo.webp",
 			"description": "BFM Dex应用",
 			"metadata": "/bfmdex/metadata.json",
-			"dwebTarget3": "3-1.1.21",
-			"latest": "3-1.1.21"
+			"dwebTarget3": "3-1.1.22",
+			"latest": "3-1.1.22"
 		},
 		"rwahub": {
 			"name": "Rwa Hub",
