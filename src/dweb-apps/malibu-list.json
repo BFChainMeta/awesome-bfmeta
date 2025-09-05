@@ -12,8 +12,8 @@
 				"logo": "/bfmpay/logo.webp",
 				"description": "BFM Pay应用",
 				"metadata": "/bfmpay/metadata.json",
-				"dwebTarget3": "3-1.0.1",
-				"latest": "3-1.0.1"
+				"dwebTarget3": "3-1.0.3",
+				"latest": "3-1.0.3"
 		},
 		"bfmdex": {
 			"name": "BFM Dex",
@@ -28,8 +28,8 @@
 			"logo": "/rwahub/logo.png",
 			"description": "Rwa Hub应用",
 			"metadata": "/rwahub/metadata.json",
-			"dwebTarget3": "3-1.1.18",
-			"latest": "3-1.1.18"
+			"dwebTarget3": "3-1.1.19",
+			"latest": "3-1.1.19"
 		}
 	}
 }
