@@ -1,0 +1,55 @@
+{
+  "id": "pay.nikola-x.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "X Pay",
+  "short_name": "X Pay",
+  "description": "X Pay is an easy - to - use digital wallet that provides you with a safe and convenient digital asset management experience. Whether you are a user of Ethereum, Tron, or other digital currencies, X Pay can meet your needs.\nFeatures:\n- Secure and Reliable: X Pay adopts advanced encryption technology to ensure the safety of your assets at all times.\n- Multi - chain Support: It supports multiple major blockchains, including Ethereum, Tron, Binance Chain, etc.\n- Easy Transfer: Transfer with one click and manage your digital assets anytime, anywhere.\n- Multi - language Support: It has a multi - language interface to meet the needs of users of different languages.",
+  "logo": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/xpay/logo.webp",
+  "bundle_url": "./pay.nikola-x.com.dweb-1.0.4.zip",
+  "bundle_hash": "sha256:11dc69b432271d29bb3125b2c39b38687405ae1ba133d8949011ea6a7ace140b",
+  "bundle_size": 29344791,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Thu May 15 2025 11:30:35 GMT+0800 (中国标准时间)",
+  "change_log": "1. The BTCMeta chain has been newly added, and functions such as transfer and receipt of funds for it are supported.\n2. Related bugs have been fixed.",
+  "images": [
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/xpay/desc_01.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/xpay/desc_02.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/xpay/desc_03.jpg",
+    "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/xpay/desc_04.jpg"
+  ],
+  "author": [
+    "@nikola-x.com"
+  ],
+  "version": "1.0.4",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "英文",
+    "中文",
+    "繁体中文"
+  ],
+  "homepage_url": "https://www.nikola-x.com",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/xpay/logo.webp"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "https://www.nikola-x.com"
+}
