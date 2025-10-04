@@ -1,0 +1,49 @@
+{
+  "id": "rwahub.bfmeta.com.dweb",
+  "server": {
+    "root": "/usr",
+    "entry": "/server/plaoc.server.js"
+  },
+  "minTarget": 3,
+  "maxTarget": 3,
+  "name": "BFM RWA",
+  "short_name": "BFM RWA",
+  "description": "BFM RWA",
+  "logo": "https://source.biw-meta.io/dwebbrowser-apps/dweb-app-assets/rwahub/logo.png",
+  "bundle_url": "./rwahub.bfmeta.com.dweb-1.1.26.zip",
+  "bundle_hash": "sha256:bdd7bef30aacbf18237f033c3b87dad746c1129aa47b38046734644236da29b5",
+  "bundle_size": 4912147,
+  "bundle_signature": "",
+  "public_key_url": "",
+  "release_date": "Sat Oct 04 2025 10:19:47 GMT+0800 (China Standard Time)",
+  "change_log": "新版上线",
+  "images": [],
+  "author": [
+    "@bfmeta.info"
+  ],
+  "version": "1.1.26",
+  "categories": [
+    "application"
+  ],
+  "languages": [
+    "中文"
+  ],
+  "homepage_url": "rwahub.bfmeta.info",
+  "plugins": [],
+  "permissions": [],
+  "dir": "ltr",
+  "lang": "",
+  "icons": [
+    {
+      "src": "https://source.dwebdapp.com/dweb-browser-apps/dweb-app-assets/rwahub/logo.png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "",
+  "background_color": "",
+  "shortcuts": [],
+  "home": "rwahub.bfmeta.info"
+}
