@@ -123,6 +123,10 @@
 		"USDM":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/ethm/icon-USDM"
     },
     "bfm": {
+		"HJT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-HJT.png",
+		"HJU":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-HJU.png",
+		"HJB":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-HJB.png",
+
 		"DEX":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-DEX.png",
 		"DED":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-DED.png",
 		"DEXT":"https://bfm-fonts-cdn.oss-cn-hongkong.aliyuncs.com/meta-icon/bfm/icon-DEXT.png",
